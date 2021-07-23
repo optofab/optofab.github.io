@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>{{page.title}}</h1>
+<p>
+  {{ page.date | date_to_string }} -
+  <!-- | first ? -->
+  {% assign filtered_author = site.authors | where: 'short_name', page.author |
+  first%} {%if filtered_author%}
+  <a href="{{filtered_author.url}}">{{ page.author }}</a>
+  {%endif%}
+</p>
+{{ content }}

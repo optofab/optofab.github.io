@@ -1,0 +1,16 @@
+---
+layout: default
+title: Staff
+---
+
+<h1>Team</h1>
+<ul>
+  {% for member in site.authors %}
+  <li>
+    <h2><a href="{{member.url}}">{{ member.name}}</a></h2>
+    <h3>{{member.position}}</h3>
+    <!-- use markdown to render content -->
+    <p>{{member.content | markdownify }}</p>
+  </li>
+  {% endfor %}
+</ul>

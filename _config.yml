@@ -1,0 +1,28 @@
+# set up some collections here in yml; needs reloading to take effect
+collections:
+  # the authors is corresponded with _authors folder
+  authors:
+    # by default, collections do not output a page for documents, tweak it by the following to generate a author.html:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Gemfile plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

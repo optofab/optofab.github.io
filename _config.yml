@@ -26,3 +26,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# add a theme here
+theme: jekyll-theme-architect

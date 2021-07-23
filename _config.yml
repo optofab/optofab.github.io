@@ -26,12 +26,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-<<<<<<< HEAD
 
 # add a theme here
 theme: jekyll-theme-architect
-=======
 #   - jekyll-include-cache
 # # use jekyll-minimal-mistakes
 # theme: minimal-mistakes-jekyll
->>>>>>> a3e5e81 (try 3rd-party theme)

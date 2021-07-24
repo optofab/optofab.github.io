@@ -76,7 +76,7 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 
 ### 2021 Semester 1 Showcase
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=Cy_le1e2qL8" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/Cy_le1e2qL8" ratio="16:9" %}
 
 ## Useful Links
 

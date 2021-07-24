@@ -72,6 +72,12 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 2. [Statement of Work](https://drive.google.com/file/d/136N5LGKgbLoKEDcFawSp8ytLfSmLs5-S/view?usp=sharing) signed on 09/03/2021
 3. [Statement of Work (updated)](https://drive.google.com/file/d/1ObDb_phD5_5nhAmHTEfmLhn0qp8kG-B2/view?usp=sharing) signed on 26/03/2021
 
+## Showcase Videos
+
+### 2021 Semester 1 Showcase
+
+{% include responsive-embed url="https://www.youtube.com/watch?v=Cy_le1e2qL8" ratio="16:9" %}
+
 ## Useful Links
 
 Here you can find the links to the repositories and tools that our team is using for this project:

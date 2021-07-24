@@ -95,6 +95,23 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path: ""
+      type: "workrecords"
+    values:
+      layout: "workrecord"
+      share: true
+
+# remember when creating a new folder, add it to the collections for output html files; otherwise it won't show
+collections:
+  "workrecords":
+    output: true
+  "retrospectives":
+    output: true
+  "projectstatus":
+    output: true
+  "decisionlogs":
+    output: true
 
 # Site Author
 author:

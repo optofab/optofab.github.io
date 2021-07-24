@@ -2,8 +2,8 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
+# - title: Posts
+#   url: /posts/
 # - title: Categories
 #   url: /categories/
 # - title: Tags
@@ -14,13 +14,13 @@
 #   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
-- title: Meetings
-  url: /meetings/
+# - title: Meetings
+#   url: /meetings/
 - title: Work Records
-  url: /work-records/
+  url: /workrecords/
 - title: Retrospectives
   url: /retrospectives/
 - title: Status
-  url: /project-status/
+  url: /projectstatus/
 - title: Decisions
-  url: /decision-logs/
+  url: /decisionlogs/

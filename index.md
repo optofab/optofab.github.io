@@ -8,21 +8,7 @@ layout: landing
 
 > Our ambition is to streamline the process for online orders and offline communications supported by the integration of a robust database design and user-friendly web-flow experience for our client.
 
-## Table of Contents
-
-- [Landing Page - TechLauncher2021 & ANFF OptoFab](#landing-page---techlauncher2021--anff-optofab)
-  - [Table of Contents](#table-of-contents)
-  - [Project Overview](#project-overview)
-    - [Project Requirement](#project-requirement)
-  - [Client](#client)
-  - [Project Mentor/Tutor](#project-mentortutor)
-  - [Core Team](#core-team)
-  - [Shadow Team](#shadow-team)
-  - [Roadmap](#roadmap)
-    - [2021 Semester 1](#2021-semester-1)
-    - [2021 Semester 2](#2021-semester-2)
-  - [Signed Documents](#signed-documents)
-  - [Useful Links](#useful-links)
+{% include toc %}
 
 ## Project Overview
 

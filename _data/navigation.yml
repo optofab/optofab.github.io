@@ -1,8 +1,26 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Team
-  link: /team.html
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Posts
+  url: /posts/
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
+- title: Meetings
+  url: /meetings/
+- title: Work Records
+  url: /work-records/
+- title: Retrospectives
+  url: /retrospectives/
+- title: Status
+  url: /project-status/
+- title: Decisions
+  url: /decision-logs/

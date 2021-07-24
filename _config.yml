@@ -81,6 +81,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jemoji
 
 paginate: 10 # amount of posts to show per page
 paginate_path: /page:num/

@@ -58,13 +58,13 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 
 ## Core Team
 
-:panda_face: **Wo Tian**: Spokesperson + Facilitator + Facilitator
-:beetle: **Tian(Phillip) Wu**: Deputy spokesperson + Developer
-:tiger: **Yaoyi(Grace) Xu**: Developer + Editor/Checker
-:rabbit: **Ruoqian(Raymond) Wu**: Developer + Innovator + Designer
-:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer + Planner + Checker
-:honeybee: **Guoyu(Ashley) Wang**: Developer + Planner + Checker
-:koala: **Hengrui(Henry) Xu**: Developer + Planner + Checker
+:panda_face: **Wo Tian**: Spokesperson + Facilitator + Facilitator<br>
+:beetle: **Tian(Phillip) Wu**: Deputy spokesperson + Developer<br>
+:tiger: **Yaoyi(Grace) Xu**: Developer + Editor/Checker<br>
+:rabbit: **Ruoqian(Raymond) Wu**: Developer + Innovator + Designer<br>
+:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer + Planner + Checker<br>
+:honeybee: **Guoyu(Ashley) Wang**: Developer + Planner + Checker<br>
+:koala: **Hengrui(Henry) Xu**: Developer + Planner + Checker<br>
 
 ## Shadow Team
 

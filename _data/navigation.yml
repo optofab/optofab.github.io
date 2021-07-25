@@ -10,8 +10,6 @@
   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-# - title: Search
-#   url: /search/
 - title: Meetings
   url: /meetings/
 - title: Work Records
@@ -22,6 +20,8 @@
   url: /projectstatus/
 # - title: Decisions
 #   url: /decisionlogs/
+- title: Search
+  url: /search/
 
 - title: Developing
   url: http://tl20212.cecs.anu.edu.au/home.html

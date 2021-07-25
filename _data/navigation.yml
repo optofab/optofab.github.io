@@ -16,8 +16,8 @@
   url: /meetings/
 - title: Work Records
   url: /workrecords/
-- title: Retrospectives
-  url: /retrospectives/
+# - title: Retrospectives
+#   url: /retrospectives/
 - title: Status
   url: /projectstatus/
 # - title: Decisions

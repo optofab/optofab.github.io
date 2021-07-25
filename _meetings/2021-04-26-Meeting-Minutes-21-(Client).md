@@ -2,8 +2,8 @@
 layout: post
 ---
 
-> Date: 23th April 2021
-> Time: 11:15-12:20pm
+> Date: 23th April 2021<br>
+> Time: 11:15-12:20pm<br>
 > Attendance: Wo Tian, Hengrui Xu, Guoyu Wang, Clients
 
 {% include toc %}

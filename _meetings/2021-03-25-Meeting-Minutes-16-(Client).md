@@ -2,8 +2,8 @@
 layout: page
 ---
 
-> Date: 25th March 2021
-> Time: 18:00pm - 19:30pm
+> Date: 25th March 2021<br>
+> Time: 18:00pm - 19:30pm<br>
 > Attendance: Wo Tian, Wu Tian, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu, Client
 
 {% include toc %}

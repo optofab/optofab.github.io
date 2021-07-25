@@ -20,8 +20,8 @@
   url: /retrospectives/
 - title: Status
   url: /projectstatus/
-- title: Decisions
-  url: /decisionlogs/
+# - title: Decisions
+#   url: /decisionlogs/
 
 - title: Developing
   url: http://tl20212.cecs.anu.edu.au/home.html

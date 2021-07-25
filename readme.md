@@ -1,5 +1,5 @@
-> Development
-  > To build and view this site locally, run: `bundle exec jekyll serve -w`
+> Development<br>
+  > - To build and view this site locally, run: `bundle exec jekyll serve -w`
 
 # Welcome to TechLauncher Season 2
 

@@ -1,3 +1,6 @@
+> Development
+  > To build and view this site locally, run: `bundle exec jekyll serve -w`
+
 # Welcome to TechLauncher Season 2
 
 <img src="./images/ANFFbanner.png" alt="optofab-banner">

@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - "Decision Making"
 last-modified-at: 2021-05-13
 ---
 

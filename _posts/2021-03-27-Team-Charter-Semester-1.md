@@ -1,7 +1,7 @@
 ---
 layout: post
 tag:
-  - charter
+  - "Team Charter"
 ---
 
 > **Team Mission and Objectives**<br>

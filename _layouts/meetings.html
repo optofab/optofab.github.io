@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<!-- not necessarily by year -->
+<!-- <ul class="taxonomy-index">
+  {% assign meetingsInYear = site.meetings | group_by_exp: 'meeting',
+  'meeting.date | date: "%Y"' %} {% for year in meetingsInYear %}
+  <li>
+    <a href="#{{ year.name }}">
+      <strong>{{ year.name }}</strong>
+      <span class="taxonomy-count">{{ year.items | size }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul> -->
+
+{% assign meetingsByYear = site.meetings | group_by_exp: 'meeting',
+'meeting.date | date: "%Y"' %} {% for year in meetingsByYear %}
+<section id="{{ year.name }}" class="taxonomy-section">
+  <h2 class="taxonomy-title">{{ year.name }}</h2>
+  <div class="entries-{{ page.entries_layout | default: 'list' }}">
+    {% for entry in year.items %} {% include entry.html %} {% endfor %}
+  </div>
+  <a href="#page-title" class="back-to-top"
+    >{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}
+    &uarr;</a
+  >
+</section>
+{% endfor %}

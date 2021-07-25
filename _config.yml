@@ -104,6 +104,8 @@ defaults:
 
 # remember when creating a new folder, add it to the collections for output html files; otherwise it won't show
 collections:
+  "meetings":
+    output: true
   "workrecords":
     output: true
   "retrospectives":

@@ -14,8 +14,8 @@
 #   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
-# - title: Meetings
-#   url: /meetings/
+- title: Meetings
+  url: /meetings/
 - title: Work Records
   url: /workrecords/
 - title: Retrospectives

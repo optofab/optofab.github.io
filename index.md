@@ -2,7 +2,7 @@
 layout: landing
 ---
 
-<img src="./images/ANFFbanner.png" alt="optofab-banner">
+<img src="./images/ANFFbanner.png" style="width: 90%"  alt="optofab-banner">
 
 # Landing Page - TechLauncher2021 & ANFF OptoFab
 

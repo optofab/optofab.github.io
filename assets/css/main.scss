@@ -3,6 +3,16 @@
 sitemap: false
 ---
 
+hr.hr-dotted {
+  border: none;
+  border-top: 10px dotted #808080;
+  color: #fff;
+  background-color: #fff;
+  height: 10px;
+  width: 15%;
+  opacity: 0.2;
+}
+
 @charset "utf-8";
 
 @import "so-simple";

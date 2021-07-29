@@ -133,6 +133,12 @@ entires_layout: list
     <td>show clients the webiste</td>
     <td>- needs to add a button for check if the client is a robot(in the next semester)<br>- delete the mission part in the layout<br>- need a link for the main home page：make it clear that this is the sub-page of the anff website.<br>- add a welcome paragraph <br>- the website needs to adjust the screen size</td>
   </tr>
+    <tr>
+    <td>July 23, 2021 <br>Meeting 1</td>
+    <td>Wo Tian <br>Deon Hickey<br>Johannes Eichholz  <br>Sukanta Debbarma  <br>Stephen Madden  </td>
+    <td>Discuss the Semester Plan<br>Finalise detail in to-do list regarding website enhancement</td>
+    <td>- Refine the to-do list<br>- Find out if attending the Team Formation Night is needed<br>- Meet Dr. Yu Lin for professional advice</td>
+  </tr>
 </table>
 
 ## Tutorials

@@ -120,14 +120,17 @@ collections:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
+  name: Team OptoFab @TechLauncher
+  picture: "/images/team-avatar.jpg"
+  email: "optofab.anu@gmail.com"
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: YouTube
+      url: https://www.youtube.com/channel/UCIIsJ4_yAvgD5NCqGoS8TQA
+      icon: fab fa-youtube
+    - title: Slack
+      url: https://comp8715anff.slack.com
+      icon: fab fa-slack
 
 # Footer Links
 footer_links:

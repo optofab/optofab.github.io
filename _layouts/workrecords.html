@@ -21,7 +21,7 @@ layout: page
 <section id="{{ year.name }}" class="taxonomy-section">
   <h2 class="taxonomy-title">{{ year.name }}</h2>
   <div class="entries-{{ page.entries_layout | default: 'list' }}">
-    {% for entry in year.items %} {% include entry.html %} {% endfor %}
+    {% for entry in year.items reversed %} {% include entry.html %} {% endfor %}
   </div>
   <a href="#page-title" class="back-to-top"
     >{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }}

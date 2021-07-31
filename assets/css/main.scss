@@ -13,6 +13,14 @@ hr.hr-dotted {
   opacity: 0.1;
 }
 
+.fof {
+  display: grid;
+  place-items: center;
+  background-color: #f1f1f1;
+  background-image: url("/images/404background.jpg");
+  margin: 0;
+}
+
 @charset "utf-8";
 
 @import "so-simple";

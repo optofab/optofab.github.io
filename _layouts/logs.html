@@ -21,17 +21,4 @@ layout: page
   = tag_counts | append: i %} {% endif %} {% endfor %} {% assign tag_names_array
   = tag_names_array | split: "|" %} {% assign tag_counts = tag_counts | split:
   "|" %}
-
-  <ul class="taxonomy-index">
-    {% for tag_names in tag_names_array %} {% assign tag_names_list = tag_names
-    | split: "," %} {% assign tag_count = tag_counts[forloop.index0] %} {% for
-    tag_name in tag_names_list %}
-    <li>
-      <a href="#{{ tag_name | slugify }}">
-        <strong>{{ tag_name }}</strong>
-        <span class="taxonomy-count">{{ tag_count }}</span>
-      </a>
-    </li>
-    {% endfor %} {% endfor %}
-  </ul>
 </div>

@@ -34,6 +34,52 @@ permalink: /logs/
 - Find out if attending the Team Formation Night is needed
 - Meet Dr. Yu Lin for professional advice
 
+#### Meeting 2
+
+| Date       | 30/07/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 3:00pm - 5:00pm                                                              |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+
+**AGENDA**
+
+- Discuss meeting time
+- Agile cake metaphore
+- Prepare to sign IP agreement and SOW next week
+- Pass on the message from Yu Lin (theoretical, complex, reduce functionalities)
+- Discuss the option of making a web application
+- Website refactoring
+- Discuss DB front-end
+
+**DISCUSSIONS**
+
+- Meeting on campus with Zoom on, 1:30pm Monday and 3:00pm Friday(optional).
+- Explain the concept of Agile so that they can understand we'll have to start with partial functionalities instead of all.
+- Web application front-end for the database - doable on localhost only, no LAN allowed(router/wireless network interface controller)
+- Refactor the website with React, why and how.
+- The importancy of finalizing all changes connected to functionalities next week.
+- Discuss the TODO list.
+- Discuss the front-end of the database web application
+	- default: sorted by action-required orders
+	- sort by urgent/action-required/date/status
+	- search by order number, organisation, client name, phone
+
+
+**ACTION**
+
+Our team:
+- Prepare SOW 
+- Research on backend implementation and the tree structure on the front-end
+- Build new relational schema
+- Refactor current website with React
+
+OptoFab:
+- DB schema: decide which fields need to be added to the part(edit)/order(calculated): Status(???), Urgent-bool(calculated), Description, Action required-bool(calculated), import date
+- Revision photonic coating page.
+- Prepare the IP agreement
+
+
+
 ### Group
 
 #### Meeting 1

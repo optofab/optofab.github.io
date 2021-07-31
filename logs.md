@@ -9,6 +9,31 @@ permalink: /logs/
 
 ### Client
 
+#### Meeting 1
+
+| Date       | 23/07/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 2:00pm - 3:45pm                                                              |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+
+**AGENDA**
+
+- Discuss the semester plan
+- Finalise detail in to-do list regarding website enhancement
+
+**DISCUSSIONS**
+
+- Discussed the plans for developing the web application and database management system in the semester.
+- Discussed the changes to be made on the web application.
+- Discussed the drafted relational scheme of the website.
+- Discussed the transported GitHub page.
+
+**ACTION**
+
+- Refine the to-do list
+- Find out if attending the Team Formation Night is needed
+- Meet Dr. Yu Lin for professional advice
+
 ### Group
 
 #### Meeting 1
@@ -21,12 +46,12 @@ permalink: /logs/
 **AGENDA**
 
 - Discuss the semester plan
-- Discuss the changes on the current web application
+- Discuss the changes on the current website
 
 **DISCUSSIONS**
 
 - Discussed the plans for developing the web application and database management system in the semester.
-- Discussed the changes to be made on the web application.
+- Discussed the changes to be made on the website.
 - Discussed the drafted relational scheme of the website.
 - Discussed the transported GitHub page.
 

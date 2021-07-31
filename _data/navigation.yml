@@ -2,26 +2,33 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
+# - title: Posts
+#   url: /posts/
+- title: Requirements
+  url: /project-requirements/
+- title: Status
+  url: /status/
+- title: Risk Assessment
+  url: /risk-assessment/
+- title: Team Charter
+  url: /team-charter/
 # - title: Categories
 #   url: /categories/
-- title: Archive
-  url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: Meetings
-  url: /meetings/
-- title: Work Records
-  url: /workrecords/
+# - title: Meetings
+#   url: /meetings/
+# - title: Work Records
+#   url: /workrecords/
 # - title: Retrospectives
 #   url: /retrospectives/
 # - title: Status
 #   url: /projectstatus/
 # - title: Decisions
 #   url: /decisionlogs/
+- title: Logs
+  url: /logs/
+- title: Product
+  url: http://tl20212.cecs.anu.edu.au/home.html
 - title: Search
   url: /search/
-
-- title: Developing
-  url: http://tl20212.cecs.anu.edu.au/home.html

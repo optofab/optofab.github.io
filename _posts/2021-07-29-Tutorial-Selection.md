@@ -1,7 +1,5 @@
 ---
 layout: post
-tag:
-  - "Tutorial"
 ---
 
 | Slots         | Wo  | Henry | Raymond | Grace | Eva | Ashley | Phillip |

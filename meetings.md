@@ -10,8 +10,6 @@ entires_layout: list
 
 ## Default timeslots and attendees
 
-### 2021 Semester 1
-
 | Category              | Default Timeslots      | Default Attendees |
 | --------------------- | ---------------------- | :---------------: |
 | First client meeting  | Tuesday 14:00 - 16:00  |   Team & client   |
@@ -20,8 +18,6 @@ entires_layout: list
 | Group meeting         | Flexible               |       Team        |
 
 ## Client Meetings
-
-### 2021 Semester 1
 
 <table>
   <tr>
@@ -143,8 +139,6 @@ entires_layout: list
 
 ## Tutorials
 
-### 2021 Semester 1
-
 <table>
   <tr>
     <th>Time</th>
@@ -173,8 +167,6 @@ entires_layout: list
 </table>
 
 ## Group Meetings
-
-### 2021 Semester 1
 
 <table>
   <tr>

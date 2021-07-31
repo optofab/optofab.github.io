@@ -7,6 +7,8 @@ permalink: /logs/
 
 ## Meeting Minutes
 
+[Previous semester](/meetings/)
+
 ### Client
 
 #### Meeting 1

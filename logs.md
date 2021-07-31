@@ -1,16 +1,17 @@
 ---
-title: Logs Archive
 layout: logs
 permalink: /logs/
-show_excerpts: true
-entries_layout: list
 ---
 
 {% include toc %}
 
 ## Meeting Minutes
 
-### Meeting 1
+### Client
+
+### Group
+
+#### Meeting 1
 
 | Date       | 28/07/2021                                                                    |
 | ---------- | ----------------------------------------------------------------------------- |
@@ -38,9 +39,15 @@ entries_layout: list
 - Wo: Communicate with Martin regarding the usage of React
 - Ruoqian, Hengrui: Refactor the website
 
+### Tutorial
+
 ## Work Records
 
-### Week 1: 25/07/2021 - 01/08/2021
+[Previous semester](/meetings)
+
+### Week 1
+
+**25/07/2021 - 01/08/2021**
 
 - Wo Tian
 
@@ -50,7 +57,7 @@ entries_layout: list
   - Consult with Dr. Yu Lin regarding database design
   - Meet with CSIT and discuss technical requirements
 
-<hr>
+<hr class="hr-dotted">
 
 - Tian Wu
 
@@ -60,35 +67,35 @@ entries_layout: list
   - Team meetings with teammates to plan out this semester's work.
   - Picking up JavaScript for later coding assignments for website implementation and optimization.
 
-<hr>
+<hr class="hr-dotted">
 
 - Ruoqian Wu
 
   - work 1
   - work 2
 
-<hr>
+<hr class="hr-dotted">
 
 - Yaoyi Xu
 
   - work 1
   - work 2
 
-<hr>
+<hr class="hr-dotted">
 
 - Hengrui Xu
 
   - work 1
   - work 2
 
-<hr>
+<hr class="hr-dotted">
 
 - Ruiqiao Jiang
 
   - work 1
   - work 2
 
-<hr>
+<hr class="hr-dotted">
 
 - Guoyu Wang
 
@@ -98,5 +105,7 @@ entries_layout: list
 ## Desision Making
 
 ## Retrospectives
+
+[Previous Semester](/retrospectives)
 
 ## Elevator Pitch

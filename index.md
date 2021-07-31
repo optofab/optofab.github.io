@@ -54,15 +54,11 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 
 ## Shadow Team
 
-- Project: [Cinefly](https://www.cinefly.io/)
-- Landing Page: https://sites.google.com/view/21-s1-2-c-cinema/
-- Team Repo: https://github.com/ch4ser/21-S1-2-C-Cinema
+- Team:
+- Landing Page: 
+- Team Repo: 
 
 ## Roadmap
-
-### 2021 Semester 1
-
-![2021S1 Roadmap](./images/roadmap-2021s1.jpg)
 
 ### 2021 Semester 2
 
@@ -86,6 +82,8 @@ Here you can find the links to the repositories and tools that our team is using
 
 | Link                                                                                                                          | Description                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [OptoFab Customer Portal](http://tl20212.cecs.anu.edu.au/home.html) | Our main product for placing, modifying and tracking an order.                |
+| [Confluence page](https://techlauncher.atlassian.net/wiki/spaces/TECHLAUNCH/overview?homepageId=294914) | Check out our landing page in 2021 Semester 1.                      |
 | [Google Drive for quick collaborations](https://drive.google.com/drive/folders/1M0pZ2kZg80FpKvoFc_t8RjgAF3gNdi9V?usp=sharing) | Our team uses Google Drive to make online polls, document collaborations, etc.                       |
 | [GitLab for team coding repo](https://gitlab.cecs.anu.edu.au/u7075880/comp8715-memo)                                          | ANU GitLab is a great place for our team to contribute our codes and work together.                  |
 | [Slack Channel to collaborate with client](http://comp8715anff.slack.com)                                                     | The Slack channel is used to provide a more user-friendly overview of our project.                   |

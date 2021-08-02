@@ -97,7 +97,7 @@ OptoFab:
 
 - Make changes to new Statement of work.
 - Show clients our landing page.
-- Discuss refactoring of the website. Clients want to do the website in a total different way that the whole website and the requirements needs to be rewritten. The rest of the meeting was discussing the new UI. The relational schema will have to be redone too. 
+- Discuss refactoring of the website. Clients want to do the website in a total different way now that we're using React. The whole website and the requirements needs to be rewritten. The rest of the meeting was discussing the new UI. The relational schema will have to be redone too. 
 
 **ACTION**
 

@@ -76,7 +76,7 @@ Our team:
 - Refactor current website with React
 
 OptoFab:
-- DB schema: decide which fields need to be added to the part(edit)/order(calculated): Status(???), Urgent-bool(calculated), Description, Action required-bool(calculated), import date
+- DB schema: decide which fields need to be added to the part(edit)/order(calculated): Status(TBD), Urgent-bool(calculated), Description, Action required-bool(calculated), import date.
 - Revision photonic coating page.
 - Prepare the IP agreement
 

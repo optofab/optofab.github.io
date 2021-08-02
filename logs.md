@@ -80,6 +80,34 @@ OptoFab:
 - Revision photonic coating page.
 - Prepare the IP agreement
 
+#### Meeting 3
+
+| Date       | 02/08/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 1:30pm - 4:00pm                                                              |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+
+**AGENDA**
+
+- Admin items
+- Discuss the photonic coating refinement
+- Discuss the database relational schema
+
+**DISCUSSIONS**
+
+- Make changes to new Statement of work.
+- Show clients our landing page.
+- Discuss refactoring of the website. Clients want to do the website in a total different way that the whole website and the requirements needs to be rewritten. The rest of the meeting was discussing the new UI. The relational schema will have to be redone too. 
+
+**ACTION**
+
+Our team:
+- Rewrite and tidy the new requirements.
+- Refactor the website.
+
+OptoFab:
+- Finalize requirements before our Friday meeting.
+
 
 
 ### Group

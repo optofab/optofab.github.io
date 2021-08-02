@@ -13,10 +13,10 @@ permalink: /logs/
 
 #### Meeting 1
 
-| Date       | 23/07/2021                                                                    |
-| ---------- | ----------------------------------------------------------------------------- |
-| Time       | 2:00pm - 3:45pm                                                              |
-| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+| Date       | 23/07/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 2:00pm - 3:45pm                                                           |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
 
 **AGENDA**
 
@@ -151,8 +151,8 @@ OptoFab:
 
 - Yaoyi Xu
 
-  - work 1
-  - work 2
+  - Drafted and edited the Statement of Work
+  - Helped with React Refactor project
 
 <hr class="hr-dotted">
 

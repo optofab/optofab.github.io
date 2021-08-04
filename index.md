@@ -30,6 +30,8 @@ layout: landing
 - Must be flexible enough to be modified and reused for future capabilities Must comply with ANU IT security requirements
 - ANU IT/Physics SCU must be consulted on design and implementation
 
+<a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
 ## Client
 
 | Name     | **ANFF OptoFab ACT**                                                                                                                                                                                         |
@@ -57,6 +59,8 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 - Team: Heart Decisions
 - Landing Page: https://sites.google.com/view/heart-decision-project/home
 - Team Repo:
+
+<a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ## Project Client Map
 
@@ -114,6 +118,8 @@ Mr Christie has over 20 years' experience in both industry innovations and proje
 [8] What is the 'Gap'/'Perceived Gap'?
 
 - The gap lies between the traditional way of doing businesses with phone calls, meetings, and emails, and the so called _Internet thinking_ model of making deals and scale up businesses. Once the website is set up with user-friendly interfaces, both the customers and the client can focus more on the product and services. On the other hand, the local database is also a booster for the clients' future business optimization.
+
+<a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ## Roadmap
 

@@ -38,10 +38,10 @@ permalink: /logs/
 
 #### Meeting 2
 
-| Date       | 30/07/2021                                                                    |
-| ---------- | ----------------------------------------------------------------------------- |
-| Time       | 3:00pm - 5:00pm                                                              |
-| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+| Date       | 30/07/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 3:00pm - 5:00pm                                                           |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
 
 **AGENDA**
 
@@ -62,30 +62,31 @@ permalink: /logs/
 - The importancy of finalizing all changes connected to functionalities next week.
 - Discuss the TODO list.
 - Discuss the front-end of the database web application
-	- default: sorted by action-required orders
-	- sort by urgent/action-required/date/status
-	- search by order number, organisation, client name, phone
-
+  - default: sorted by action-required orders
+  - sort by urgent/action-required/date/status
+  - search by order number, organisation, client name, phone
 
 **ACTION**
 
 Our team:
-- Prepare SOW 
+
+- Prepare SOW
 - Research on backend implementation and the tree structure on the front-end
 - Build new relational schema
 - Refactor current website with React
 
 OptoFab:
+
 - DB schema: decide which fields need to be added to the part(edit)/order(calculated): Status(TBD), Urgent-bool(calculated), Description, Action required-bool(calculated), import date.
 - Revision photonic coating page.
 - Prepare the IP agreement
 
 #### Meeting 3
 
-| Date       | 02/08/2021                                                                    |
-| ---------- | ----------------------------------------------------------------------------- |
-| Time       | 1:30pm - 4:00pm                                                              |
-| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden     |
+| Date       | 02/08/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 1:30pm - 4:00pm                                                           |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
 
 **AGENDA**
 
@@ -97,18 +98,18 @@ OptoFab:
 
 - Make changes to new Statement of work.
 - Show clients our landing page.
-- Discuss refactoring of the website. Clients want to do the website in a total different way now that we're using React. The whole website and the requirements needs to be rewritten. The rest of the meeting was discussing the new UI. The relational schema will have to be redone too. 
+- Discuss refactoring of the website. Clients want to do the website in a total different way now that we're using React. The whole website and the requirements needs to be rewritten. The rest of the meeting was discussing the new UI. The relational schema will have to be redone too.
 
 **ACTION**
 
 Our team:
+
 - Rewrite and tidy the new requirements.
 - Refactor the website.
 
 OptoFab:
+
 - Finalize requirements before our Friday meeting.
-
-
 
 ### Group
 
@@ -172,8 +173,9 @@ OptoFab:
 
 - Ruoqian Wu
 
-  - work 1
-  - work 2
+  - Drafted and edited the Statement of Work
+  - Started refactoring project with React
+  - Wrote the meeting minutes for group meetings
 
 <hr class="hr-dotted">
 
@@ -193,15 +195,16 @@ OptoFab:
 
 - Ruiqiao Jiang
 
-  - work 1
-  - work 2
+  - Created relational schema for SPTD
+  - Wrote the meeting minutes for group meetings
+  - Doing research on the back-end framework:Django,Node.js and C#
 
 <hr class="hr-dotted">
 
 - Guoyu Wang
 
-  - work 1
-  - work 2
+  - Created relational schema for SPTD
+  - Start learning .NET and C#
 
 ## Desision Making
 

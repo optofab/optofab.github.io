@@ -41,8 +41,7 @@ layout: landing
 
 ## Project Mentor/Tutor
 
-Our mentor is Mr **Timothy Christie**: <timothy.christie@anu.edu.au>.
-Mr Christie has over 20 years' experience in both industry innovations and project management. Mr Christie will guide our team and our project in every step of the way with regular tutorial and consultation meetings.
+Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 ## Core Team
 

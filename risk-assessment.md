@@ -4,13 +4,13 @@ tag:
   - "Risk Assessmet"
 ---
 
-> :warning: Dealing with security threats is of critical importance in our development of database and website applications. We adopt a framework from the NIST guide to provide strategies for evaluating and prioritizing security risks.
 
 {% include toc %}
 
 ## Background
 
-Two parallel components are at the center of our project: database design and website integration. Both of them are comprised of services and segments that are common targets in network security. For example, the database, wherever it’s hosted, is susceptible to malware attacks and illegal hacking. Meanwhile, the website can easily fall victim to threats such as denial of service (DoS) attacks.
+Unexpected events are inevitable. There could be many things, internally or externally, that affect the progress and result of the project. To mitigate the impacts of these risks, it is important to conduct a risk analysis upfront. This risk assessment will cover risks comming from the project management and technical aspects. Risk events are evaluated based on their likelihood and severity, and hence are classified as acceptable, tolerable, undesirable and intolerable.  
+<br>
 
 ## Risks Management
 
@@ -22,10 +22,14 @@ In accordance with the [Risk Management Guide for Information Technology Systems
 - Document existing controls
 - Identify improvements
 
+<br>
+
 ## Risk Rating
 
 ![Risk Rating](https://cdn-std.droplr.net/files/acc_498334/5F0zlJ)
 The above ratings are based on the likelihood of an event occurring (from most unlikely to most likely) and the severity of the issues that might arise if the event does occur (from trivial issues to major issues).
+
+<br>
 
 ## Project Management Risks
 
@@ -43,6 +47,8 @@ The above ratings are based on the likelihood of an event occurring (from most u
 - The product doesn’t meet stakeholders' expectations (Probable to Possible): agile methodology, integrating the prototype, and discuss with the clients many times.
 - Poor documentation (Probable to Possible): team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
 - Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): agile methodology, integrating the prototype, and discuss with the clients many times.
+
+<br>
 
 ## Technical Risks
 

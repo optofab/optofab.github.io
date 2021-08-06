@@ -188,8 +188,8 @@ OptoFab:
 
 - Hengrui Xu
 
-  - work 1
-  - work 2
+  - Started learning React
+  - Started refactoring project with React
 
 <hr class="hr-dotted">
 

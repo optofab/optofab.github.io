@@ -120,6 +120,10 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
+## Stakeholder analysis
+
+![stakeholder map](https://cdn-std.droplr.net/files/acc_498334/s1HRHL)
+
 ## Roadmap
 
 ### 2021 Semester 2

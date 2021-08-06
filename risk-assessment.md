@@ -4,7 +4,6 @@ tag:
   - "Risk Assessmet"
 ---
 
-
 {% include toc %}
 
 ## Background
@@ -54,7 +53,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ### Severity
 
-![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/8YKwNR)
+![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/TxLf6J)
 
 
 ### Approaches to mitigate risks:

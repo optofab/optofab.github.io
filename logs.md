@@ -172,7 +172,7 @@ OptoFab:
 - Wo: Communicate with Martin regarding the usage of React
 - Ruoqian, Hengrui: Refactor the website
 
-### Tutorial
+
 
 ## Work Records
 
@@ -184,9 +184,9 @@ OptoFab:
 
 - Wo Tian
 
-  - Host group meeetings and attend clients meetings.
-  - Integrate customers' suggestions for refining the website to a To-do list
-  - Write semester plan.
+  - Host group meetings and client meetings(~ 5 hours). Record 2 meeting minutes.
+  - Integrate customers' suggestions for refining the website to a To-do list (see meeting minutes for more information).
+  - Write a semester plan.
   - Consult with Dr. Yu Lin regarding database design
   - Meet with CSIT and discuss technical requirements
 
@@ -236,6 +236,102 @@ OptoFab:
 
   - Created relational schema for SPTD
   - Start learning .NET and C#
+
+### Week 2
+
+**02/08/2021 - 08/08/2021**
+
+- Wo Tian
+
+  - Host many group meetings and 2 clients meetings(~ 7 hours). Record 2 meeting minutes.
+  - Rewrite and tidy a new version of [website requirements](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing) according to feedback from clients.
+  - Find insufficient parts on the landing page and assign tasks to prepare for Audit1. Inspect the output and ask for refinement if needed.
+  - Refine IP agreement and SOW with clients, our tutor, and other team members.
+  - Assist in drafting relational schema.
+  - Research on building the offline web applications, including LAN, React, C#, .NET.
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  -
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  - 
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+  - 
+
+### Week 3
+
+**09/08/2021 - 15/08/2021**
+
+- Wo Tian
+
+  - 
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  -
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  - 
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+  - 
+
+
+
 
 ## Desision Making
 

@@ -61,6 +61,19 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
+## Communication Plan
+
+| Description  | Frequency  | Channel | Audience | 
+| -------- | ----------------|--------|----------|
+| Tutorial | Wednesday 5:00 - 7:00 PM on Week 2, 4, 5, 7, 9, 11, 12 | Zoom | All team members and tutor |
+| Audit | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10 | Zoom | All team members, tutor, and clients |
+| Client meeting | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM | In person | Project manager and clients |
+| Group meeting | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM | Zoom | All team members |
+| Shadow team meeting | ?? | Zoom | Spokespersons from both teams |
+| Updates and Q&A with clients | As needed | Slack, Email | Project manager and clients |
+| Updates and Q&A with tutor | As needed | Email | Spokespersons and tutor |
+| Updates and Q&A with team members | As needed | Wechat | All team members|
+
 ## Project Client Map
 
 <img src="https://cdn-std.droplr.net/files/acc_498334/4iXYY2" alt="Project Client Map" width="95%">

@@ -126,6 +126,8 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 ## Roadmap
 
+<img src="./images/roadmap-s2.png">
+
 ### 2021 Semester 2
 
 ## Signed Documents

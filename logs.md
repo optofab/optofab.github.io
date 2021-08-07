@@ -346,6 +346,4 @@ OptoFab:
 |6|2|Reflecting on feedback from the audits last semester, making PowerPoint presentations might be unnecessary work that might even distract us from refining the landing page.|Very carefully refine landing page for audit. Use the landing page to show our progress instead of PowerPoints.|All team members.|
 
 
-[Previous Semester](/retrospectives)
-
 

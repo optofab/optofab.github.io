@@ -187,8 +187,8 @@ OptoFab:
   - Host group meetings and client meetings(~ 5 hours). Record 2 meeting minutes.
   - Integrate customers' suggestions for refining the website to a To-do list (see meeting minutes for more information).
   - Write a semester plan.
-  - Consult with Dr. Yu Lin regarding database design
-  - Meet with CSIT and discuss technical requirements
+  - Consult with Dr. Yu Lin regarding database design.
+  - Communicate with IT department of RSPhys regarding technical requirements.
 
 <hr class="hr-dotted">
 
@@ -336,8 +336,16 @@ OptoFab:
 
 ## Desision Making
 
-## Retrospectives
+|**Index**|**Week**|**Retrospective/Rationale**|**Decision**|**Agreed by**|
+| ------- | -------|---------------------------|------------|------------ |
+|1|1|Confluence is too expensive given the current budget. Making a website on GitHub using templates is not too time-consuming.|Use GitHub to make our landing page this semester.|All team members.|
+|2|1|Reflecting on the collaboration last semester, not setting a fixed time for group meetings has caused trouble for some team members.|Setting a fixed time to meet twice a week. |All team members.|
+|3| 1 |Reflecting on our experience from last semester, we think that client meetings should not require all team members to attend, especially given the consideration that all team members have done this project for 1 semester and we all have a better idea of what the clients want now. |Only the project manager meets with clients 1-2 times a week.|All team members and clients.|
+|4|1|Due to the complex nature of physical components that OptoFab is manufacturing, the order placing process is highly dynamic. Since the IT department of RSPhys did not allow us to use React, the website development, especially debugging, is excruciating and the maintenance in the future is going to be hard for the IT department of RSPhys as well. Any tiny change of the UI or functionalities would require coding in multiple similar but different HTML files and create a hassle for the JavaScript part as well.  |Need to talk to IT department of RSPhys asap about using React. Inform clients about the importance of giving all requirements at once and make as little change to the functionalities as possible.|All team members.|
+|5|1|The IT department of RSPhys allowed us to use React. The changes(new requirements) need to be made in so many places that the developers think rewriting the entire website with React is quicker and neater than editing the old one. Clients agreed. |Refactor the website using React.|All team members, clients, IT department of RSPhys.|
+|6|2|Reflecting on feedback from the audits last semester, making PowerPoint presentations might be unnecessary work that might even distract us from refining the landing page.|Very carefully refine landing page for audit. Use the landing page to show our progress instead of PowerPoints.|All team members.|
+
 
 [Previous Semester](/retrospectives)
 
-## Elevator Pitch
+

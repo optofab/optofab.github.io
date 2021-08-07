@@ -82,14 +82,18 @@ tag:
 <strong>Punctual</strong>
 <strong>Respectful</strong>
 
-## Communication
+## Communication Plan
 
-- Text messages:
-  - Via WeChat among team members with 3 hours to acknowledge, 5 hours to respond.
-  - Via Slack/Email to communicate with the clients with 12 hours to acknowledge, 24 hours to respond.
-- Meetings:
-  - Among team members: Zoom, flexible time, weekly or twice a week, 1-2 hours.
-  - With clients: on-campus or via Zoom, Tuesday 2-4 pm (weekly), Thursday 6-7 pm (if needed)
+| Description  | Frequency  | Channel | Audience | 
+| -------- | ----------------|--------|----------|
+| Tutorial | Wednesday 5:00 - 7:00 PM on Week 2, 4, 5, 7, 9, 11, 12 | Zoom | All team members and tutor |
+| Audit | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10 | Zoom | All team members, tutor, and clients |
+| Client meeting | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM | In person | Project manager and clients |
+| Group meeting | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM | Zoom | All team members |
+| Shadow team meeting | ?? | Zoom | Spokespersons from both teams |
+| Updates and Q&A with clients | As needed | Slack, Email | Project manager and clients |
+| Updates and Q&A with tutor | As needed | Email | Spokespersons and tutor |
+| Updates and Q&A with team members | As needed | Wechat | All team members|
 
 ## Conflict Resolution Mechanisms
 

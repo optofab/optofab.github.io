@@ -246,6 +246,7 @@ OptoFab:
   - Host many group meetings and 2 clients meetings(~ 7 hours). Record 2 meeting minutes.
   - Rewrite and tidy a new version of [website requirements](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing) according to feedback from clients.
   - Find insufficient parts on the landing page and assign tasks to prepare for Audit1. Inspect the output and ask for refinement if needed.
+  - Draft and maintain Decision making log / Retrospective, communication plan.
   - Refine IP agreement and SOW with clients, our tutor, and other team members.
   - Assist in drafting relational schema.
   - Research on building the offline web applications, including LAN, React, C#, .NET.

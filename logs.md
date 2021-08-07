@@ -32,7 +32,7 @@ permalink: /logs/
 
 **ACTION**
 
-- Refine the to-do list
+- Refine the [To-do list](https://docs.google.com/document/d/1mwsWN-H-uBbPeM5wLQbboQgIgA2XRw6h_Kf8OV1vVms/edit?usp=sharing)
 - Find out if attending the Team Formation Night is needed
 - Meet Dr. Yu Lin for professional advice
 
@@ -73,6 +73,7 @@ Our team:
 - Prepare SOW
 - Research on backend implementation and the tree structure on the front-end
 - Build new relational schema
+- Refine the new [To-do list](https://docs.google.com/document/d/1btwHi3eLopXiOm5xvuh0cMI4QKRlClxouno7whJlSls/edit?usp=sharing)
 - Refactor current website with React
 
 OptoFab:
@@ -104,12 +105,42 @@ OptoFab:
 
 Our team:
 
-- Rewrite and tidy the new requirements.
+- Rewrite and tidy the [new requirements](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing).
 - Refactor the website.
 
 OptoFab:
 
 - Finalize requirements before our Friday meeting.
+
+#### Meeting 4
+
+| Date       | 06/08/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 3:00pm - 6:00pm                                                           |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Admin items
+- Discuss the new structure of the website
+
+**DISCUSSIONS**
+
+- Made some changes to the IP agreement and SOW.
+- Inform clients about the tutorial details and audit 1.
+- Finished restructuring Optical coating and SPDT. Photonic TBD.
+
+**ACTION**
+
+Our team:
+
+- Rewrite and tidy the [new requirements](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing).
+- Refactor the website.
+- Start relational schema design.
+
+OptoFab:
+
+- Finalize requirements before the next meeting. 
 
 ### Group
 

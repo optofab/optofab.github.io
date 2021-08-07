@@ -141,8 +141,6 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 <img src="./images/roadmap-s2.png">
 
-### 2021 Semester 2
-
 ## Signed Documents
 
 1. [Project Agreement](https://drive.google.com/file/d/1d-dv9QYfchaAuyeaZ1bGPv77MKXE73Fa/view?usp=sharing) signed on 09/03/2021

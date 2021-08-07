@@ -45,13 +45,13 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 ## Core Team
 
-:panda_face: **Wo Tian**: Spokesperson + Facilitator + Facilitator<br>
-:beetle: **Tian(Phillip) Wu**: Deputy spokesperson + Developer<br>
-:tiger: **Yaoyi(Grace) Xu**: Developer + Editor/Checker<br>
-:rabbit: **Ruoqian(Raymond) Wu**: Developer + Innovator + Designer<br>
-:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer + Planner + Checker<br>
-:honeybee: **Guoyu(Ashley) Wang**: Developer + Planner + Checker<br>
-:koala: **Hengrui(Henry) Xu**: Developer + Planner + Checker<br>
+:panda_face: **Wo Tian**: Project manager, Spokesperson, Developer <br>
+:beetle: **Tian(Phillip) Wu**: Deputy spokesperson, Developer<br>
+:tiger: **Yaoyi(Grace) Xu**: Developer, Editor, Checker<br>
+:rabbit: **Ruoqian(Raymond) Wu**: Developer, Innovator, Designer<br>
+:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer, Planner, Checker<br>
+:honeybee: **Guoyu(Ashley) Wang**: Developer, Planner, Checker<br>
+:koala: **Hengrui(Henry) Xu**: Developer, Planner, Checker<br>
 
 ## Shadow Team
 

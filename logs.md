@@ -274,7 +274,9 @@ OptoFab:
 
 - Hengrui Xu
 
-  -
+  - Created roadmap
+  - Attended workshop, group meeting and toturial
+  - Refactoring website with React
 
 <hr class="hr-dotted">
 

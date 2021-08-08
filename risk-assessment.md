@@ -34,19 +34,22 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ![Project Management Risks](https://cdn-std.droplr.net/files/acc_498334/RvxShT)
 
-### Attempted approaches to mitigate risks:
+### Attempted Approaches to mitigate risks:
 
-- Poor productivity (Possible to improbable): task tracking procedure
-- Lack of ownership (Improbable to impossible): signed the IP agreement
+- Poor productivity (Possible to improbable): task tracking procedure，this semester we change the mode of meeting:last semester all the team members meet with clients,while this semester only one team member meet with the clients,then others can focus on developing the website and database
+- Lack of ownership (Improbable to impossible): signed the IP contract
 - Low stakeholder engagement (Probable to improbable): active communication, set agendas before meetings so everyone can be more prepared, lucky to have nice stakeholders
 - Inadequate risk assessment (Probable to improbable): research and open for advice
 - The ANU tech support can’t be reached: drop-in, via email, via clients, in progress
 - Inaccurate estimation of the timeframe (Probable to Possible): from communication to get to know the details of the project more
 - The product doesn’t meet stakeholders' expectations (Probable to Possible): agile methodology, integrating the prototype, and discuss with the clients many times.
-- Poor documentation (Probable to Possible): create team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
-- Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): using agile methodology, integrating the prototype, frequent and active communication with clients, be very clear about the harm of change requirements frequently.
-- Team member turnover: maintaining a harmonious communication environment
-### Future approaches to mitigate risks:
+- Poor documentation (Probable to Possible): team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
+- Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): using agile methodology, integrating the prototype, frequent and active communication with clients
+- Team member turnover: maintaining a harmony communication environment
+
+### Future Approaches to mitigate risks:
+
+- Unfamiliar with new programming tools:such as C#,React (Possible to Less Possible):every team member will make sure they spend at least 7 hours per week on learning new programming tools.
 
 
 <br>

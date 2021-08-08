@@ -186,9 +186,9 @@ OptoFab:
 
 **DISCUSSIONS**
 
-- Discussed the plans for developing the web application and database management system for next week.
-- Discussed new changes to be made on the web application.
-- Discussed the detailed database user interface.
+- Discussed the plans for developing the web application and database management system for next week
+- Discussed new changes to be made on the web application
+- Discussed the detailed database user interface
 
 **ACTION**
 
@@ -201,7 +201,7 @@ OptoFab:
 
 | Date       | 02/08/2021                                                                    |
 | ---------- | ----------------------------------------------------------------------------- |
-| Time       | 6:30pm - 10:00pm                                                              |
+| Time       | 6:30pm - 7:10pm                                                              |
 | Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
 
 **AGENDA**
@@ -217,8 +217,8 @@ OptoFab:
 **ACTION**
 
 - Continue working on website refactor
-- Stop creating relational schema until we get the detailed users’ needs
-- Doing research on how to use C#
+- Stop creating relational schema until we get the detailed requirements
+- Doing research on database web application development tools
 - Assign tasks to everyone and prepare for the audit
 
 #### Meeting 4
@@ -232,19 +232,19 @@ OptoFab:
 
 - Discuss the next week plan
 - Discuss the changes on the current web application
-- Discuss the IP Agreement
+- Discuss the IP Agreement and SOW
 
 **DISCUSSIONS**
 
-- Discussed the plans for developing the web application for next week.
-- Discussed new changes to be made on the web application.
+- Discussed the plans for developing the web application for next week
+- Discussed new changes to be made on the web application
 - Discussed the changes on IP Agreement
 
 **ACTION**
 
 - Continue working on website refactor
-- Every team member will sign the IP Agreement.
-- Continue preparing for Audit 1
+- Every team member will need to sign the IP Agreement and SOW
+- Preparing for Audit 1
 
 ## Work Records
 

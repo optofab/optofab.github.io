@@ -63,16 +63,16 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 ## Communication Plan
 
-| Description  | Frequency  | Channel | Audience | 
-| -------- | ----------------|--------|----------|
-| Tutorial | Wednesday 5:00 - 7:00 PM on Week 2, 4, 5, 7, 9, 11, 12 | Zoom | All team members and tutor |
-| Audit | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10 | Zoom | All team members, tutor, and clients |
-| Client meeting | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM | In person | Project manager and clients |
-| Group meeting | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM | Zoom | All team members |
-| Shadow team meeting | ?? | Zoom | Spokespersons from both teams |
-| Updates and Q&A with clients | As needed | Slack, Email | Project manager and clients |
-| Updates and Q&A with tutor | As needed | Email | Spokespersons and tutor |
-| Updates and Q&A with team members | As needed | Wechat | All team members|
+| Description                       | Frequency                                              | Channel      | Audience                             |
+| --------------------------------- | ------------------------------------------------------ | ------------ | ------------------------------------ |
+| Tutorial                          | Wednesday 5:00 - 7:00 PM on Week 2, 4, 5, 7, 9, 11, 12 | Zoom         | All team members and tutor           |
+| Audit                             | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10              | Zoom         | All team members, tutor, and clients |
+| Client meeting                    | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM       | In person    | Project manager and clients          |
+| Group meeting                     | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM       | Zoom         | All team members                     |
+| Shadow team meeting               | ??                                                     | Zoom         | Spokespersons from both teams        |
+| Updates and Q&A with clients      | As needed                                              | Slack, Email | Project manager and clients          |
+| Updates and Q&A with tutor        | As needed                                              | Email        | Spokespersons and tutor              |
+| Updates and Q&A with team members | As needed                                              | Wechat       | All team members                     |
 
 ## Project Client Map
 
@@ -164,7 +164,7 @@ Here you can find the links to the repositories and tools that our team is using
 | [OptoFab Customer Portal](http://tl20212.cecs.anu.edu.au/home.html)                                                           | Our main **product** for placing, modifying and tracking an online order.                            |
 | [GitHub Pages - landing page](https://optofab.github.io/)                                                                     | Our landing page in 2021 Semester 2.                                                                 |
 | [Google Drive for quick collaborations](https://drive.google.com/drive/folders/1M0pZ2kZg80FpKvoFc_t8RjgAF3gNdi9V?usp=sharing) | Our team uses Google Drive to make online polls, document collaborations, etc.                       |
-| [GitHub - team coding repo](https://gitlab.cecs.anu.edu.au/u7075880/comp8715-memo)                                            | Currently we are focusing on front-end development using `React.js`                                  |
+| [GitHub - team coding repo](https://github.com/swingrope/optofab-website)                                                     | Currently we are focusing on front-end development using `React.js`                                  |
 | [Slack Channel to collaborate with client](http://comp8715anff.slack.com)                                                     | The Slack channel is used to provide a more user-friendly overview of our project.                   |
 | [Miro for prototype design](https://miro.com/app/board/o9J_lPISVWY=)                                                          | The Miro whiteboard is a convenient tool to visualise interface designs quickly and collaboratively. |
 | [Mockplus for website design](https://app.mockplus.cn/s/KhYir6nf92Z)                                                          | Our team uses the Mockplus to work on quick and responsive website mockups collaboratively.          |

@@ -46,6 +46,8 @@ The above ratings are based on the likelihood of an event occurring (from most u
 - Poor documentation (Probable to Possible): create team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
 - Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): using agile methodology, integrating the prototype, frequent and active communication with clients, be very clear about the harm of change requirements frequently.
 - Team member turnover: maintaining a harmonious communication environment
+### Future approaches to mitigate risks:
+
 
 <br>
 

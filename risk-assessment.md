@@ -32,7 +32,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ## Project Management Risks
 
-![Project Management Risks](https://cdn-std.droplr.net/files/acc_498334/uj1MY7)
+![Project Management Risks](https://cdn-std.droplr.net/files/acc_498334/RvxShT)
 
 ### Approaches to mitigate risks:
 
@@ -55,15 +55,13 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/TxLf6J)
 
-
 ### Approaches to mitigate risks:
 
-- The website is not compatible with the ANU server: 
-<br> Communicate with the ANU IT department early before deployment.
-- Retrived order request form information do not match with attributes:
-<br> Properly name all the fields in the form to avoid loss of information or confusion.
-- Uploaded attachments do not match with correct customer when submitting the form simultaneously:
-<br> Assign each customer a unique identifier when they upload the files. 
+- The website is not compatible with the ANU server:<br> Communicate with the ANU IT department early before deployment.
+
+- Retrived order request form information do not match with attributes:<br> Properly name all the fields in the form to avoid loss of information or confusion.
+
+- Uploaded attachments do not match with correct customer when submitting the form simultaneously:<br> Assign each customer a unique identifier when they upload the files.
 
 ### Typical Threats Analysis
 

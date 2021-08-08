@@ -32,7 +32,7 @@ tag:
   <tr>
     <td>Wo Tian</td>
     <td>Project manager<br>Spokesperson<br>Developer</td>
-    <td>- Communicate with all stakeholders, including team members, clients, tutor, shadow team, convenors, CSIT. <br>- Host internal and external meetings, including preparing for agendas, concluding meeting dicussion to files, writing meeting minutes. <br>- Inspect all products and landing page, locate insufficient parts and either refine or assign tasks to team members. <br>- Audit preperation and presentation. <br>- Offline database web applicaiton development. </td>
+    <td>- Communicate with all stakeholders, including team members, clients, tutor, shadow team, convenors, CSIT, and the IT department of RSPhys. <br>- Host internal and external meetings, including preparing for agendas, concluding meeting dicussion to files, writing meeting minutes. <br>- Inspect all products and landing page, locate insufficient parts and either refine or assign tasks to team members. <br>- Audit preperation and presentation. <br>- Offline database web applicaiton development. </td>
   </tr>
   <tr>
     <td>Tian Wu</td>
@@ -90,7 +90,7 @@ tag:
 | Audit                             | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10              | Zoom         | All team members, tutor, and clients |
 | Client meeting                    | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM       | In person    | Project manager and clients          |
 | Group meeting                     | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM       | Zoom         | All team members                     |
-| Shadow team meeting               | ??                                                     | Zoom         | Spokespersons from both teams        |
+| Shadow team meeting               | TBD                                                    | Zoom         | Spokespersons from both teams        |
 | Updates and Q&A with clients      | As needed                                              | Slack, Email | Project manager and clients          |
 | Updates and Q&A with tutor        | As needed                                              | Email        | Spokespersons and tutor              |
 | Updates and Q&A with team members | As needed                                              | Wechat       | All team members                     |

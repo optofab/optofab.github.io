@@ -69,7 +69,7 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 | Audit                             | Wednesday 6:30 - 7:00 PM on Week 3, 6, 10              | Zoom         | All team members, tutor, and clients |
 | Client meeting                    | Monday 1:30 - 4:00 PM <br> Friday 3:00 - 6:00 PM       | In person    | Project manager and clients          |
 | Group meeting                     | Monday 8:00 - 8:30 PM <br> Friday 9:00 - 9:30 PM       | Zoom         | All team members                     |
-| Shadow team meeting               | ??                                                     | Zoom         | Spokespersons from both teams        |
+| Shadow team meeting               | TBD                                                    | Zoom         | Spokespersons from both teams        |
 | Updates and Q&A with clients      | As needed                                              | Slack, Email | Project manager and clients          |
 | Updates and Q&A with tutor        | As needed                                              | Email        | Spokespersons and tutor              |
 | Updates and Q&A with team members | As needed                                              | Wechat       | All team members                     |
@@ -90,9 +90,8 @@ For detailed analysis, please click this [PCM link]({% post_url 2021-08-06-PCM %
 
 ## Signed Documents
 
-1. [Project Agreement](https://drive.google.com/file/d/1d-dv9QYfchaAuyeaZ1bGPv77MKXE73Fa/view?usp=sharing) signed on 09/03/2021
-2. [Statement of Work](https://drive.google.com/file/d/136N5LGKgbLoKEDcFawSp8ytLfSmLs5-S/view?usp=sharing) signed on 09/03/2021
-3. [Statement of Work (updated)](https://drive.google.com/file/d/1ObDb_phD5_5nhAmHTEfmLhn0qp8kG-B2/view?usp=sharing) signed on 26/03/2021
+1. [IP Agreement](https://drive.google.com/file/d/12rgwSPgemu6QXGw0aGcGvGf38F81438s/view?usp=sharing) to be signed by clients
+2. [Statement of Work](https://drive.google.com/file/d/1vpqhioHUuabKZ8ZHjsuap7i5kvkgU_nz/view?usp=sharing) to be signed by clients
 
 ## Showcase Videos
 

@@ -34,7 +34,9 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ![Project Management Risks](https://cdn-std.droplr.net/files/acc_498334/RvxShT)
 
-### Approaches to mitigate risks:
+### Attempted approaches to mitigate risks:
+
+### Future approaches to mitigate risks:
 
 - Poor productivity (Possible to improbable): task tracking procedure
 - Lack of ownership (Improbable to impossible): signed the IP contract
@@ -55,7 +57,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/TxLf6J)
 
-### Approaches to mitigate risks:
+### Future approaches to mitigate risks:
 
 - The website is not compatible with the ANU server:<br> Communicate with the ANU IT department early before deployment.
 

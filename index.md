@@ -74,11 +74,11 @@ Our mentor this semester is **Greg Bek**: <Greg.Bek@anu.edu.au>
 | Updates and Q&A with tutor        | As needed                                              | Email        | Spokespersons and tutor              |
 | Updates and Q&A with team members | As needed                                              | Wechat       | All team members                     |
 
-## Project Client Map
+## Problematisation analysis using PCM
 
 <img style="display:block;margin:auto;width:80%" src="https://cdn-std.droplr.net/files/acc_498334/4iXYY2" alt="Project Client Map">
 
-For detailed analysis, please click this [PCM link]({% post_url 2021-08-06-PCM %})
+For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM %})
 
 ## Stakeholder analysis
 

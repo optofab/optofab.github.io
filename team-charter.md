@@ -62,7 +62,7 @@ tag:
   <tr>
     <td>Hengrui Xu</td>
     <td>Developer<br>Designer<br>Checker</td>
-    <td>- Design and prototype the website interface<br>- Edit Product Requirements<br>- Provide ideas</td>
+    <td>- Design and prototype the website interface<br>- Develop front end of the website<br>- Provide ideas</td>
   </tr>
 </table>
 

@@ -71,7 +71,7 @@ MySQL | - Database |
 
 ## Assumptions
 
-- Customers understand the meanings of parameters in the orders they submit
+- Customers have a technical background in physics or engineering, understand the meanings of parameters in the request form
 
 - Customers will submit and track their order on the website
 

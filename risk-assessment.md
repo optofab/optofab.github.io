@@ -49,7 +49,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ### Future Approaches to mitigate risks:
 
-- Unfamiliar with new programming tools:such as C#,React (Possible to Less Possible):every team member will make sure they spend at least 7 hours per week on learning new programming tools.
+- Poor productivity caused by unfamiliarity with the programming tools that are going to be used, such as C#, .NET, React: preferably use the technology stack that most team members use, otherwise more time will need to be scheduled to learn
 
 
 <br>

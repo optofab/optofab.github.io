@@ -36,7 +36,24 @@ tag:
   - [User Story] Steve wants to search for data entries by an attribute, so that he can retrive information efficiently.
   - [Importance] :red_circle:
 
+<hr class="hr-dotted">
 
+- [Requirement] ANFF staffs can sort the data entries
+  - [User Story] Steve wants to sort the data entries by an attribute, so that he can compare the similar data.
+  - [Importance] :red_circle:
+
+<hr class="hr-dotted">
+
+- [Requirement] ANFF staffs can use the database offline
+  - [User Story] ANFF staffs want to use the database without internet connection, so that the data security can be guaranteed.
+  - [Importance] :red_circle:
+
+<hr class="hr-dotted">
+
+- [Requirement] ANFF staffs can see the inofrmation about an order
+  - [User Story] Steve wants to see the information about an order, so that he can understand what the customers need.
+  - [Importance] :red_circle:
+  
 ### Technical Requirements 
 
 | Languange/Tool | Application Field                                                                            | Extra Packages/Libraries |

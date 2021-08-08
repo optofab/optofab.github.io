@@ -14,9 +14,9 @@ layout: landing
 
 | Local Database                                                                         | [Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Store client order specifications, links of metrology and operational information               | Lodge client orders over the internet and assign anonymous identification      |
+| Store client order specifications, links of metrology and operational information      | Lodge client orders over the internet and assign anonymous identification      |
 | Import orders and RFQ’s submitted on the ANFF Optofab website                          | Allow staff to update the operational status of ANFF facilities                |
-| Track costs and usages of materials and services                                       | Show order status by order number on the web page on demand               |
+| Track costs and usages of materials and services                                       | Show order status by order number on the web page on demand                    |
 | Supporting documentation e.g: Materials Transfer Agreements, Billing Information, etc. | A means for clients to attach documents and specifications as part of an order |
 
 ### Project Requirement
@@ -35,9 +35,9 @@ layout: landing
 
 ## Client
 
-| Name     | **ANFF OptoFab ACT**                                                                                                                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Website  | http://optofab-act.org.au                                                                                                                                                                                    |
+| Name     | **ANFF OptoFab ACT**                                                                                                                                                                           |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Website  | http://optofab-act.org.au                                                                                                                                                                      |
 | Contacts | Johannes Eichholz: <johannes.eichholz@anu.edu.au><br> Deon Hickey: <Deon.Hickey@anu.edu.au><br> Steve Madden: <stephen.madden@anu.edu.au><br> Sukanta Debbarma : <debbarma.sukanta@anu.edu.au> |
 
 ## Project Mentor/Tutor
@@ -82,7 +82,7 @@ For detailed analysis, please click this [PCM link]({% post_url 2021-08-06-PCM %
 
 ## Stakeholder analysis
 
-<img style="display:block;margin:auto;width:70%" src="https://cdn-std.droplr.net/files/acc_498334/s1HRHL" alt="stakeholder analysis">
+<img style="display:block;margin:auto;width:70%" src="https://cdn-std.droplr.net/files/acc_498334/n2d8um" alt="stakeholder analysis">
 
 ## Roadmap
 

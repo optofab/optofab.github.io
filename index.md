@@ -6,7 +6,7 @@ layout: landing
 
 # Landing Page - TechLauncher2021 & ANFF OptoFab
 
-> Our ambition is to streamline the process for online orders and offline communications supported by the integration of a robust database design and user-friendly web-flow experience for our client.
+> Our ambition is to streamline the process for online orders and offline communications supported by the integration of a robust database design and user-friendly web-flow experience for our clients.
 
 {% include toc %}
 
@@ -14,21 +14,22 @@ layout: landing
 
 | Local Database                                                                         | [Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Store client order specifications, metrology and operational information               | Lodge client orders over the internet and assign anonymous identification      |
+| Store client order specifications, links of metrology and operational information               | Lodge client orders over the internet and assign anonymous identification      |
 | Import orders and RFQ’s submitted on the ANFF Optofab website                          | Allow staff to update the operational status of ANFF facilities                |
-| Track costs and usages of materials and services                                       | Show live order status by order number on the web page on demand               |
+| Track costs and usages of materials and services                                       | Show order status by order number on the web page on demand               |
 | Supporting documentation e.g: Materials Transfer Agreements, Billing Information, etc. | A means for clients to attach documents and specifications as part of an order |
 
 ### Project Requirement
 
 - Lodge client orders over the internet and assign anonymous identification
 - Allow staff to update the operational status of ANFF facilities
-- Show live order status by order number on the web page on demand
+- Show order status by order number on the web page on demand
 - A means for clients to attach documents and specifications as part of an order
 - Must be easily maintained and modified by untrained non-IT staff
 - Must be intuitive for both clients and users
-- Must be flexible enough to be modified and reused for future capabilities Must comply with ANU IT security requirements
-- ANU IT/Physics SCU must be consulted on design and implementation
+- Must be flexible enough to be modified and reused for future capabilities
+- Must comply with ANU IT security requirements
+- CSIT and the IT department of RSPhys must be consulted on design and implementation
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
@@ -37,11 +38,11 @@ layout: landing
 | Name     | **ANFF OptoFab ACT**                                                                                                                                                                                         |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Website  | http://optofab-act.org.au                                                                                                                                                                                    |
-| Contacts | Dr Johannes Eichholz: <johannes.eichholz@anu.edu.au><br>Mr Deon Hickey: <Deon.Hickey@anu.edu.au><br>A/Prof. Steve Madden: <stephen.madden@anu.edu.au><br>Mr Sukanta Debbarma : <debbarma.sukanta@anu.edu.au> |
+| Contacts | Johannes Eichholz: <johannes.eichholz@anu.edu.au><br> Deon Hickey: <Deon.Hickey@anu.edu.au><br> Steve Madden: <stephen.madden@anu.edu.au><br> Sukanta Debbarma : <debbarma.sukanta@anu.edu.au> |
 
 ## Project Mentor/Tutor
 
-Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
+Our mentor this semester is **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 ## Core Team
 
@@ -57,7 +58,6 @@ Our mentor this semester is Mr **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 - Team: Heart Decisions
 - Landing Page: https://sites.google.com/view/heart-decision-project/home
-- Team Repo:
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 

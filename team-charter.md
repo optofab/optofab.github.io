@@ -42,7 +42,7 @@ tag:
   <tr>
     <td>Yaoyi Xu</td>
     <td>Developer<br>Designer<br>Editor</td>
-    <td>- website backend development<br>- Write or edit the following documentations: Statement of Work, group meeting minutes, Product Requirements and Project Status.</td>
+    <td>- Website backend development<br>- Write or edit the following documentations: Statement of Work, group meeting minutes, Product Requirements and Project Status.</td>
   </tr>
   <tr>
     <td>Ruoqian Wu</td>

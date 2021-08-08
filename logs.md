@@ -140,7 +140,7 @@ Our team:
 
 OptoFab:
 
-- Finalize requirements before the next meeting. 
+- Finalize requirements before the next meeting.
 
 ### Group
 
@@ -149,7 +149,7 @@ OptoFab:
 | Date       | 28/07/2021                                                                    |
 | ---------- | ----------------------------------------------------------------------------- |
 | Time       | 9:30pm - 11:00pm                                                              |
-| Attendance | Wo Tian, Wu Tian, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
 
 **AGENDA**
 
@@ -171,8 +171,6 @@ OptoFab:
 - Phillip, Wo: Refine landing page
 - Wo: Communicate with Martin regarding the usage of React
 - Ruoqian, Hengrui: Refactor the website
-
-
 
 ## Work Records
 
@@ -255,37 +253,41 @@ OptoFab:
 
 - Tian Wu
 
-  -
+  - Attending groups meeting, communicating with shadow team
+  - Attending problematisation workshop and weekly tutorial
+  - Adjusting landing pages layout and resources
+  - Conducting Project Client Map (PCM) analysis
 
 <hr class="hr-dotted">
 
 - Ruoqian Wu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Hengrui Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
 
-  - 
+  - Wrote the meeting minutes for group meetings
+  - Edited the project management risk assessment
 
 <hr class="hr-dotted">
 
 - Guoyu Wang
 
-  - 
+  -
 
 ### Week 3
 
@@ -293,7 +295,7 @@ OptoFab:
 
 - Wo Tian
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -305,45 +307,39 @@ OptoFab:
 
 - Ruoqian Wu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Hengrui Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Guoyu Wang
 
-  - 
-
-
-
+  -
 
 ## Desision Making
 
-|**Index**|**Week**|**Retrospective/Rationale**|**Decision**|**Agreed by**|
-| ------- | -------|---------------------------|------------|------------ |
-|1|1|Confluence is too expensive given the current budget. Making a website on GitHub using templates is not too time-consuming.|Use GitHub to make our landing page this semester.|All team members.|
-|2|1|Reflecting on the collaboration last semester, not setting a fixed time for group meetings has caused trouble for some team members.|Setting a fixed time to meet twice a week. |All team members.|
-|3| 1 |Reflecting on our experience from last semester, we think that client meetings should not require all team members to attend, especially given the consideration that all team members have done this project for 1 semester and we all have a better idea of what the clients want now. |Only the project manager meets with clients 1-2 times a week.|All team members and clients.|
-|4|1|Due to the complex nature of physical components that OptoFab is manufacturing, the order placing process is highly dynamic. Since the IT department of RSPhys did not allow us to use React, the website development, especially debugging, is excruciating and the maintenance in the future is going to be hard for the IT department of RSPhys as well. Any tiny change of the UI or functionalities would require coding in multiple similar but different HTML files and create a hassle for the JavaScript part as well.  |Need to talk to IT department of RSPhys asap about using React. Inform clients about the importance of giving all requirements at once and make as little change to the functionalities as possible.|All team members.|
-|5|1|The IT department of RSPhys allowed us to use React. The changes(new requirements) need to be made in so many places that the developers think rewriting the entire website with React is quicker and neater than editing the old one. Clients agreed. |Refactor the website using React.|All team members, clients, IT department of RSPhys.|
-|6|2|Reflecting on feedback from the audits last semester, making PowerPoint presentations might be unnecessary work that might even distract us from refining the landing page.|Very carefully refine landing page for audit. Use the landing page to show our progress instead of PowerPoints.|All team members.|
-
-
-
+| **Index** | **Week** | **Retrospective/Rationale**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | **Decision**                                                                                                                                                                                         | **Agreed by**                                       |
+| --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1         | 1        | Confluence is too expensive given the current budget. Making a website on GitHub using templates is not too time-consuming.                                                                                                                                                                                                                                                                                                                                                                                                     | Use GitHub to make our landing page this semester.                                                                                                                                                   | All team members.                                   |
+| 2         | 1        | Reflecting on the collaboration last semester, not setting a fixed time for group meetings has caused trouble for some team members.                                                                                                                                                                                                                                                                                                                                                                                            | Setting a fixed time to meet twice a week.                                                                                                                                                           | All team members.                                   |
+| 3         | 1        | Reflecting on our experience from last semester, we think that client meetings should not require all team members to attend, especially given the consideration that all team members have done this project for 1 semester and we all have a better idea of what the clients want now.                                                                                                                                                                                                                                        | Only the project manager meets with clients 1-2 times a week.                                                                                                                                        | All team members and clients.                       |
+| 4         | 1        | Due to the complex nature of physical components that OptoFab is manufacturing, the order placing process is highly dynamic. Since the IT department of RSPhys did not allow us to use React, the website development, especially debugging, is excruciating and the maintenance in the future is going to be hard for the IT department of RSPhys as well. Any tiny change of the UI or functionalities would require coding in multiple similar but different HTML files and create a hassle for the JavaScript part as well. | Need to talk to IT department of RSPhys asap about using React. Inform clients about the importance of giving all requirements at once and make as little change to the functionalities as possible. | All team members.                                   |
+| 5         | 1        | The IT department of RSPhys allowed us to use React. The changes(new requirements) need to be made in so many places that the developers think rewriting the entire website with React is quicker and neater than editing the old one. Clients agreed.                                                                                                                                                                                                                                                                          | Refactor the website using React.                                                                                                                                                                    | All team members, clients, IT department of RSPhys. |
+| 6         | 2        | Reflecting on feedback from the audits last semester, making PowerPoint presentations might be unnecessary work that might even distract us from refining the landing page.                                                                                                                                                                                                                                                                                                                                                     | Very carefully refine landing page for audit. Use the landing page to show our progress instead of PowerPoints.                                                                                      | All team members.                                   |

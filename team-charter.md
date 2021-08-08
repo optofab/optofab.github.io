@@ -32,7 +32,7 @@ tag:
   <tr>
     <td>Wo Tian</td>
     <td>Project manager<br>Spokesperson<br>Developer</td>
-    <td>- Communicate with all stakeholders, including team members, clients, tutor, shadow team, convenors, CSIT. <br>- Host internal and external meetings, including preparing for agendas, concluding meeting dicussion to files, writing meeting minutes. <br>- Inspect all products and landing page, locate insufficient parts and either refine or assign tasks to team members. <br>- Audit preperation and presentation. <br>- Offline database web applicaiton development. </td>
+    <td>- Communicate with all stakeholders, including team members, clients, tutor, shadow team, convenors, CSIT, and the IT department of RSPhys. <br>- Host internal and external meetings, including preparing for agendas, concluding meeting dicussion to files, writing meeting minutes. <br>- Inspect all products and landing page, locate insufficient parts and either refine or assign tasks to team members. <br>- Audit preperation and presentation. <br>- Offline database web applicaiton development. </td>
   </tr>
   <tr>
     <td>Tian Wu</td>

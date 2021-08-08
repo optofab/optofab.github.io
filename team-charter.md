@@ -42,12 +42,12 @@ tag:
   <tr>
     <td>Yaoyi Xu</td>
     <td>Developer<br>Designer<br>Editor</td>
-    <td>- Design and prototype the website interface<br>- Write or edit the following documentations: Statement of Work, group meeting minutes, Product Requirements and Project Status.</td>
+    <td>- website backend development<br>- Write or edit the following documentations: Statement of Work, group meeting minutes, Product Requirements and Project Status.</td>
   </tr>
   <tr>
     <td>Ruoqian Wu</td>
     <td>Developer<br>Innovator<br>Designer<br>Meeting minutes writer</td>
-    <td>- Design and prototype the website interface<br>- Provide ideas<br>- Write meeting minutes with clients</td>
+    <td>- Website frontend development<br>- Provide ideas<br>- Write meeting minutes</td>
   </tr>
   <tr>
     <td>Ruiqiao Jiang</td>
@@ -70,7 +70,7 @@ tag:
 
 - Wo Tian: Interpersonal skills, DBMS design and maintenance, software development
 - Tian Wu: Mockups, interactive web page design
-- Yaoyi Xu: Software development, web development, DBMS design and editing
+- Yaoyi Xu: Software development, web development, and editing
 - Ruoqian Wu: Software development, web development, web page design
 - Ruiqiao Jiang: software development, web design, database design
 - Guoyu Wang: Web development, database design, data analysis

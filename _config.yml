@@ -20,7 +20,7 @@ locale: en-US
 title: "Team OptoFab :handshake: TechLauncher"
 description: "@ANU 2021 Semester 2"
 # baseurl: # the subpath of your site, e.g. "/blog"
-baseurl: "/"
+# baseurl:
 # url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url: https://optofab.github.io
 # logo: # path of site logo, e.g. "/images/logo.png"

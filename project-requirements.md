@@ -9,8 +9,8 @@ tag:
 > Our project comprises two inseparable parts: **database** and **website**. For the database branch, it is essential to implement the following functions:
 >
 > - Integrate the data related to the ordering procedures into the database for management and analysis
-> - Store client order specifications, metrology, and operational information
-> - Store supporting documents for future modifications
+> - Store client order specifications, links to metrology, and operational information
+> - Store links of supporting documents for future modifications
 
 {% include toc %}
 
@@ -28,7 +28,7 @@ tag:
 - [Requirement] ANFF staffs can import order data from online request
   - [User Story] Deon wants to import order data from online request automatically, so that he can minimise the risk of human errors.
   - [Importance] :red_circle:
-  - [Notes] Automatically generate metadata of files and load info into database
+  - [Notes] Automatically parse the website information and load them into the database
 
 <hr class="hr-dotted">
 
@@ -54,7 +54,7 @@ MySQL | - Database |
 
 - Customers will submit and track their order on the website
 
-- The website shows no secure information, including the design of the product or the customer information
+- The website should not show any confidential information, including the design of the product or the customer information
 
 ### Basic Requirements (User Stories)
 
@@ -67,7 +67,7 @@ MySQL | - Database |
 
 - [Requirement] Submitted order will email to the manager
 
-  - [User Story] Steve wants all submitted orders send to the manager via email, so that they don’t need to check the website.
+  - [User Story] Steve wants all submitted orders send to the manager via email, so that they don’t need to store any information on the backend of the website.
   - [Importance] :red_circle:
 
 <hr class="hr-dotted">
@@ -76,6 +76,7 @@ MySQL | - Database |
   - [User Story] If customers need to track their order, they can check the status of their order updated by ANFF staffs manually.
   - [Importance] :warning:
   <hr class="hr-dotted">
+  
 - [Requirement] Customers can submit feedback through the website
   - [User Story] After the order completed, the customer may want to provide their feedback, so that the Physics team can collect them from customers.
   - [Importance] :warning:

@@ -11,6 +11,8 @@ tag:
 > - Integrate the data related to the ordering procedures into the database for management and analysis
 > - Store client order specifications, links to metrology, and operational information
 > - Store links of supporting documents for future modifications
+> - importance priority: :red_circle: : prioritised :warning: : not prioritised
+
 
 {% include toc %}
 
@@ -68,6 +70,8 @@ MySQL | - Database |
 > The website will be used for customers to submit their order and track order status, in addition, the website should send the submitted order to the manager through e-mail.
 
 ## Assumptions
+
+- Customers understand the meanings of parameters in the orders they submit
 
 - Customers will submit and track their order on the website
 

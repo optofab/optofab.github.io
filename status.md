@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-## Project Status
-<br>
 
 ### 08 Jul 2021
 

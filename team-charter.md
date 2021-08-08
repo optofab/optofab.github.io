@@ -57,7 +57,7 @@ tag:
   <tr>
     <td>Guoyu Wang</td>
     <td>Developer<br>Designer<br>Editor</td>
-    <td>- Design and prototype the website interface<br>- Edit documents include product requirements and meeting minutes. <br>- Draft presentation </td>
+    <td>- Design and prototype the website interface <br> - Database development <br>- Edit documents <br> - Provides idea</td>
   </tr>
   <tr>
     <td>Hengrui Xu</td>

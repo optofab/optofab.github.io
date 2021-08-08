@@ -45,7 +45,7 @@ The above ratings are based on the likelihood of an event occurring (from most u
 - The product doesn’t meet stakeholders' expectations (Probable to Possible): agile methodology, integrating the prototype, and discuss with the clients many times.
 - Poor documentation (Probable to Possible): team charter, work records, product requirements, statement of work, risk assessment, retrospectives…
 - Sudden growth in requirements (Intolerable and Probable to Tolerable and Possible): using agile methodology, integrating the prototype, frequent and active communication with clients
-- Team member turnover: maintaining a harmony communication environment
+- Team member turnover: maintaining a harmonious communication environment
 
 <br>
 

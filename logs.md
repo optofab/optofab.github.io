@@ -172,6 +172,80 @@ OptoFab:
 - Wo: Communicate with Martin regarding the usage of React
 - Ruoqian, Hengrui: Refactor the website
 
+#### Meeting 2
+
+| Date       | 31/07/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 9:00pm - 10:00pm                                                              |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+- Discuss the next week plan
+- Discuss the changes on the current web application and the detailed database user interface
+
+**DISCUSSIONS**
+
+- Discussed the plans for developing the web application and database management system for next week.
+- Discussed new changes to be made on the web application.
+- Discussed the detailed database user interface.
+
+**ACTION**
+
+- Wo, Ruoqian, Hengrui will hold a meeting for website this Sunday
+- Ruiqiao and Guoyu will create the relational schema for the database
+- Tian will continue working on the team landing page layout
+- Yaoyi will work on the importing data into database
+
+#### Meeting 3
+
+| Date       | 02/08/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 6:30pm - 10:00pm                                                              |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+- Discuss the next week plan
+- Discuss the changes on the current web application
+
+**DISCUSSIONS**
+
+- Discuss the next week plan
+- Discuss the changes on the current web application
+
+**ACTION**
+
+- Continue working on website refactor
+- Stop creating relational schema until we get the detailed users’ needs
+- Doing research on how to use C#
+- Assign tasks to everyone and prepare for the audit
+
+#### Meeting 4
+
+| Date       | 06/08/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 9:30pm - 10:10pm                                                              |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+- Discuss the next week plan
+- Discuss the changes on the current web application
+- Discuss the IP Agreement
+
+**DISCUSSIONS**
+
+- Discussed the plans for developing the web application for next week.
+- Discussed new changes to be made on the web application.
+- Discussed the changes on IP Agreement
+
+**ACTION**
+
+- Continue working on website refactor
+- Every team member will sign the IP Agreement.
+- Continue preparing for Audit 1
+
 ## Work Records
 
 [Previous semester](/meetings)
@@ -262,13 +336,19 @@ OptoFab:
 
 - Ruoqian Wu
 
-  -
+  - Wrote the new version of website
+  - Wrote the project requirements
+  - Wrote the risk assessment
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  -
+  - Edited the statement of work
+  - Edited the project requirements
+  - Wrote the technical risk assessment
+  - Wrote the project status
+  - Researched on Php backend functionalities
 
 <hr class="hr-dotted">
 
@@ -289,7 +369,7 @@ OptoFab:
 
 - Guoyu Wang
 
-  -
+  - Wrote the stakeholder analysis
 
 ### Week 3
 

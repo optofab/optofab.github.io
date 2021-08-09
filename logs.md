@@ -246,6 +246,32 @@ OptoFab:
 - Every team member will need to sign the IP Agreement and SOW
 - Preparing for Audit 1
 
+
+### Tutorials
+
+#### Meeting 1
+
+| Date       | 04/08/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                           |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
+
+**AGENDA**
+
+- Discuss SOW
+- Find out more on how to prepare for Audit 1 
+
+**DISCUSSIONS**
+
+- General information about TechLauncher program and audit 1
+- General information about OptoFab project
+- The tough situation about not writing SOW too broadly
+
+**ACTION**
+
+- Send SOW to Greg for feedback
+- Prepare for Audit 1
+
 ## Work Records
 
 [Previous semester](/meetings)

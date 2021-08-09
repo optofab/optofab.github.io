@@ -86,7 +86,7 @@ For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM
 
 ## Roadmap
 
-<img src="./images/roadmap-s2.png">
+<img src="./images/roadmap-s2.PNG">
 
 ## Signed Documents
 

@@ -84,6 +84,12 @@ For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM
 
 <img style="display:block;margin:auto;width:70%" src="https://cdn-std.droplr.net/files/acc_498334/n2d8um" alt="stakeholder analysis">
 
+- High power, interested people: must fully engage and make the greatest efforts to satisfy.
+- High power, less interested people: put enough work in to keep them satisfied, but not so much that they become bored with the update.
+- Low power, interested people: keep them adequately informed, communicate to ensure that no major issues are arising. Can often be very helpful with the detail of our project.
+- Low power, less interested people: monitor them but do not bore them with excessive communication
+
+
 ## Roadmap
 
 <img src="./images/roadmap-s2.PNG">

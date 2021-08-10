@@ -270,8 +270,8 @@ OptoFab:
 
 **ACTION**
 
-- Hengrui and Ruoqian continue working on website refactor
-- Ruiqiao and Guoyu start work on the relational schema
+- Hengrui and Ruoqian will continue working on website refactor
+- Ruiqiao and Guoyu will start work on the relational schema
 
 
 ### Tutorials

@@ -92,8 +92,8 @@ For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM
 
 ## Signed Documents
 
-1. [IP Agreement](https://drive.google.com/file/d/12rgwSPgemu6QXGw0aGcGvGf38F81438s/view?usp=sharing) to be signed by clients
-2. [Statement of Work](https://drive.google.com/file/d/1vpqhioHUuabKZ8ZHjsuap7i5kvkgU_nz/view?usp=sharing) to be signed by clients
+1. [IP Agreement](https://drive.google.com/file/d/1S_4bE2l0pnJ5dAOcBMeUvn3vDtfyhic7/view?usp=sharing) to be signed by ANU delegate
+2. [Statement of Work](https://drive.google.com/file/d/18_59--HfZsFOKpA9Jm5vuyRmc8SBNl3H/view?usp=sharing) signed on 07/08/2021
 
 ## Showcase Videos
 

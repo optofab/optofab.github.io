@@ -156,7 +156,7 @@ OptoFab:
 **DISCUSSIONS**
 
 - Finished restructuring the whole website. See requirements [here](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing).
-- Pretty much finished [requirements of database](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true). 
+- Pretty much finished specifying [requirements of database](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true). 
 
 **ACTION**
 

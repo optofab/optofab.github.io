@@ -246,6 +246,33 @@ OptoFab:
 - Every team member will need to sign the IP Agreement and SOW
 - Preparing for Audit 1
 
+#### Meeting 5
+
+| Date       | 09/08/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                               |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang                       |
+
+**AGENDA**
+
+- Discuss the next week plan
+- Discuss the changes on the current web application 
+- Discuss the Audit1
+- Discuss the database
+
+
+**DISCUSSIONS**
+
+- Discussed the plans for developing the web application for next week.
+- Discussed new changes to be made on the web application.
+- Assigned tasks for this week
+
+
+**ACTION**
+
+- Hengrui and Ruoqian continue working on website refactor
+- Ruiqiao and Guoyu start work on the relational schema
+
 
 ### Tutorials
 

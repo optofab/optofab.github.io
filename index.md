@@ -19,9 +19,9 @@ layout: landing
 | Show order status by order number on the web page                  |   Search and sort the orders and parts by certain attributes                  |
 | After order submitting, generate a readable email for both the customer and OptoFab staff, attach a JSON file for later importing |Export a list of statuses for each order  |
 
-- Must be easily maintained and modified by untrained non-IT staff
+- Must be easily maintained and modified
 - Must be intuitive for both clients and users
-- Must be flexible enough to be modified and reused for future capabilities
+- Must be flexible enough to be extended in the future
 - Must comply with ANU IT security requirements
 - CSIT and the IT department of RSPhys must be consulted on design and implementation
 

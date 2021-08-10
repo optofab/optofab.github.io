@@ -6,25 +6,19 @@ layout: landing
 
 # Landing Page - TechLauncher2021 & ANFF OptoFab
 
-> Our ambition is to streamline the process for online orders and offline communications supported by the integration of a robust database design and user-friendly web-flow experience for our clients.
+> Our team is helping ANFF OptoFab to streamline the process for placing and managing orders by designing an online order placing web application and a local order management system. 
 
 {% include toc %}
 
 ## Project Overview
 
-| Local Database                                                                         | [Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
+| Local Order management system                                                   | [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Store client order specifications, links of metrology and operational information      | Lodge client orders over the internet and assign anonymous identification      |
-| Import orders and RFQ’s submitted on the ANFF Optofab website                          | Allow staff to update the operational status of ANFF facilities                |
-| Track costs and usages of materials and services                                       | Show order status by order number on the web page on demand                    |
-| Supporting documentation e.g: Materials Transfer Agreements, Billing Information, etc. | A means for clients to attach documents and specifications as part of an order |
+| Import orders submitted on the ANFF OptoFab website       | Allow customeres to place orders in a OptoFab-friendly way  |
+| Store and display client order specifications, links of metrology and operational information    | Allow customers to provide feedback and request for modification      |
+| Search and sort the orders and parts by certain attributes                  | Show order status by order number on the web page                    |
+| Export a list of statuses for each order. | Generate a readable email for customer and OptoFab staff and attach a JSON file for later importing |
 
-### Project Requirement
-
-- Lodge client orders over the internet and assign anonymous identification
-- Allow staff to update the operational status of ANFF facilities
-- Show order status by order number on the web page on demand
-- A means for clients to attach documents and specifications as part of an order
 - Must be easily maintained and modified by untrained non-IT staff
 - Must be intuitive for both clients and users
 - Must be flexible enough to be modified and reused for future capabilities

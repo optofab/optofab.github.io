@@ -6,14 +6,14 @@ tag:
   - "Website"
 ---
 
-> Our project comprises two inseparable parts: Local Order management system and Customer Portal Web Application
+> Our project comprises two inseparable parts: Local Order Management System and Customer Portal Web Application
 > 
 > Importance priority: :red_circle: : prioritised :warning: : not prioritised
 
 
 {% include toc %}
 
-## Local Order management system Requirements
+## Local Order Management System Requirements
 
 > For the database branch, it is essential to implement the following functions:
 >

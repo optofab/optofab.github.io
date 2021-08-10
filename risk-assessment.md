@@ -36,7 +36,9 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ### Attempted Approaches to mitigate risks:
 
-- Poor productivity (Possible to improbable): task tracking procedure，this semester we change the mode of meeting:last semester all the team members meet with clients,while this semester only one team member meet with the clients,then others can focus on developing the website and database
+- Poor productivity (Possible to improbable): 
+   - Task tracking
+   - Change meeting routine: only the spokesperson meets with clients in this semester so that the developers can focus on development 
 - Lack of ownership (Improbable to impossible): signed the IP contract
 - Low stakeholder engagement (Probable to improbable): active communication, set agendas before meetings so everyone can be more prepared, lucky to have nice stakeholders
 - Inadequate risk assessment (Probable to improbable): research and open for advice

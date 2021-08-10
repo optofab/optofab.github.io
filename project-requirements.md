@@ -6,13 +6,14 @@ tag:
   - "Website"
 ---
 
-> Our project comprises two inseparable parts: **database** and **website**. 
+> Our project comprises two inseparable parts: Local Order management system and Customer Portal Web Application
+> 
 > Importance priority: :red_circle: : prioritised :warning: : not prioritised
 
 
 {% include toc %}
 
-## Database Requirements
+## Local Order management system Requirements
 
 > For the database branch, it is essential to implement the following functions:
 >
@@ -69,7 +70,7 @@ MySQL | - Database |
 
 <br />
 
-## Website Requirements
+## Customer Portal Web Application Requirements
 
 > The website will be used for customers to submit their order and track order status, in addition, the website should send the submitted order to the manager through e-mail.
 

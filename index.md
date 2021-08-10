@@ -25,6 +25,8 @@ layout: landing
 - Must comply with ANU IT security requirements
 - CSIT and the IT department of RSPhys must be consulted on design and implementation
 
+<img src="./images/Work-Flow.jpg" >
+
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
 ## Client

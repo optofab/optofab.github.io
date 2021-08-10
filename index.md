@@ -12,7 +12,7 @@ layout: landing
 
 ## Project Overview
 
-| Local Order management system                                                   | [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
+| Local Order Management System                                                   | [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)                    |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Import orders submitted on the ANFF OptoFab website       | Allow customers to place orders in an OptoFab-staff-friendly way  |
 | Store and display client order specifications, links of metrology and operational information    | Allow customers to provide feedback and request for modification      |

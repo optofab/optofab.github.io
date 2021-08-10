@@ -458,10 +458,10 @@ OptoFab:
 - Wo Tian
 
   - Host group meetings and a clients meeting(~ 3.5 hours). Record meeting minutes.
- - Tidy website requirements according to feedback from clients.
- - Find insufficient parts on the landing page and refine them to prepare for Audit1. 
- - Draft the workflow diagram.
-- Accordinate IP agreement and SOW signing process.
+  - Tidy website requirements according to feedback from clients.
+  - Find insufficient parts on the landing page and refine them to prepare for Audit1. 
+  - Draft the workflow diagram.
+  - Accordinate IP agreement and SOW signing process.
 
 <hr class="hr-dotted">
 

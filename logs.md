@@ -304,8 +304,9 @@ OptoFab:
 ### Tutorials
 
 #### Week 2
+
 | Date       | 04/08/2021                                                                |
-| ---------- | ------------------------------------------------------------------------- |
+| ------- | --------------------------------------------------------------------------- |
 | Time       | 5:00pm - 7:00pm                                                           |
 | Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
 

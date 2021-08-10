@@ -6,17 +6,21 @@ tag:
   - "Website"
 ---
 
-> Our project comprises two inseparable parts: **database** and **website**. For the database branch, it is essential to implement the following functions:
->
-> - Integrate the data related to the ordering procedures into the database for management and analysis
-> - Store client order specifications, links to metrology, and operational information
-> - Store links of supporting documents for future modifications
-> - importance priority: :red_circle: : prioritised :warning: : not prioritised
+> Our project comprises two inseparable parts: **database** and **website**. 
+> Importance priority: :red_circle: : prioritised :warning: : not prioritised
 
 
 {% include toc %}
 
 ## Database Requirements
+
+> For the database branch, it is essential to implement the following functions:
+>
+> - Integrate the data related to the ordering procedures into the database for management and analysis
+> - Store and display client order specifications, links to metrology, and operational information
+> - Store links of supporting documents for future modifications
+> - Search and sort the orders and parts by certain attributes
+> - Export a list of statuses for each order.
 
 ### Basic Requirements
 

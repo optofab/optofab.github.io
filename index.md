@@ -17,7 +17,7 @@ layout: landing
 | Import orders submitted on the ANFF OptoFab website       | Allow customers to place orders in an OptoFab-staff-friendly way  |
 | Store and display client order specifications, links of metrology and operational information    | Allow customers to provide feedback and request for modification      |
 | Search and sort the orders and parts by certain attributes                  | Show order status by order number on the web page                    |
-| Export a list of statuses for each order. | Generate a readable email for customer and OptoFab staff and attach a JSON file for later importing |
+| Export a list of statuses for each order. | After order submitting, generate a readable email for both the customer and OptoFab staff, attach a JSON file for later importing |
 
 - Must be easily maintained and modified by untrained non-IT staff
 - Must be intuitive for both clients and users

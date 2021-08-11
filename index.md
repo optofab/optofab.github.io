@@ -31,13 +31,13 @@ layout: landing
 
 ## Core Team
 
-:panda_face: **Wo Tian**: Project manager, Spokesperson, Developer <br>
-:beetle: **Tian(Phillip) Wu**: Deputy spokesperson, Developer<br>
-:tiger: **Yaoyi(Grace) Xu**: Developer, Editor, Checker<br>
-:rabbit: **Ruoqian(Raymond) Wu**: Developer, Innovator, Designer<br>
-:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer, Planner, Checker<br>
-:honeybee: **Guoyu(Ashley) Wang**: Developer, Planner, Checker<br>
-:koala: **Hengrui(Henry) Xu**: Developer, Planner, Checker<br>
+:panda_face: **Wo Tian**: Project manager, Spokesperson, Backend developer <br>
+:beetle: **Tian(Phillip) Wu**: Deputy spokesperson, Front-end developer<br>
+:tiger: **Yaoyi(Grace) Xu**: Backend developer, Editor, Checker<br>
+:rabbit: **Ruoqian(Raymond) Wu**: Front-end developer, Innovator, Designer<br>
+:tropical_fish: **Ruiqiao(Eva) Jiang**: Front-end developer, Planner, Checker<br>
+:honeybee: **Guoyu(Ashley) Wang**: Backend developer, Planner, Checker<br>
+:koala: **Hengrui(Henry) Xu**: Front-end developer, Planner, Checker<br>
 
 ## Client
 

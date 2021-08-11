@@ -29,6 +29,16 @@ layout: landing
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 
+## Core Team
+
+:panda_face: **Wo Tian**: Project manager, Spokesperson, Developer <br>
+:beetle: **Tian(Phillip) Wu**: Deputy spokesperson, Developer<br>
+:tiger: **Yaoyi(Grace) Xu**: Developer, Editor, Checker<br>
+:rabbit: **Ruoqian(Raymond) Wu**: Developer, Innovator, Designer<br>
+:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer, Planner, Checker<br>
+:honeybee: **Guoyu(Ashley) Wang**: Developer, Planner, Checker<br>
+:koala: **Hengrui(Henry) Xu**: Developer, Planner, Checker<br>
+
 ## Client
 
 | Name     | **ANFF OptoFab ACT**                                                                                                                                                                           |
@@ -40,22 +50,21 @@ layout: landing
 
 Our mentor this semester is **Greg Bek**: <Greg.Bek@anu.edu.au>
 
-## Core Team
-
-:panda_face: **Wo Tian**: Project manager, Spokesperson, Developer <br>
-:beetle: **Tian(Phillip) Wu**: Deputy spokesperson, Developer<br>
-:tiger: **Yaoyi(Grace) Xu**: Developer, Editor, Checker<br>
-:rabbit: **Ruoqian(Raymond) Wu**: Developer, Innovator, Designer<br>
-:tropical_fish: **Ruiqiao(Eva) Jiang**: Developer, Planner, Checker<br>
-:honeybee: **Guoyu(Ashley) Wang**: Developer, Planner, Checker<br>
-:koala: **Hengrui(Henry) Xu**: Developer, Planner, Checker<br>
-
 ## Shadow Team
 
 - Team: Heart Decisions
 - Landing Page: https://sites.google.com/view/heart-decision-project/home
 
 <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+## Stakeholder analysis
+
+<img style="display:block;margin:auto;width:70%" src="https://cdn-std.droplr.net/files/acc_498334/n2d8um" alt="stakeholder analysis">
+
+- High power, interested people: must fully engage and make the greatest efforts to satisfy.
+- High power, less interested people: put enough work in to keep them satisfied, but not so much that they become bored with the update.
+- Low power, interested people: keep them adequately informed, communicate to ensure that no major issues are arising. Can often be very helpful with the detail of our project.
+- Low power, less interested people: monitor them but do not bore them with excessive communication
 
 ## Communication Plan
 
@@ -75,15 +84,6 @@ Our mentor this semester is **Greg Bek**: <Greg.Bek@anu.edu.au>
 <img style="display:block;margin:auto;width:80%" src="https://cdn-std.droplr.net/files/acc_498334/4iXYY2" alt="Project Client Map">
 
 For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM %})
-
-## Stakeholder analysis
-
-<img style="display:block;margin:auto;width:70%" src="https://cdn-std.droplr.net/files/acc_498334/n2d8um" alt="stakeholder analysis">
-
-- High power, interested people: must fully engage and make the greatest efforts to satisfy.
-- High power, less interested people: put enough work in to keep them satisfied, but not so much that they become bored with the update.
-- Low power, interested people: keep them adequately informed, communicate to ensure that no major issues are arising. Can often be very helpful with the detail of our project.
-- Low power, less interested people: monitor them but do not bore them with excessive communication
 
 
 ## Roadmap

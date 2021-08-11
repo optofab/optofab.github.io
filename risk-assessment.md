@@ -58,7 +58,6 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ## Technical Risks
 
-### Severity
 
 ![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/TxLf6J)
 

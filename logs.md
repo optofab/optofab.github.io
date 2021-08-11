@@ -228,7 +228,7 @@ OptoFab:
 
 | Date       | 02/08/2021                                                                    |
 | ---------- | ----------------------------------------------------------------------------- |
-| Time       | 6:30pm - 7:10pm                                                              |
+| Time       | 6:30pm - 7:10pm                                                               |
 | Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
 
 **AGENDA**
@@ -273,6 +273,7 @@ OptoFab:
 - Every team member will need to sign the IP Agreement and SOW
 - Preparing for Audit 1
 
+<<<<<<< HEAD
 #### Meeting 5
 
 | Date       | 09/08/2021                                                                    |
@@ -301,19 +302,28 @@ OptoFab:
 - Ruiqiao and Guoyu will start work on the relational schema
 
 
+=======
+>>>>>>> 571b94a (add week 3 audit meeting minutes)
 ### Tutorials
 
 #### Week 2
 
+<<<<<<< HEAD
 | Date       | 04/08/2021                                                                |
 | ------- | --------------------------------------------------------------------------- |
 | Time       | 5:00pm - 7:00pm                                                           |
 | Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
+=======
+| Date       | 04/08/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+>>>>>>> 571b94a (add week 3 audit meeting minutes)
 
 **AGENDA**
 
 - Discuss SOW
-- Find out more on how to prepare for Audit 1 
+- Find out more on how to prepare for Audit 1
 
 **DISCUSSIONS**
 
@@ -325,6 +335,36 @@ OptoFab:
 
 - Send SOW to Greg for feedback
 - Prepare for Audit 1
+
+#### Week 3 - Audit 1
+
+| Date       | 11/08/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+- Audit 1 presentation
+  - Project client map
+  - Workflow of the project in detail
+  - Communication plan with client
+  - Requirements, status and risk assignment of the project
+  - Roadmap this semester
+  - Team meetings and logs
+
+**DISCUSSIONS**
+
+- Testing phase in the roadmap
+- Data storage using local database instead of cloud
+- Pivot to `React.js`
+- Statement of work and future possible features added by the client
+- Decisions about audit presentation
+- Rationales behing the merging reflection and decision making
+
+**ACTION**
+
+- N/A
 
 ## Work Records
 

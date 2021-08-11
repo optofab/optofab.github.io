@@ -156,7 +156,7 @@ OptoFab:
 **DISCUSSIONS**
 
 - Finished restructuring the whole website. See requirements [here](https://docs.google.com/document/d/1K6BDtx4HNr7nXfBvyVaer5aA4DEk6mZs-fV2cHWTnoQ/edit?usp=sharing).
-- Pretty much finished specifying [requirements of database](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true). 
+- Pretty much finished specifying [requirements of database](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true).
 
 **ACTION**
 
@@ -273,21 +273,19 @@ OptoFab:
 - Every team member will need to sign the IP Agreement and SOW
 - Preparing for Audit 1
 
-<<<<<<< HEAD
 #### Meeting 5
 
-| Date       | 09/08/2021                                                                    |
-| ---------- | ----------------------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                                               |
-| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang                       |
+| Date       | 09/08/2021                                              |
+| ---------- | ------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                         |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang |
 
 **AGENDA**
 
 - Discuss the next week plan
-- Discuss the changes on the current web application 
+- Discuss the changes on the current web application
 - Discuss the Audit1
 - Discuss the database
-
 
 **DISCUSSIONS**
 
@@ -295,30 +293,27 @@ OptoFab:
 - Discussed new changes to be made on the web application.
 - Assigned tasks for this week
 
-
 **ACTION**
 
 - Hengrui and Ruoqian will continue working on website refactor
 - Ruiqiao and Guoyu will start work on the relational schema
 
-
-=======
->>>>>>> 571b94a (add week 3 audit meeting minutes)
 ### Tutorials
 
 #### Week 2
 
 <<<<<<< HEAD
-| Date       | 04/08/2021                                                                |
+| Date | 04/08/2021 |
 | ------- | --------------------------------------------------------------------------- |
-| Time       | 5:00pm - 7:00pm                                                           |
+| Time | 5:00pm - 7:00pm |
 | Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
 =======
-| Date       | 04/08/2021                                                                              |
+| Date | 04/08/2021 |
 | ---------- | --------------------------------------------------------------------------------------- |
-| Time       | 5:00pm - 7:00pm                                                                         |
+| Time | 5:00pm - 7:00pm |
 | Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
->>>>>>> 571b94a (add week 3 audit meeting minutes)
+
+> > > > > > > 571b94a (add week 3 audit meeting minutes)
 
 **AGENDA**
 
@@ -499,7 +494,7 @@ OptoFab:
 
   - Host group meetings and a clients meeting(~ 3.5 hours). Record meeting minutes.
   - Tidy website requirements according to feedback from clients.
-  - Find insufficient parts on the landing page and refine them to prepare for Audit1. 
+  - Find insufficient parts on the landing page and refine them to prepare for Audit1.
   - Draft the workflow diagram.
   - Accordinate IP agreement and SOW signing process.
 

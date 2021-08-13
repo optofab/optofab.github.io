@@ -302,18 +302,10 @@ OptoFab:
 
 #### Week 2
 
-<<<<<<< HEAD
-| Date | 04/08/2021 |
-| ------- | --------------------------------------------------------------------------- |
-| Time | 5:00pm - 7:00pm |
-| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
-=======
-| Date | 04/08/2021 |
+| Date       | 04/08/2021                                                                              |
 | ---------- | --------------------------------------------------------------------------------------- |
-| Time | 5:00pm - 7:00pm |
+| Time       | 5:00pm - 7:00pm                                                                         |
 | Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
-
-> > > > > > > 571b94a (add week 3 audit meeting minutes)
 
 **AGENDA**
 

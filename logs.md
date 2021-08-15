@@ -506,7 +506,8 @@ OptoFab:
 
 - Yaoyi Xu
 
-  -
+  - Migrated some php files to the new repo.
+  - Refactored php codes for better reusability and maintainability.
 
 <hr class="hr-dotted">
 

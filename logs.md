@@ -500,7 +500,8 @@ OptoFab:
 
 - Ruoqian Wu
 
-  -
+  - Refractored the website by using React.js
+  - Researched on functionalities
 
 <hr class="hr-dotted">
 

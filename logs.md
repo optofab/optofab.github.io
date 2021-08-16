@@ -494,7 +494,9 @@ OptoFab:
 
 - Tian Wu
 
-  -
+  - Recording meeting minutes of week3 (audit week)
+  - Redesigning the website homepage layout in `Figma`
+  - Using `React.js` to implement most of the homepage elements (e.g. navbar, herosection, etc.) according to the design.
 
 <hr class="hr-dotted">
 
@@ -509,6 +511,50 @@ OptoFab:
 
   - Migrated some php files to the new repo.
   - Refactored php codes for better reusability and maintainability.
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  -
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  -
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+  -
+
+### Week 4
+
+**16/08/2021 - 22/08/2021**
+
+- Wo Tian
+
+  -
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  -
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  -
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  -
 
 <hr class="hr-dotted">
 

@@ -298,6 +298,29 @@ OptoFab:
 - Hengrui and Ruoqian will continue working on website refactor
 - Ruiqiao and Guoyu will start work on the relational schema
 
+#### Meeting 6
+
+| Date       | 16/08/2021                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                              |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu,Ruoqian Wu |
+
+**AGENDA**
+
+- Review the feedback provided by our tutor and shadow team according to the Audit 1
+
+**DISCUSSIONS**
+
+- Discussed what feedback has been given and how we can improve it
+
+
+**ACTION**
+ 
+- Add more details in the meeting minutes,for example add a link of “to do list”
+- For next tutorial, we will discuss more details about the feedback of Audit 1 with our tutor
+- Add the last semester’s decision making log to our repository
+
+
 ### Tutorials
 
 #### Week 2

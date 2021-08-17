@@ -545,7 +545,8 @@ OptoFab:
 
 - Ruiqiao Jiang
 
-  -
+  - Researched on functionalities of developing database
+  - Wrote the meeting minutes for group meetings
 
 <hr class="hr-dotted">
 

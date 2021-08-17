@@ -303,7 +303,7 @@ OptoFab:
 | Date       | 16/08/2021                                                                   |
 | ---------- | ---------------------------------------------------------------------------- |
 | Time       | 8:00pm - 8:30pm                                                              |
-| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu,Ruoqian Wu |
+| Attendance | Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu|
 
 **AGENDA**
 

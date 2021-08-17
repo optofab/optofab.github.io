@@ -319,6 +319,7 @@ OptoFab:
 - Add more details in the meeting minutes,for example add a link of “to do list”
 - For next tutorial, we will discuss more details about the feedback of Audit 1 with our tutor
 - Add the last semester’s decision making log to our repository
+- Add the hours each team member contributed on their tasks
 
 
 ### Tutorials

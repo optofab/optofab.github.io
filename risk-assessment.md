@@ -36,9 +36,9 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 ### Attempted Approaches to mitigate risks:
 
-- Poor productivity (Possible to improbable): 
-   - Task tracking
-   - Change meeting routine: only the spokesperson meets with clients in this semester so that the developers can focus on development 
+- Poor productivity (Possible to improbable):
+  - Task tracking
+  - Change meeting routine: only the spokesperson meets with clients in this semester so that the developers can focus on development
 - Lack of ownership (Improbable to impossible): signed the IP contract
 - Low stakeholder engagement (Probable to improbable): active communication, set agendas before meetings so everyone can be more prepared, lucky to have nice stakeholders
 - Inadequate risk assessment (Probable to improbable): research and open for advice
@@ -53,13 +53,11 @@ The above ratings are based on the likelihood of an event occurring (from most u
 
 - Poor productivity caused by unfamiliarity with the programming tools that are going to be used, such as C#, .NET, React: preferably use the technology stack that most team members use, otherwise more time will need to be scheduled to learn
 
-
 <br>
 
 ## Technical Risks
 
-
-![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/TxLf6J)
+![Technical Risks](https://cdn-std.droplr.net/files/acc_498334/SL89ry)
 
 ### Future approaches to mitigate risks:
 

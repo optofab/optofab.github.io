@@ -74,7 +74,7 @@ MySQL | - Database |
 
 > The website will be used for customers to submit their order and track order status, in addition, the website should send the submitted order to the manager through e-mail.
 
-## Assumptions
+### Assumptions
 
 - Customers have a technical background in physics or engineering, understand the meanings of parameters in the request form
 

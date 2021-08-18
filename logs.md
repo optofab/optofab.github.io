@@ -566,7 +566,8 @@ Our team:
 
 - Hengrui Xu
 
-  -
+  - Refactored website with React
+  - Continued learning about react
 
 <hr class="hr-dotted">
 

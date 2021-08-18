@@ -628,6 +628,8 @@ The list number of the following discussion points correspond to the :question: 
 
 **16/08/2021 - 22/08/2021**
 
+_[Don't forget to add hours for each of the work you've done. This line will be deleted next week]_
+
 - Wo Tian
 
   -
@@ -636,7 +638,9 @@ The list number of the following discussion points correspond to the :question: 
 
 - Tian Wu
 
-  -
+  - Attending group meetings on Monday (0.75 hour)
+  - Gathering feedback and updating retrospective based on discussions for audit 1 (2 hours)
+  - Attending tutorial (2 hours)
 
 <hr class="hr-dotted">
 

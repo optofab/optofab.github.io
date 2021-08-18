@@ -40,18 +40,18 @@ The feedback is based on the reports from the TechLauncher Feedback Portal.
 
 1. Landing page:
    1. One has to scroll down to find information
-   2. Table of contents in dropdown menu conflicts with navbar [?] :question:
+   2. Table of contents in dropdown menu conflicts with navbar ~~[?] :question:~~
 2. SOW (Statement of work):
-   1. SOW does not outline what deliverables you will make and how progress will be measured by your team and your customer. [?] :question:
+   1. SOW does not outline what deliverables you will make and how progress will be measured by your team and your customer. ~~[?] :question:~~
    2. Statement of Work seems a bit lacking with only few information in it and very little analysis and details included
 3. Weekly schedule:
    1. The weekly schedule doesn’t describe what will happen beyond a set of programming tasks
    2. The schedule is waterfall in nature, which doesn’t offer much opportunity to seek customer feedback on the website and react to it as the semester progresses.
 4. Risk register
    1. It doesn’t seem to have been reviewed recently.
-   2. It is concerning that you consider the risk of serious data mismatching as Possible “Risk will likely occur”. [?] :question:
+   2. It is concerning that you consider the risk of serious data mismatching as Possible “Risk will likely occur”. ~~[?] :question:~~
 5. Project management:
-   1. There have been a few instances where the team have had to refactor something multiple times because they started before finalising design/negotiation with clients on that aspect of the project. [?] :question:
+   1. There have been a few instances where the team have had to refactor something multiple times because they started before finalising design/negotiation with clients on that aspect of the project. ~~[?] :question:~~
 6. [The website]:
    1. The footer is hard to read since it has a blur effect over it. Such important information about the product should not be hidden.
    2. Do add more spacing between each paragraph. There are dashes between each section but a larger gap will make reading the website easier.
@@ -106,11 +106,11 @@ The feedback is based on the reports from the TechLauncher Feedback Portal.
 2. Team charter:
    1. The core values could be elaborated upon, what does it mean for your team to be “respectful”? To each other? The client?
    2. Team charter doesn’t outline what is expected from each member apart from their skills.
-3. It may be too early to judge team collaboration until substantial work has been done but evidence of team work can be better shown with more detailed communications documentation and better formatted to do list. It appears difficult for an outsider to understand the to-do list as it is. [?] :question:
+3. It may be too early to judge team collaboration until substantial work has been done but evidence of team work can be better shown with more detailed communications documentation and better formatted to do list. It appears difficult for an outsider to understand the to-do list as it is. ~~[?] :question:~~
 
 **How to improve**
 
-1. The team should make sure that the deputy spokesperson is in a position to backup the project manager, and that in turn one or two other team members shadows the deputy. [?] :question:
+1. The team should make sure that the deputy spokesperson is in a position to backup the project manager, and that in turn one or two other team members shadows the deputy. ~~[?] :question:~~
 2. Team should maintain a work log to track hours spent from each member.
 3. [Refine the team charter with more details, including: what's expected from each team member; explanations for the values;]
 
@@ -124,13 +124,13 @@ The feedback is based on the reports from the TechLauncher Feedback Portal.
 **Bad**
 
 1. Meeting minutes are too brief without enough details
-2. Though it is clear that the team has benefitted from having one person communicate with the client, the client mentioned a lag when contacting the necessary members of the team. [?] :question:
+2. Though it is clear that the team has benefitted from having one person communicate with the client, the client mentioned a lag when contacting the necessary members of the team. ~~[?] :question:~~
 
 **How to improve**
 
 1. Try to minute more details of the discussion to for future review.
 2. It would be great if the team could include the agreed decisions after each discussion item.
-3. It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager. [?] :question:
+3. It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager. ~~[?] :question:~~
 
 ### Reflection
 
@@ -145,6 +145,6 @@ The feedback is based on the reports from the TechLauncher Feedback Portal.
 
 **How to improve**
 
-1. The team should have a reflection log, and individually every team member should have some reflections to capture as well. [?] :question:
-2. It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk. [?] :question:
+1. The team should have a reflection log, and individually every team member should have some reflections to capture as well. ~~[?] :question:~~
+2. It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk. ~~[?] :question:~~
 3. [Incorporate the reflection in landing page]

@@ -6,18 +6,18 @@ layout: landing
 
 # Landing Page - TechLauncher2021 & ANFF OptoFab
 
-> Our team is helping ANFF OptoFab to streamline the process for placing and managing orders by designing an online order placing web application and a local order management system. 
+> Our team is helping ANFF OptoFab to streamline the process for placing and managing orders by designing an online order placing web application and a local order management system.
 
 {% include toc %}
 
 ## Project Overview
 
-| [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)             |    Local Order Management System                |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Allow customers to place orders in an OptoFab-staff-friendly way      | Import orders submitted on the ANFF OptoFab website   |
-| Allow customers to provide feedback and request for modification    |  Store and display client order specifications, links of metrology and operational information     |
-| Show order status by order number on the web page                  |   Search and sort the orders and parts by certain attributes                  |
-| After order submitting, generate a readable email for both the customer and OptoFab staff, attach a JSON file for later importing |Export a list of statuses for each order  |
+| [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)                                                       | Local Order Management System                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Allow customers to place orders in an OptoFab-staff-friendly way                                                                  | Import orders submitted on the ANFF OptoFab website                                           |
+| Allow customers to provide feedback and request for modification                                                                  | Store and display client order specifications, links of metrology and operational information |
+| Show order status by order number on the web page                                                                                 | Search and sort the orders and parts by certain attributes                                    |
+| After order submitting, generate a readable email for both the customer and OptoFab staff, attach a JSON file for later importing | Export a list of statuses for each order                                                      |
 
 - Must be easily maintained and modified
 - Must be intuitive for both clients and users
@@ -85,7 +85,6 @@ Our mentor this semester is **Greg Bek**: <Greg.Bek@anu.edu.au>
 
 For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM %})
 
-
 ## Roadmap
 
 <img src="./images/roadmap-s2.PNG">
@@ -100,6 +99,10 @@ For detailed analysis, check our [Project Client Map]({% post_url 2021-08-06-PCM
 ### 2021 Semester 1 Showcase
 
 {% include responsive-embed url="https://www.youtube.com/embed/Cy_le1e2qL8" ratio="16:9" %}
+
+## Retrospectives
+
+See details: [link to retrospectives](/retrospectives)
 
 ## Useful Links
 

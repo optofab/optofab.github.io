@@ -169,6 +169,32 @@ OptoFab:
 
 - Resign IP agreement.
 
+
+#### Meeting 6
+
+| Date       | 16/08/2021                                                                |
+| ---------- | ------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:10pm                                                           |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Keep OptoFab updated on our current progress
+
+**DISCUSSIONS**
+
+- Show appreciation for the fact that OptoFab joined us on Audit 1.
+- Demonstrated our current progress of the website by running the code [here](https://github.com/swingrope/optofab-website).
+- Described the database progress: the current schemas are on seperate working space. This week we'll combine them and start building tables while working on the front-end at the same time. 
+
+**ACTION**
+
+Our team:
+
+- Refactor the website.
+- Finish relational schema design and start building tables and application front-end design.
+
+
 ### Group Meetings
 
 #### Meeting 1

@@ -26,6 +26,10 @@ Refer to: <https://cs.anu.edu.au/TechLauncher/current_students/evaluation/projec
 
 The feedback is based on the reports from the TechLauncher Feedback Portal.
 
+_Update_ on 18/08/2021 after the tutorial:
+
+Thanks to the candid critiques and valuable feedback from our tutor and shadow team, our team has learnt to better improve our project in terms of decision making, team work, communication and reflection. So we've put a strikethrough on the question mark below ~~[?]~~. For more details, please refer to our meeting minutes for week 4 tutorial [here](/logs).
+
 ### Project output
 
 **Good**

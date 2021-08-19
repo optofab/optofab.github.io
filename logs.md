@@ -344,6 +344,30 @@ Our team:
 - Add the last semester’s decision making log to our repository
 - Add the hours each team member contributed on their tasks
 
+#### Meeting 7
+
+| Date       | 19/08/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 9:00pm - 9:30pm                                                               |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang |
+
+**AGENDA**
+
+- Discuss futher actions on developing local order management system.
+
+**DISCUSSIONS**
+
+- Found out that the current relational schema is not updated to the newest requirements.
+- Realised that a front-end prototype is needed for better understanding.
+- Need to speed up the development process.
+
+**ACTION**
+
+- Guoyu and Ruiqiao will correct their parts of relational schema according to [updated requirements](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true).
+- Ruiqiao will create a repo for local order management system on GitHub.
+- Wo will create a prototype for the front-end of local order management system.
+
+
 ### Tutorials
 
 #### Week 2

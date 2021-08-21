@@ -433,40 +433,40 @@ Our team:
 
 The content of agenda is from the email sent to our tutor and shadow team:
 
-> Our team would like to focus on the feedback from the audit report of week 3 for Wednesday tutorial.
-> On Monday, we had a group meeting discussing and reflecting on the critiques and suggestions from tutor, client and shadow team. We appreciate the honest feedback, and we would like to improve our work in the future.  However, we do need clarifications on some of the comments.
-> Our team has marked the points for tomorrow’s tutorial with question mark ❓ in https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/ , please check it out.
+> Our team would like to focus on the feedback from the audit report of week 3 for Wednesday tutorial.<br>
+> On Monday, we had a group meeting discussing and reflecting on the critiques and suggestions from tutor, client and shadow team. We appreciate the honest feedback, and we would like to improve our work in the future.  However, we do need clarifications on some of the comments.<br>
+> Our team has marked the points for tomorrow’s tutorial with question mark ❓ in <https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/> , please check it out.
 
-**DISCUSSIONS & Actions**
+**DISCUSSIONS & ACTIONS**
 
-The list number of the following discussion points correspond to the :question: mark on the retrospective page.
+The list number of the following discussion points correspond to the :question: marks on the [retrospective page](https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/).
 
-1. "Table of contents in dropdown menu conflicts with navbar".
-   It's a misunderstanding of the landing page structure. All good.
+1. "Table of contents in dropdown menu conflicts with navbar". <br>
+   It's a misunderstanding of the landing page structure. All good. <br>
 
-2. "SOW does not outline what deliverables you will make and how progress will be measured by your team and your customer."
-   All aspects mentioned in the SOW are team's deliverables. In the future, include more details in the statement of work to be more descriptive and clear. However, since this time the SOW has already been signed, there would be no need to modify it now.
+2. "SOW does not outline what deliverables you will make and how progress will be measured by your team and your customer." <br>
+   All aspects mentioned in the SOW are team's deliverables. In the future, include more details in the statement of work to be more descriptive and clear. However, since this time the SOW has already been signed, there would be no need to modify it now. <br>
 
-3. "It is concerning that you consider the risk of serious data mismatching as Possible “Risk will likely occur”."
-   At the time of assessing the risks, our team could anticipate a possibility of data mismatch since the this was an issue for last semester. However, issues like data mismatch could lead to serious consequences, so the lesson is that for the risk register to be effective and practical, the team should come up with potential solutions to mitigate the risks in a concrete way. Ideally, the risk assessment should be practical and specific to the project the team is working on.
+3. "It is concerning that you consider the risk of serious data mismatching as Possible 'Risk will likely occur'." <br>
+   At the time of assessing the risks, our team could anticipate a possibility of data mismatch since the this was an issue for last semester. However, issues like data mismatch could lead to serious consequences, so the lesson is that for the risk register to be effective and practical, the team should come up with potential solutions to mitigate the risks in a concrete way. Ideally, the risk assessment should be practical and specific to the project the team is working on. <br>
 
-4. "There have been a few instances where the team have had to refactor something multiple times because they started before finalising design/negotiation with clients on that aspect of the project."
-   The process is actually very agile though it doesn't follow the agile way to the word, because the team are working on one sprint per week and trying to deliver to the client constantly.
+4. "There have been a few instances where the team have had to refactor something multiple times because they started before finalising design/negotiation with clients on that aspect of the project." <br>
+   The process is actually very agile though it doesn't follow the agile way to the word, because the team are working on one sprint per week and trying to deliver to the client constantly. <br>
 
-5. "It may be too early to judge team collaboration until substantial work has been done but evidence of team work can be better shown with more detailed communications documentation and better formatted to do list. It appears difficult for an outsider to understand the to-do list as it is."
-   At the moment, the team cannot afford perfecting every document for stakeholders that are not our client. As long as the document such as the to-do list is sufficient for team members to understand and the team to make progress, it would suffice.
+5. "It may be too early to judge team collaboration until substantial work has been done but evidence of team work can be better shown with more detailed communications documentation and better formatted to do list. It appears difficult for an outsider to understand the to-do list as it is." <br>
+   At the moment, the team cannot afford perfecting every document for stakeholders that are not our client. As long as the document such as the to-do list is sufficient for team members to understand and the team to make progress, it would suffice. <br>
 
-6. "The team should make sure that the deputy spokesperson is in a position to backup the project manager, and that in turn one or two other team members shadows the deputy. "
-   The deputy spokesperson should be aware of the situation. For example, the deputy should join in the meeting every few weeks as a listening ear. On the other hand, actually every member is briefed every Monday and Friday night in the group meeting after the spokesperson holds a meetings with the client.
+6. "The team should make sure that the deputy spokesperson is in a position to backup the project manager, and that in turn one or two other team members shadows the deputy. " <br>
+   The deputy spokesperson should be aware of the situation. For example, the deputy should join in the meeting every few weeks as a listening ear. On the other hand, actually every member is briefed every Monday and Friday night in the group meeting after the spokesperson holds a meetings with the client. <br>
 
-7. "Though it is clear that the team has benefitted from having one person communicate with the client, the client mentioned a lag when contacting the necessary members of the team." + "It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager."
-   The suggestion has a good point, but current situation of project development makes it too late to adopt this suggestion, as the team has to allocate time in a more efficient way by assigning one spokesperson to communicate with the client and the rest of the team working on the implementation.
+7. "Though it is clear that the team has benefitted from having one person communicate with the client, the client mentioned a lag when contacting the necessary members of the team." + "It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager." <br>
+   The suggestion has a good point, but current situation of project development makes it too late to adopt this suggestion, as the team has to allocate time in a more efficient way by assigning one spokesperson to communicate with the client and the rest of the team working on the implementation. <br>
 
-8. "The team should have a reflection log, and individually every team member should have some reflections to capture as well."
-   The purpose of the reflection is for every member's voice to be heard and it also shows interactions and growth within the team. The personal reflection is optional and not necessarily kept weekly, but it would be good to show the evidence of team member's development along the journey. F
+8. "The team should have a reflection log, and individually every team member should have some reflections to capture as well." <br>
+   The purpose of the reflection is for every member's voice to be heard and it also shows interactions and growth within the team. The personal reflection is optional and not necessarily kept weekly, but it would be good to show the evidence of team member's development along the journey. <br>
 
-9. "It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk."
-   The team would add more pluses and minuses in the outcomes in the records. In this way, when reviewing in the future, one can easily grasp the big picture from these records.
+9. "It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk." <br>
+   The team would add more pluses and minuses in the outcomes in the records. In this way, when reviewing in the future, one can easily grasp the big picture from these records. <br>
 
 ## Work Records
 

@@ -5,7 +5,7 @@ tag:
   - "Retrospective"
 ---
 
-> Our team project is a continuing one from last semester focusing on the website and database implemenatations.
+> Our team project is a continuing one from last semester focusing on the implementations of a Customer Portal and a Local Order Management System for ANFF OptoFab ACT.
 
 {% include toc %}
 

@@ -656,8 +656,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Wo Tian
 
   - Host group meetings and a clients meeting. Record meeting minutes. (~ 1.75h)
-  - Meet Henry via Zoom, compare the current Customer Portal with requirements from OptoFab, write down the things that need to be corrected, wait for Henry to correct them, and check again (~ 2h)
-  - Meet with Guoyu and Ruiqiao to discuss the following steps related to Order Management System development. (~ 0.5h)
+  - Meet Henry via Zoom, compare the current Customer Portal with requirements from OptoFab, write down the [things](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) that need to be corrected, wait for Henry to correct them, and check again (~ 2h)
+  - Meet twice with Guoyu and Ruiqiao to discuss the following steps related to Order Management System development. (~ 1h)
   - Database front-end development using C# and ASP.NET (~ 5h)
   - Create a Git repo for the Local Order Management System, push the front-end progress, and send invitations to team members. (~ 0.5h)
   - Update landing page, including creating a reflection log, reviewing and editing newly added content, update reflections in reflection log, decisions in decision-making log, work records. (~ 0.75h)

@@ -662,6 +662,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Database front-end development using C# and ASP.NET (~ 5h)
   - Create a Git repo for the Local Order Management System, push the front-end progress, and send invitations to team members. (~ 0.5h)
   - Update landing page, including creating a reflection log, reviewing and editing newly added content, update reflections in reflection log, decisions in decision-making log, work records. (~ 0.75h)
+  - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (~ 0.75h) 
 
 
 <hr class="hr-dotted">

@@ -661,7 +661,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Meet with Guoyu and Ruiqiao to discuss the following steps related to Order Management System development. (~ 0.5h)
   - Database front-end development using C# and ASP.NET (~ 5h)
   - Create Git repo for Local Order Management System, push the front-end progress and send invitations to team members. (~ 0.5h)
-  - Update landing page, including create a reflection log, update reflections in reflection log, decisions in decision-making log, work records. (~ 0.5h)
+  - Update landing page, including create a reflection log, reviewing and editing newly added contents, update reflections in reflection log, decisions in decision-making log, work records. (~ 0.75h)
 
 
 <hr class="hr-dotted">

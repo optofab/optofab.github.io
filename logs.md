@@ -671,6 +671,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attending group meetings on Monday (0.75 hour)
   - Gathering feedback and updating retrospective based on discussions for audit 1 (2 hours)
   - Attending tutorial (2 hours)
+  - Web pages layout design at [`Figma`](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=31%3A129) (4 hours) (ongoing)
 
 <hr class="hr-dotted">
 
@@ -697,7 +698,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Refactored website(optical and photonic) with React (3 hours)
+  - Add Feedback, Modify and Track order part to website (2 hours)
+  - Attending group meetings on Monday (0.75 hour)
+  - Attending tutorial (2 hours)
+  - Meeting with Wo and fixing bugs (2 hours)
 
 <hr class="hr-dotted">
 
@@ -726,10 +731,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 ## Reflection log
 
-| **Index** | **Week** | **Reflaction**                                                                                                                                                                                                                                                                                                                                   | **Taker** |
-| --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| 1         | 4        | Our peers and tutor this semester want to make sure that everyone's voice is heard by adding a reflection log and letting everyone participate in the tutorials and audits more. A good team should be adaptable. Therefore we will adjust our approach in the coming tutorials and audits.                                                      | Wo Tian   |
-| 2         | 4        | We've got a relatively low score for Reflection on Audit 1. The course convenor, our tutor, and our shadow team all think that we should create a reflection log in Audit 1. <br/> We will actively listen to other people's advice and improve our documentation by adding a reflection log. (See the 8th decision in the decision-making log.) | Wo Tian   |
-| 3         | 4        | Received feedback from Many Eyes Process regarding SOW. It would be better if we could write the SOW with more detailed deliverables in the future if we need to write SOW again.                                                                                                                                                                                                            | Wo Tian   |
-| 4        | 4       | It is indeed true that our team member should participate more and speak up our own thoughts during the audit and tutorials. It would be better if we could let different members to deliver presentations for audit and encourage everyone to speak.                                                                                                                                                                                                            | Yaoyi Xu   |
-| 5        | 4       | The lesson I learnt is that although I am a part of the team, and we received the feedback as the team, we should construct our individual reflection.                                                                                                                                                                                            | Ruoqian Wu   |
+| **Index** | **Week** | **Reflaction**                                                                                                                                                                                                                                                                                                                                   | **Taker**  |
+| --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 1         | 4        | Our peers and tutor this semester want to make sure that everyone's voice is heard by adding a reflection log and letting everyone participate in the tutorials and audits more. A good team should be adaptable. Therefore we will adjust our approach in the coming tutorials and audits.                                                      | Wo Tian    |
+| 2         | 4        | We've got a relatively low score for Reflection on Audit 1. The course convenor, our tutor, and our shadow team all think that we should create a reflection log in Audit 1. <br/> We will actively listen to other people's advice and improve our documentation by adding a reflection log. (See the 8th decision in the decision-making log.) | Wo Tian    |
+| 3         | 4        | Received feedback from Many Eyes Process regarding SOW. It would be better if we could write the SOW with more detailed deliverables in the future if we need to write SOW again.                                                                                                                                                                | Wo Tian    |
+| 4         | 4        | It is indeed true that our team member should participate more and speak up our own thoughts during the audit and tutorials. It would be better if we could let different members to deliver presentations for audit and encourage everyone to speak.                                                                                            | Yaoyi Xu   |
+| 5         | 4        | The lesson I learnt is that although I am a part of the team, and we received the feedback as the team, we should construct our individual reflection.                                                                                                                                                                                           | Ruoqian Wu |

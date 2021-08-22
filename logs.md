@@ -675,7 +675,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruoqian Wu
 
-  -
+  - Attend group meetings on Monday (0.75 hours)
+  - Attended tutorial (2 hours)
+  - Wrote reflection log (0.25 hours)
+  - Started to write customer information page (3 hours)
+  - fixed website code (1 hour)
 
 <hr class="hr-dotted">
 
@@ -727,4 +731,4 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 | 2         | 4        | We've got a relatively low score for Reflection on Audit 1. The course convenor, our tutor, and our shadow team all think that we should create a reflection log in Audit 1. <br/> We will actively listen to other people's advice and improve our documentation by adding a reflection log. (See the 8th decision in the decision-making log.) | Wo Tian   |
 | 3         | 4        | Received feedback from Many Eyes Process regarding SOW. It would be better if we could write the SOW with more detailed deliverables.                                                                                                                                                                                                            | Wo Tian   |
 | 4        | 4       | It is indeed true that our team member should participate moreand speak up our own thoughts during the audit and tutorials. It would be better if we could let different members to deliver presentations for audit and encourage everyone to speak.                                                                                                                                                                                                            | Yaoyi Xu   |
-
+| 5        | 4       | The lesson I learnt is that although I am a part of the team, and we received the feedback as the team, we should construct our individual reflection.                                                                                                                                                                                            | Ruoqian Wu   |

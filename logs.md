@@ -195,9 +195,9 @@ Our team:
 
 #### Meeting 7
 
-| Date       | 23/08/2021                                                                |
-| ---------- | ------------------------------------------------------------------------- |
-| Time       | 1:30pm - 2:30pm                                                           |
+| Date       | 23/08/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:30pm                                                                       |
 | Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
 
 **AGENDA**
@@ -208,17 +208,19 @@ Our team:
 
 **DISCUSSIONS**
 
-- Phillip has shown the current Customer Portal front-end CSS design. OptoFab asked us to change the Logo. In general, they didn't show much interest in the design. They want to make sure that the functionalities are done by the end of the semester. 
-- Some fields were added to Order Management System front-end. Some questions raised in [this document](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true) were answered. 
-- 2 new TODO items were added into the [TODO list](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing). OptoFab needs some further discussion regarding chamfers and material lists (See ACTION). 
+- Phillip has shown the current Customer Portal front-end CSS design. OptoFab asked us to change the Logo. In general, they didn't show much interest in the design. They want to make sure that the functionalities are done by the end of the semester.
+- Some fields were added to Order Management System front-end. Some questions raised in [this document](https://docs.google.com/document/d/1n9Su61qbRqsEeCoD2Dzyc6kWu56wFWV7/edit?usp=sharing&ouid=116842803310347638522&rtpof=true&sd=true) were answered.
+- 2 new TODO items were added into the [TODO list](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing). OptoFab needs some further discussion regarding chamfers and material lists (See ACTION).
 
 **ACTION**
 
 Our team:
+
 1. Keep refining the website. Check the further steps at the end of [Refinements Week4](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 2. Adjust the current front-end by feedback. Combine the current backend and front-end parts of the Order Management System into one project and keep developing it.
 
 OptoFab:
+
 1. Think about changing chamfers x,y in Geometry module to what.
 2. Specify the following: Optical - Stock - Material dropdown options; Optical - not Stock - Material dropdown options; Photonic - not Stock - Material dropdown options.
 
@@ -701,6 +703,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attending group meetings on Monday (0.75 hour)
   - Gathering feedback and updating retrospective based on discussions for audit 1 (2 hours)
   - Attending tutorial (2 hours)
+  - Attending TechLauncher workshop and conducting WPP task 1. (3 hours)
   - Web pages layout design at [`Figma`](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=31%3A129) (4 hours) (ongoing)
 
 <hr class="hr-dotted">
@@ -747,28 +750,37 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Guoyu Wang
 
   -
-  
- ### Week 5
+
+### Week 5
 
 **23/08/2021 - 29/08/2021**
 
 - Wo Tian
 
+<<<<<<< HEAD
   - Host group meetings and a clients meeting. (1.5h) 
   - Prepare for meetings and record client meeting minutes. (1h)
   - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (0.5h)
   - Order Management System front-end development.  (0.5h)
+=======
+  - Host group meetings and a clients meeting. (1h)
+  - Record Client meeting minutes. (0.75h)
+  - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (0.5h)
+  - Order Management System front-end development (0.5h)
+>>>>>>> update work records for week 4 & 5
 
 <hr class="hr-dotted">
 
 - Tian Wu
 
-  -   
+  - Attending client meeting on Monday (1 hour)
+  - Attending group meeting on Monday (0.5 hour)
+
 <hr class="hr-dotted">
 
 - Ruoqian Wu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -780,7 +792,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -804,10 +816,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 | 4         | 1        | Due to the complex nature of physical components that OptoFab is manufacturing, the order placing process is highly dynamic. Since the IT department of RSPhys did not allow us to use React, the website development, especially debugging, is excruciating and the maintenance in the future is going to be hard for the IT department of RSPhys as well. Any tiny change of the UI or functionalities would require coding in multiple similar but different HTML files and create a hassle for the JavaScript part as well. | Need to talk to IT department of RSPhys asap about using React. Inform clients about the importance of giving all requirements at once and make as little change to the functionalities as possible.                                                                                                                                                                                                                                | All team members.                                   |
 | 5         | 1        | The IT department of RSPhys allowed us to use React. The changes(new requirements) need to be made in so many places that the developers think rewriting the entire website with React is quicker and neater than editing the old one. Clients agreed.                                                                                                                                                                                                                                                                          | Refactor the website using React.                                                                                                                                                                                                                                                                                                                                                                                                   | All team members, clients, IT department of RSPhys. |
 | 6         | 2        | Reflecting on feedback from the audits last semester, making PowerPoint presentations might be unnecessary work that might even distract us from refining the landing page.                                                                                                                                                                                                                                                                                                                                                     | Very carefully refine landing page for audit. Use the landing page to show our progress instead of PowerPoints.                                                                                                                                                                                                                                                                                                                     | All team members.                                   |
-| 7         | 4        | Database is just a part of the backend of one of the web applications that we are developing. Calling the customer portal the website and the order management system the database is not very clear.                                                                                                                                                                                                                                                                                                                                                                         | Specify that current two products as the Customer Portal and the Order Management System.                                                                                                                                                                                                                                                                                                                        | All team members.                                   |
+| 7         | 4        | Database is just a part of the backend of one of the web applications that we are developing. Calling the customer portal the website and the order management system the database is not very clear.                                                                                                                                                                                                                                                                                                                           | Specify that current two products as the Customer Portal and the Order Management System.                                                                                                                                                                                                                                                                                                                                           | All team members.                                   |
 | 8         | 4        | Reflecting on feedback from Audit 1, our peers and tutor this semester want to make sure that everyone's voice is heard by letting everyone participate in the tutorials and audits more.                                                                                                                                                                                                                                                                                                                                       | We will adjust our approach in the coming tutorials and audits.<br/> 1. The project manager will only be engaging in the Q&A session. Other team members will be in charge of presenting the Audits. <br/> 2. A reflection log will be created. All team members are going to write down some reflections when appropriate. <br/> 3. Strongly encourage all team members to communicate with the shadow team and Greg on tutorials. | All team members.                                   |
 | 9         | 4        | Reflecting on feedback from Audit 1, The course convenor, our tutor, and our shadow team all think that we should create a reflection log in Audit 1.                                                                                                                                                                                                                                                                                                                                                                           | We will actively listen to other people's advice and improve our documentation by adding a reflection log.                                                                                                                                                                                                                                                                                                                          | All team members.                                   |
-
 
 ## Reflection log
 

@@ -757,17 +757,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Wo Tian
 
-<<<<<<< HEAD
-  - Host group meetings and a clients meeting. (1.5h) 
+  - Host group meetings and a clients meeting. (1.5h)
   - Prepare for meetings and record client meeting minutes. (1h)
   - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (0.5h)
-  - Order Management System front-end development.  (0.5h)
-=======
-  - Host group meetings and a clients meeting. (1h)
-  - Record Client meeting minutes. (0.75h)
-  - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (0.5h)
-  - Order Management System front-end development (0.5h)
->>>>>>> update work records for week 4 & 5
+  - Order Management System front-end development. (0.5h)
 
 <hr class="hr-dotted">
 

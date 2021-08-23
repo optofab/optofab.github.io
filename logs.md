@@ -684,8 +684,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend group meetings on Monday (0.75 hours)
   - Revise risk assessment and team charter (1 hour)
   - Attend tutorial (2 hours)
+  - Attend workshop (2 hours)
+  - Complete workshop tasks (0.5 hours)
   - Wrote multiple backend files to fulfill fuctionalities of sending feedback, sending modification, getting order status. (3 hours)
-  - Research on async function with PHP (0.5 hours)
+  - Research on async function with PHP (1 hours)
   - Wrote reflection log. (0.25 hours)
 
 <hr class="hr-dotted">

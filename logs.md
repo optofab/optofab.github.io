@@ -692,6 +692,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Update landing page, including creating a reflection log, reviewing and editing newly added content, update reflections in reflection log, decisions in decision-making log, work records. (~ 0.75h)
   - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (~ 0.75h)
   - Attend tutorial. (2 hours)
+  - Attend Workshop 1: Know Yourself to Build Your Future Career. (2 hours)
 
 <hr class="hr-dotted">
 
@@ -753,10 +754,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Wo Tian
 
-  - Host group meetings and a clients meeting. (1h) 
-  - Record Client meeting minutes. (0.75h)
+  - Host group meetings and a clients meeting. (1.5h) 
+  - Prepare for meetings and record client meeting minutes. (1h)
   - Communication besides meetings, e.g., asking ANU delegate to sign the IP agreement via email, communicating with OptoFab via Slack, communicating with team members via Wechat by texting or audio calling. (0.5h)
-  - Order Management System front-end development  (0.5h)
+  - Order Management System front-end development.  (0.5h)
 
 <hr class="hr-dotted">
 

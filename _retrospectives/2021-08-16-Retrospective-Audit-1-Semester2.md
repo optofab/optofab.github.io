@@ -3,6 +3,7 @@ layout: post
 tag:
   - "Audit"
   - "Retrospective"
+last_modified_at: 2021-08-23
 ---
 
 > Our team project is a continuing one from last semester focusing on the implementations of a Customer Portal and a Local Order Management System for ANFF OptoFab ACT.
@@ -63,7 +64,7 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 **How to improve**
 
 1. Landing page:
-   1. Considering redesigning the landing page to split it up and adding the relevant pages to the top level navbar as a set of menus.
+   1. Considering redesigning the landing page to split it up and adding the relevant pages to the top level navbar as a set of menus. [ongoing :boat:]
    2. [homepage toc serves a different purpose than the navbar]
 2. SOW:
    1. [ lesson learnt, need to avoid the same mistake in the future ]
@@ -71,13 +72,13 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
    1. Considering demonstrating work in progress to client throughout the semester to get feedback and guidance.
    2. [ can only afford one sprint, agreed by client , slack...]
 4. GitHub repository:
-   1. Considering a section at the top describing what tools need to be in place for a new person to be able to clone and run the project (i.e. Node Package Manager is an obvious requirement). [Done]
+   1. Considering a section at the top describing what tools need to be in place for a new person to be able to clone and run the project (i.e. Node Package Manager is an obvious requirement). :white_check_mark:
 5. Risk register:
-   1. Starting to review risk register immediately and making sure content is valid.
+   1. Starting to review risk register immediately and making sure content is valid. :white_check_mark:
 6. The website:
-   1. [Paying attention to user experience such as legibility and page layout.]
-   2. [will use `React.js` to customize layout and improve legibility]
-   3. [footer is deprecated in our design]
+   1. [Paying attention to user experience such as legibility and page layout.] :boat:
+   2. [will use `React.js` to customize layout and improve legibility] :boat:
+   3. [footer is deprecated in our design] :boat:
 
 ### Decision making
 
@@ -94,8 +95,8 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 
 **How to improve**
 
-1. Consider separating out the decision log into a separate document, that is kept in your repository, so that new version can be tracked.
-2. [Include the decision logs from previous sememster.]
+1. Consider separating out the decision log into a separate document, that is kept in your repository, so that new version can be tracked. [:boat:]
+2. [Include the decision logs from previous sememster.] :white_check_mark:
 
 ### Team work
 
@@ -115,8 +116,8 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 **How to improve**
 
 1. The team should make sure that the deputy spokesperson is in a position to backup the project manager, and that in turn one or two other team members shadows the deputy. ~~[?] :question:~~
-2. Team should maintain a work log to track hours spent from each member.
-3. [Refine the team charter with more details, including: what's expected from each team member; explanations for the values;]
+2. Team should maintain a work log to track hours spent from each member. :white_check_mark:
+3. [Refine the team charter with more details, including: what's expected from each team member; explanations for the values;] :white_check_mark:
 
 ### Communication
 
@@ -133,8 +134,8 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 **How to improve**
 
 1. Try to minute more details of the discussion to for future review.
-2. It would be great if the team could include the agreed decisions after each discussion item.
-3. It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager. ~~[?] :question:~~
+2. It would be great if the team could include the agreed decisions after each discussion item. :white_check_mark:
+3. It is suggested that the team assign a Front End leader and Back End leader to join the client meetings together with the project manager. ~~[?] :question:~~ :white_check_mark:
 
 ### Reflection
 
@@ -149,6 +150,6 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 
 **How to improve**
 
-1. The team should have a reflection log, and individually every team member should have some reflections to capture as well. ~~[?] :question:~~
-2. It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk. ~~[?] :question:~~
-3. [Incorporate the reflection in landing page]
+1. The team should have a reflection log, and individually every team member should have some reflections to capture as well. ~~[?] :question:~~ :white_check_mark:
+2. It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk. ~~[?] :question:~~ :white_check_mark:
+3. [Incorporate the reflection in landing page] :white_check_mark:

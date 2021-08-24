@@ -798,7 +798,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  -
+  - Attended group meeting on Monday (0.5 hour)
 
 <hr class="hr-dotted">
 

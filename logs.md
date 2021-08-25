@@ -398,6 +398,28 @@ OptoFab:
 - Ruiqiao will create a repo for local order management system on GitHub.
 - Wo will create a prototype for the front-end of local order management system.
 
+#### Meeting 8
+  
+| Date       | 23/08/2021                                                          |
+| ---------- | ------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                     |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu |
+
+**AGENDA**
+
+- Discuss the meeting with clients on Monday
+- Discuss futher actions on developing local order management system.
+- Discuss futher actions on developing the website.
+- Discuss the next Audit
+
+**DISCUSSIONS**
+
+
+
+**ACTION**
+
+
+
 ### Tutorials
 
 #### Week 2

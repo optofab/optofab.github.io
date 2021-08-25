@@ -756,7 +756,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  -
+  - Modify SPDT, refactor Photonic with Optical part (3h modify + 1h refactor)
+  - Attend group meeting (0.5h)
+  - Attend database group meeting (0.5h)
+  - Attend seminar (2h)
+  - Attend tutorial (2h)
 
 ### Week 5
 

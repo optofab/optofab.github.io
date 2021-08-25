@@ -400,10 +400,10 @@ OptoFab:
 
 #### Meeting 8
   
-| Date       | 23/08/2021                                                          |
-| ---------- | ------------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                                     |
-| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu |
+| Date       | 23/08/2021                                                                  |
+| ---------- | --------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                             |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu,Wu Tian |
 
 **AGENDA**
 
@@ -414,9 +414,16 @@ OptoFab:
 
 **DISCUSSIONS**
 
+-
+
 
 
 **ACTION**
+- Ruiqiao Jiang, Hengrui Xu and Ruoqian Wu will take charge of the next audit.
+- Hengrui Xu will refactor the "upload file "function of the website.
+- Philip will send our agenda to tutor and shadow team.
+- Ruiqiao will refactor the back-end of the management system.
+- Wo will refactor the front-end of the management system.
 
 
 

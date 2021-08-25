@@ -414,9 +414,9 @@ OptoFab:
 
 **DISCUSSIONS**
 
--
-
-
+- Disucussed the front-end of the data management system will change a little bit.
+- Disucussed who took charge of the "upload file "function in the website development.
+- Discussed woho took charge of the Audit 2 and Audit 3.
 
 **ACTION**
 - Ruiqiao Jiang, Hengrui Xu and Ruoqian Wu will take charge of the next audit.

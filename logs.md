@@ -528,6 +528,19 @@ The list number of the following discussion points correspond to the :question: 
 9. "It would be better if the team could add the rationale behind each risk or even add a reflection log to show evidence of reflection among the team. Similar to the decision log, what exactly happened that gave rise to each risk." <br>
    The team would add more pluses and minuses in the outcomes in the records. In this way, when reviewing in the future, one can easily grasp the big picture from these records. <br>
 
+#### Week 5
+
+| Date       | 25/08/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+
+
 ## Work Records
 
 [Previous semester](/meetings)

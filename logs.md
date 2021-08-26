@@ -819,6 +819,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Communication besides meetings, e.g., communicating with OptoFab via Slack, communicating with team members via WeChat by texting or audio calling. (0.5h)
   - Order Management System front-end development. (0.5h)
   - Update landing page, including update the fully signed IP agreement, update decisions in decision-making log, work records. (0.25h)
+  - Inspect and correct the relational schema. (1.75h)
+  - Attend tutorial. (2h)
 
 <hr class="hr-dotted">
 

@@ -817,9 +817,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Host group meetings and a clients meeting. (1.5h)
   - Prepare for meetings and record client meeting minutes. (1h)
   - Communication besides meetings, e.g., communicating with OptoFab via Slack, communicating with team members via WeChat by texting or audio calling. (0.5h)
-  - Order Management System front-end development. (0.5h)
+  - Order Management System front-end development. (2h)
+  - Research on front-end development using ASP.NET, such as making tabviews.(1h)
   - Update landing page, including update the fully signed IP agreement, update decisions in decision-making log, work records. (0.25h)
-  - Inspect and correct the relational schema. (1.75h)
+  - Inspect and correct the relational schema. (2h)
   - Attend tutorial. (2h)
 
 <hr class="hr-dotted">

@@ -858,8 +858,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Recorded group meeting minutes. (1h)
   - Researched on front-end development and back-end development using ASP.NET.(1h)
   - Wrote reflection log. (0.25 hours)
-  - Attend tutorial. (2h)
-  - Review the relational schema and make some changes on the back-end management system. (2h)
+  - Attended tutorial. (2h)
+  - Reviewed the relational schema and made some changes on the back-end management system. (2h)
+  - Attended group meeting for the database management system. (0.5h)
 
 <hr class="hr-dotted">
 

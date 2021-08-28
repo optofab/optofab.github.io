@@ -844,6 +844,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 <hr class="hr-dotted">
 
+
+
 - Hengrui Xu
 
   -
@@ -852,7 +854,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  - Attended group meeting on Monday (0.5 hour)
+  - Attending group meeting on Monday (0.5 hour)
+  - Record group meeting minutes. (1h)
+  - Research on front-end development and back-end development using ASP.NET.(1h)
 
 <hr class="hr-dotted">
 

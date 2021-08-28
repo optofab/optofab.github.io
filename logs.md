@@ -854,9 +854,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  - Attending group meeting on Monday (0.5 hour)
-  - Record group meeting minutes. (1h)
-  - Research on front-end development and back-end development using ASP.NET.(1h)
+  - Attended group meeting on Monday (0.5 hour)
+  - Recorded group meeting minutes. (1h)
+  - Researched on front-end development and back-end development using ASP.NET.(1h)
+  - Wrote reflection log. (0.25 hours)
+  - Attend tutorial. (2h)
+  - Review the relational schema and make some changes on the back-end management system. (2h)
 
 <hr class="hr-dotted">
 

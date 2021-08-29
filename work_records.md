@@ -1,5 +1,5 @@
 ---
-layout: logs
+layout: workrecord
 permalink: /work_records/
 ---
 

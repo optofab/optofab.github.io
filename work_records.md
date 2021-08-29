@@ -291,6 +291,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attending client meeting on Monday (1 hour)
   - Attending group meeting on Monday (0.5 hour)
+  - Attending tutorial (2 hours)
+  - Drawing website portal design [sketches](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=49%3A3808) in Figma (3 hours)
+  - Rewriting website with typescript using `Gatsby` templating tool (9 hours)
 
 <hr class="hr-dotted">
 
@@ -314,8 +317,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Wrote project status (1 hour)
 
 <hr class="hr-dotted">
-
-
 
 - Hengrui Xu
 
@@ -343,7 +344,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Created the Audit 2 presentation slides.(3h)
   - Refactored the landing page.(1.5h)
   - Updated th status in the retrospective.(0.5h)
-  
 
 <hr class="hr-dotted">
 

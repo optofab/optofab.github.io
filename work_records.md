@@ -341,7 +341,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Created a template for the Audit 2 presentation slides.(0.5h)
   - Wrote the tutorial meeting minutes.(0.5h)
   - Created the Audit 2 presentation slides.(3h)
-  - Refactored the landing page.(1h)
+  - Refactored the landing page.(1.5h)
   
 
 <hr class="hr-dotted">

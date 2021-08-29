@@ -425,6 +425,28 @@ OptoFab:
 - Ruiqiao will refactor the back-end of the management system.
 - Wo will refactor the front-end of the management system.
 
+#### Meeting 9
+| Date       | 28/08/2021                         |
+| ---------- | ---------------------------------- |
+| Time       | 9:30pm - 10:00pm                   |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang |
+
+**AGENDA**
+- Discuss order management system status
+- Discuss content in Audit 2
+
+**DISCUSSIONS**
+
+- Discussed management system status, including front-end and SQL creation.
+- Discussed the task assignment for next step (week 6)
+- Discussed the audit presentation
+
+**ACTION**
+
+- Wo: improve front-end, create the back-end of the order management system
+- Guoyu: develop function to import order records from external file (JSON)
+- Ruiqiao: finalize the table creation and start work on front-end part 3.
+- Yaoyi: complete the status report for audit 2
 
 
 ### Tutorials

@@ -94,7 +94,7 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 
 **How to improve**
 
-1. Consider separating out the decision log into a separate document, that is kept in your repository, so that new version can be tracked. [:boat:]
+1. Consider separating out the decision log into a separate document, that is kept in your repository, so that new version can be tracked. :white_check_mark:
 2. [Include the decision logs from previous sememster.] :white_check_mark:
 
 ### Team work

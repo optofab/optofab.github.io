@@ -1,4 +1,11 @@
 
+---
+layout: logs
+permalink: /meeting_minutes/
+---
+
+{% include toc %}
+
 
 ## Meeting Minutes
 

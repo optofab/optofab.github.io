@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-## Decision Making
+
 
 Decision making logs from previous semester: [link hosted on Confluence](https://techlauncher.atlassian.net/wiki/spaces/TECHLAUNCH/pages/133300236/Decision+making+log)
 

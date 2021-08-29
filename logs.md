@@ -851,6 +851,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Resaeched on Postman (1 hour)
   - Used Postman to test existing backend features (1 hour)
   - Added new backend feature of saving JSON file and attaching it in email (2 hours)
+  - Wrote project status (1 hour)
 
 <hr class="hr-dotted">
 

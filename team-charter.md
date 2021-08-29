@@ -52,7 +52,7 @@ tag:
   <tr>
     <td>Ruiqiao Jiang</td>
     <td>Developer<br>Editor/checker<br>Meeting minutes writer</td>
-    <td>- Documentation writing, record the detailed team meetings.<br>- Edit the Project Risk Assessment <br>- Keep track of user requirements for database design<br>- Write the User Requirements on the Database</td>
+    <td>- Documentation writing, record the detailed team meetings.<br>- Design the database management system  <br>- Edit the Project Risk Assessment <br>- Keep track of user requirements for database design<br>- Write the User Requirements on the Database</td>
   </tr>
   <tr>
     <td>Guoyu Wang</td>

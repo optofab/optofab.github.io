@@ -66,9 +66,7 @@ tag:
   </tr>
 </table>
 
-
-<img src="././images/teamwork2.png">
-
+<img src="https://cdn-std.droplr.net/files/acc_498334/TzRiLU" alt="teamwork">
 
 ## Member skills/expertise
 
@@ -83,15 +81,18 @@ tag:
 ## Core values
 
 <strong>Responsible</strong><br>
-  - The team makes sure that all tasks are accountable.
-  - The team strives to deliver a product that has true value for the clients.
+
+- The team makes sure that all tasks are accountable.
+- The team strives to deliver a product that has true value for the clients.
 
 <strong>Punctual</strong><br>
-  - The team aims to deliver product on time.
+
+- The team aims to deliver product on time.
 
 <strong>Respectful</strong><br>
-  - The team promises to respect different opinions and considers all opinions valuable.
-  - The team promises to respect all stakeholders involved in this project.
+
+- The team promises to respect different opinions and considers all opinions valuable.
+- The team promises to respect all stakeholders involved in this project.
 
 ## Communication Plan
 

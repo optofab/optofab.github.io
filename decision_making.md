@@ -3,7 +3,6 @@ title: Decision Making
 layout: meetings
 permalink: /decision_making/
 show_exerpts: true
-entires_layout: list
 ---
 
 {% include toc %}

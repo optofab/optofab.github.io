@@ -1,6 +1,6 @@
 ---
 layout: logs
-permalink: /meeting——minutes/
+permalink: /meeting_minutes/
 ---
 
 {% include toc %}

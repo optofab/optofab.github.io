@@ -904,7 +904,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial. (2h)
   - Reviewed the relational schema and made some changes on the back-end management system. (2h)
   - Attended group meeting for the database management system. (0.5h)
-  - Attended group meeting with the other 2 members for the Audit 2.(1h)
+  - Attended group meeting with the other 2 members for the Audit 2.(0.5h+1h)
   - Wrote the requirements and sub-sections of the Audit2. (0.5h)
   - Created a template for the Audit 2 presentation slides.(0.5h)
   - Wrote the tutorial meeting minutes.(0.5h)
@@ -915,7 +915,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  -
+  - Attended group meeting on Monday (0.5 hours)
+  - Attended tutorial. (2 hours)
+  - Attended group meeting with the other 2 members for the Audit 2.(0.5+ 1h)
+  - Perpare for audit 2. (4 hours)
+
 
 ## Decision Making log
 

@@ -836,13 +836,21 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruoqian Wu
 
-  -
+  - Attended group meeting on Monday (0.5 hour)
+  - Attended tutorial. (2h)
+  - Added new functions to Customer Portal Web Application (3 h)
+  - Wrote reflection log (0.25h)
+  - Researched on CAPTCHA (1h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  -
+  - Attended group meeting on Monday (0.5 hours)
+  - Attended tutorial. (2 hours)
+  - Resaeched on Postman (1 hour)
+  - Used Postman to test existing backend features (1 hour)
+  - Added new backend feature of saving JSON file and attaching it in email (2 hours)
 
 <hr class="hr-dotted">
 
@@ -903,4 +911,5 @@ Decision making logs from previous semester: [link hosted on Confluence](https:/
 | 5         | 4        | The lesson I learnt is that although I am a part of the team, and we received the feedback as the team, we should construct our individual reflection.                                                                                                                                                                                           | Ruoqian Wu |
 | 6         | 4        | From the tutorial and the feedback from our shadow team, what I learnt is documentation is very important.Cause the other people outside our team know nothing about our project. They can only learn it from the documents we generated.Thus, we need to make our ducumentations very detailed.                                                                                                      | Ruiqiao Jiang |
 | 7         | 5        | The lesson I learnt is that since we are not very familiar with the database development, the time we spent on learning may be huge. And for example, we studied the C# for the management system, but I just found that the Django may be more suitable for our development.                                                                                                                                                                                           | Ruiqiao Jiang |
-
+| 8         | 5        | It is more efficient if backend can work in parallel with front-end instead of waiting for front-end finishing functionalities then start. Therefore, I decided to learn how to use Postman to test api functions.                                                                                                                                                                                           | Yaoyi Xu |
+| 9         | 5        | The lesson I learnt is that there are many useful frameworks for development on Github to increase the work efficiency, and there is no need to build everything from scratch.                                                                                                                                                                                           | Ruoqian Wu |

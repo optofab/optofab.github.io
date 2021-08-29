@@ -65,7 +65,6 @@ tag:
     <td>- Design and prototype the website interface<br>- Develop front end of the website<br>- Provide ideas</td>
   </tr>
 </table>
-
 <img src="./images/teamwork.png">
 
 ## Member skills/expertise

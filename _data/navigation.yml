@@ -26,8 +26,7 @@
 #   url: /projectstatus/
 # - title: Decisions
 #   url: /decisionlogs/
-- title: Logs
-  url: /logs/
+
 - title: Decison Making
   url: /decision_making/
 - title: Meeting Minutes

@@ -547,8 +547,7 @@ The content of agenda is from the email sent to our tutor and shadow team:
 
 1. "It will be better if you can neet with our shadow team from time  to time to discuss the project status".<br>
 2.  If we want to change from HTTP to HTTPS, we need to apply for a certificate for the website. We need to buy SSL certificate, and we need to modify and convert the server configuration of the current website. In addition, we need to change all hyperlinks using HTTP to HTTPS in the source code of our website.<br>
-
-
+3.  We can follow the requirement on the website."https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/".And also Greg sent us a detailed  email about the expectations and suggestions for Audit 2.
 
 
 

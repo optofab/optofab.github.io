@@ -28,6 +28,12 @@
 #   url: /decisionlogs/
 - title: Logs
   url: /logs/
+- title: Decison Making
+  url: /logs/
+- title: Meeting Minutes
+  url: /logs/
+- title: Reflection Log
+  url: /logs/
 - title: Product
   url: http://tl20212.cecs.anu.edu.au/home.html
 - title: 🔍

@@ -1,12 +1,7 @@
 ---
-title: Reflection Log
-layout: meetings
-permalink: /reflection_log/
-show_exerpts: true
-entires_layout: list
+layout: page
 ---
 
-{% include toc %}
 
 
 | **Index** | **Week** | **Reflection**                                                                                                                                                                                                                                                                                                                                   | **Taker**  |

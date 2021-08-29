@@ -67,7 +67,7 @@ tag:
 </table>
 
 
-<img src="https://optofab.github.io/team-charter/images/teamwork.png">
+<img src="https://optofab.github.io/images/teamwork.png">
 
 
 ## Member skills/expertise

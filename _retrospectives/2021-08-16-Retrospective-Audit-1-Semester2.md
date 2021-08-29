@@ -65,6 +65,7 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 
 1. Landing page:
    1. [homepage toc serves a different purpose than the navbar]
+   2. Consider separaring out the decision log into a separated document,that is kept in your repository so that new version can be tracked.:white_check_mark:
 2. SOW:
    1. [ lesson learnt, need to avoid the same mistake in the future ]
 3. Weekly schdule:

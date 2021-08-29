@@ -543,6 +543,11 @@ The content of agenda is from the email sent to our tutor and shadow team:
 2. Based on the feedback and discussion, our team have adopted many suggestions and made changes in our landing page site (see updated status in https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/ where ⛵️ means ongoing changes and ☑️ means changes adopted). Moreover, team members have added their personal reflection logs in https://optofab.github.io/logs/#reflection-log 
 3. We would like to do better for next audit, so is there a detailed rubric on the audit for both teams to check and improve?
 
+**DISCUSSIONS & ACTIONS**
+1."It will be better if you can neet with our shadow team from time  to time to discuss the project status".<br>
+
+
+
 
 
 ## Work Records

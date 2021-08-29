@@ -426,12 +426,14 @@ OptoFab:
 - Wo will refactor the front-end of the management system.
 
 #### Meeting 9
+
 | Date       | 28/08/2021                         |
 | ---------- | ---------------------------------- |
 | Time       | 9:30pm - 10:00pm                   |
 | Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang |
 
 **AGENDA**
+
 - Discuss order management system status
 - Discuss content in Audit 2
 

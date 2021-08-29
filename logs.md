@@ -859,7 +859,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Attended group meeting on Monday (0.5 hours)
+  - Attended tutorial. (2 hours)
+  - Attended group meeting with the other 2 members for the Audit 2.(1h)
+  - Perpare for audit 2. (4 hours)
 
 <hr class="hr-dotted">
 

@@ -279,12 +279,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Communication besides meetings, e.g., communicating with OptoFab via Slack, communicating with team members via WeChat by texting or audio calling discussing audit 2. (1h)
   - Order Management System front-end development. (2.5h)
   - Research on front-end development using ASP.NET, such as making tabviews.(1h)
-  - Update landing page, including update the fully signed IP agreement, update decisions in decision-making log, work records. (0.75h)
+  - Update landing page, including update the fully signed IP agreement, update decisions in the decision-making log, work records. (0.75h)
   - Inspect and correct the relational schema. (2h)
   - Attend tutorial. (2h)
-  - Attend group meeting for the order management system. (0.5h)
+  - Attend a group meeting for the order management system. (0.5h)
   - Refining parts of the audit speech. (0.25h)
-  - Connect the database to the Order Management System, including fixing bugs in DatabaseCreate.sql file, creating pseudo data for testing, building connection between the database and the front-end, complete functionalities related to GridView. (3.5h)
+  - Connect the database to the Order Management System, including fixing bugs in DatabaseCreate.sql file, creating pseudo data for testing, building the connection between the database and the front-end, complete functionalities related to GridView, researching, and learning corresponding skills. (4h)
 
 <hr class="hr-dotted">
 

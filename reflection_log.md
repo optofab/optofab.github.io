@@ -3,7 +3,6 @@ layout: page
 ---
 
 
-
 | **Index** | **Week** | **Reflection**                                                                                                                                                                                                                                                                                                                                   | **Taker**  |
 | --------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | 1         | 4        | Our peers and tutor this semester want to make sure that everyone's voice is heard by adding a reflection log and letting everyone participate in the tutorials and audits more. A good team should be adaptable. Therefore we will adjust our approach in the coming tutorials and audits.                                                      | Wo Tian    |

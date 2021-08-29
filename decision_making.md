@@ -1,11 +1,7 @@
 ---
-title: Decision Making
-layout: meetings
-permalink: /decision_making/
-show_exerpts: true
+layout: page
 ---
-
-{% include toc %}
+## Decision Making
 
 Decision making logs from previous semester: [link hosted on Confluence](https://techlauncher.atlassian.net/wiki/spaces/TECHLAUNCH/pages/133300236/Decision+making+log)
 

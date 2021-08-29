@@ -877,9 +877,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Reviewed the relational schema and made some changes on the back-end management system. (2h)
   - Attended group meeting for the database management system. (0.5h)
   - Attended group meeting with the other 2 members for the Audit 2.(1h)
-  - Wrote the requirement and sections of the Audit2. (0.5h)
+  - Wrote the requirements and sub-sections of the Audit2. (0.5h)
   - Created a template for the Audit 2 presentation slides.(0.5h)
   - Wrote the tutorial meeting minutes.(0.5h)
+  - Created the Audit 2 presentation slides.(3h)
   
 
 <hr class="hr-dotted">

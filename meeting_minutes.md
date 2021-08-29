@@ -451,6 +451,30 @@ OptoFab:
 - Ruiqiao: finalize the table creation and start work on front-end part 3.
 - Yaoyi: complete the status report for audit 2
 
+#### Meeting 10
+
+| Date       | 30/08/2021                         |
+| ---------- | ---------------------------------- |
+| Time       | 9:30pm - 11:00pm                   |
+| Attendance | Hengrui Xu, Ruiqiao Jiang, Guoyu Wang |
+
+**AGENDA**
+
+- Integrate presentation slides
+- Improve landing page
+
+**DISCUSSIONS**
+
+- Integrated everyone’s slides 
+- Discussed the landing page format for logs (decision making, meeting minutes, reflection, work records)
+
+**ACTION**
+
+- Hengrui: Integrate presentation slides
+- Ruiqiao: Refactor landing page log format
+- Guoyu: Finalize documentation 
+- Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
+
 
 ### Tutorials
 

@@ -66,6 +66,8 @@ tag:
   </tr>
 </table>
 
+<img src="./images/teamwork.png">
+
 ## Member skills/expertise
 
 - Wo Tian: Interpersonal skills, DBMS design and maintenance, software development

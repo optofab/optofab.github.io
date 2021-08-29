@@ -1,4 +1,9 @@
+---
+layout: logs
+permalink: /logs/
+---
 
+{% include toc %}
 
 ## Meeting Minutes
 

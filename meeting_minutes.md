@@ -1,9 +1,4 @@
----
-layout: meeting_minutes
-permalink: /meeting_minutes/
----
 
-{% include toc %}
 
 ## Meeting Minutes
 

@@ -344,6 +344,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Created the Audit 2 presentation slides.(3h)
   - Refactored the landing page.(1.5h)
   - Updated th status in the retrospective.(0.5h)
+  - Fixed the typo in the landing page.(0.7h)
 
 <hr class="hr-dotted">
 

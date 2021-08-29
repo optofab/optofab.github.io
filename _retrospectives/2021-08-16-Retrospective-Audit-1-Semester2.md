@@ -64,8 +64,7 @@ Thanks to the candid critiques and valuable feedback from our tutor and shadow t
 **How to improve**
 
 1. Landing page:
-   1. Considering redesigning the landing page to split it up and adding the relevant pages to the top level navbar as a set of menus. [ongoing :boat:]
-   2. [homepage toc serves a different purpose than the navbar]
+   1. [homepage toc serves a different purpose than the navbar]
 2. SOW:
    1. [ lesson learnt, need to avoid the same mistake in the future ]
 3. Weekly schdule:

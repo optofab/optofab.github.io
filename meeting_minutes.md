@@ -1,4 +1,3 @@
-
 ---
 layout: logs
 permalink: /meeting_minutes/

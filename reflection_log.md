@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Reflection log
 
 | **Index** | **Week** | **Reflection**                                                                                                                                                                                                                                                                                                                                   | **Taker**  |

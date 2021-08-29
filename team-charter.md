@@ -5,7 +5,7 @@ tag:
 ---
 
 > **Team Mission and Objectives**<br>
-> Our goal is to help the ANFF OptoFab to develop two parallel, interconnected components: the local database and the ANFF OptoFab website with extended functionalities.
+> Our goal is to help the ANFF OptoFab to develop two parallel, interconnected components: Local Order Management System and Customer Portal Web Application.
 
 {% include toc %}
 

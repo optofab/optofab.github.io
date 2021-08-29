@@ -67,7 +67,7 @@ tag:
 </table>
 
 
-<img src="./images/teamwork.png",style="width: 90%">
+<img src="./images/teamwork.png">
 
 
 ## Member skills/expertise

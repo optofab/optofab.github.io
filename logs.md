@@ -875,7 +875,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended group meeting with the other 2 members for the Audit 2.(1h)
   - Wrote the requirement and sections of the Audit2. (0.5h)
   - Created a template for the Audit 2 presentation slides.(0.5h)
-  - Wrotd the tutorial meeting minutes.(0.5h)
+  - Wrote the tutorial meeting minutes.(0.5h)
   
 
 <hr class="hr-dotted">

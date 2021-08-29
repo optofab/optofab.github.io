@@ -1,8 +1,10 @@
 ---
-layout: landing
+title: Reflection Log
+layout: meetings
+permalink: /reflection_log/
+show_exerpts: true
+entires_layout: list
 ---
-
-# Reflection log
 
 {% include toc %}
 

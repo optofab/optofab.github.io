@@ -796,7 +796,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended TechLauncher workshop and conducting WPP task 1. (3 hours)
   - Order Management System back-end development using MySql (5 hours)
   - Created a Git repo for the Local Order Management System, push the back-end progress, and send invitations to team members. (0.5 hour)
-  - Did Research on how to connect the front-end and back-end of the management system (2 hours)
+  - Researched on how to connect the front-end and back-end of the management system (2 hours)
 
 <hr class="hr-dotted">
 

@@ -544,7 +544,8 @@ The content of agenda is from the email sent to our tutor and shadow team:
 3. We would like to do better for next audit, so is there a detailed rubric on the audit for both teams to check and improve?
 
 **DISCUSSIONS & ACTIONS**
-1."It will be better if you can neet with our shadow team from time  to time to discuss the project status".<br>
+
+1. "It will be better if you can neet with our shadow team from time  to time to discuss the project status".<br>
 
 
 

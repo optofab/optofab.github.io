@@ -294,7 +294,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attending group meeting on Monday (0.5 hour)
   - Attending tutorial (2 hours)
   - Drawing website portal design [sketches](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=49%3A3808) in Figma (3 hours)
-  - Rewriting website with typescript using `Gatsby` templating tool (9 hours)
+  - [Rewriting](https://github.com/swingrope/optofab-website/tree/newdesign) website with typescript using `Gatsby` templating tool (not yet merged) (9 hours)
 
 <hr class="hr-dotted">
 

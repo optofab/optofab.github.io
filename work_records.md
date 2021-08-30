@@ -355,3 +355,49 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial. (2 hours)
   - Attended group meeting with the other 2 members for the Audit 2.(0.5+ 1h)
   - Perpare for audit 2. (4 hours)
+
+### Week 6
+
+**30/08/2021 - 05/09/2021**
+
+- Wo Tian
+
+  - Host group meetings and a clients meeting. (1.5h)
+  - Prepare for meetings and record client meeting minutes. (0.5h)
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  - 
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+  - 
+

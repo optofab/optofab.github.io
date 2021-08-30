@@ -225,6 +225,35 @@ OptoFab:
 1. Think about changing chamfers x,y in Geometry module to what.
 2. Specify the following: Optical - Stock - Material dropdown options; Optical - not Stock - Material dropdown options; Photonic - not Stock - Material dropdown options.
 
+#### Meeting 8
+
+| Date       | 30/08/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:15pm                                                                       |
+| Attendance | Wo Tian, Hengrui Xu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Explain the tough situation we were in last week (short of hands)
+- Need OptoFab to specify the options for different material dropdown boxes. 
+- Updates and next steps.
+
+**DISCUSSIONS**
+
+- Ruoqian had high fever. Phillip was in the hospital. Hengrui, Ruiqiao, Guoyu was preparing for audit 2 last week. Only Yaoyi and I were doing the usual workload last week to develop the products. Not lots progress has been done. 
+- Material dropdown boxes specified [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+- The OS for local order management system will be Windows 10.
+- Next steps are at the end of the document [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) marked in yellow.
+- Remind the clients of the audit time.
+
+**ACTION**
+
+Our team:
+
+1. Keep refining the website. Check the further steps at the end of [Refinements Week4](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+2. Front-end and backend development of the local order management system.
+
+
 ### Group Meetings
 
 #### Meeting 1

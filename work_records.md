@@ -393,7 +393,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  -
+  - Attending group meeting (1h)
+  - Wrote the script for the Audit 2 Presentation (2.5h)
+  - Wrote the group meeting minutes (0.5h)
+  - Fixed the typo of the presentation slides(0.5h)
+ 
 
 <hr class="hr-dotted">
 

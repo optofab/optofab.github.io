@@ -506,10 +506,10 @@ Our team:
 
 #### Meeting 11
   
-| Date       | 30/08/2021                                                                  |
-| ---------- | --------------------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                                             |
-| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu,Wu Tian |
+| Date       | 30/08/2021                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                              |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
 
 **AGENDA**
 

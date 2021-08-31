@@ -393,10 +393,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  - Attending group meeting (1h)
+  - Attended group meeting (1h)
   - Wrote the script for the Audit 2 Presentation (2.5h)
   - Wrote the group meeting minutes (0.5h)
   - Fixed the typo of the presentation slides(0.5h)
+  - Met with other 2 group members to prepare for the audit.(1h)
+  - Used Django instead of MySql to implement " create table" and the funtion "search by " in the first interface of the local order management system.(4h)
  
 
 <hr class="hr-dotted">

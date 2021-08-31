@@ -375,13 +375,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruoqian Wu
 
-  -
+  - Attended group meeting (0.5h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  -
+  - Attended group meeting (0.5h)
 
 <hr class="hr-dotted">
 

@@ -923,21 +923,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Perpare for audit 2. (4 hours)
 
 
-### Week 6
-
-**30/08/2021 - 05/09/2021**
-
-- Ruoqian Wu
-
-  - Attended group meeting on Monday (0.75 hours)
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-  - Attended group meeting on Monday (0.75 hours)
-
-
 ## Decision Making log
 
 Decision making logs from previous semester: [link hosted on Confluence](https://techlauncher.atlassian.net/wiki/spaces/TECHLAUNCH/pages/133300236/Decision+making+log)

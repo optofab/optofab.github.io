@@ -482,9 +482,9 @@ Our team:
 
 #### Meeting 10
 
-| Date       | 30/08/2021                         |
-| ---------- | ---------------------------------- |
-| Time       | 9:30pm - 11:00pm                   |
+| Date       | 29/08/2021                            |
+| ---------- | ------------------------------------- |
+| Time       | 9:30pm - 11:00pm                      |
 | Attendance | Hengrui Xu, Ruiqiao Jiang, Guoyu Wang |
 
 **AGENDA**
@@ -503,6 +503,30 @@ Our team:
 - Ruiqiao: Refactor landing page log format
 - Guoyu: Finalize documentation 
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
+
+#### Meeting 11
+  
+| Date       | 30/08/2021                                                                  |
+| ---------- | --------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                             |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu,Wu Tian |
+
+**AGENDA**
+
+- The team members prepare for the Audit 2 will show the progress to other members
+- The client meeting (mainly about the website)
+
+**DISCUSSIONS**
+
+- The team members provide suggestions for the Audit 2 presenation slides:1: divide the section called "documentaion and decision making" into "documentation" and decision making. 2.include the content "our client and team"into the section "project introduction" 3.There are some subtitles, because the text box is not long enough, resulting in font wrapping.
+- “https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit” in this link, the text highlighted in orange needs further refine.
+
+**ACTION**
+
+- Hengrui: Integrate presentation slides and upload to the Google Drive
+- Ruiqiao & Hengrui: Change the text format in the presentation slides
+- Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
+- Ruoqian & Hengrui: continue working on website
 
 
 ### Tutorials

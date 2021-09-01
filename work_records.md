@@ -355,6 +355,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial. (2 hours)
   - Attended group meeting with the other 2 members for the Audit 2.(0.5+ 1h)
   - Perpare for audit 2. (4 hours)
+  - Wrote meeting minutes (0.5h)
 
 ### Week 6
 
@@ -387,7 +388,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Attend group meeting on Monday (0.5h)
+  - Met with other 2 group members to prepare for the audit (1h)
+  - Wrote presentation script for audit 2 (3h)
 
 <hr class="hr-dotted">
 
@@ -405,4 +408,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  -
+  - Attend group meeting on Monday (0.5h)
+  - Met with other 2 group members to prepare for the audit (1h)
+  - Wrote presentation script for audit 2 (3h)

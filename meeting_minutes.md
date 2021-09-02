@@ -5,7 +5,6 @@ permalink: /meeting_minutes/
 
 {% include toc %}
 
-
 ## Meeting Minutes
 
 [Previous semester](/meetings/)
@@ -235,12 +234,12 @@ OptoFab:
 **AGENDA**
 
 - Explain the tough situation we were in last week (short of hands)
-- Need OptoFab to specify the options for different material dropdown boxes. 
+- Need OptoFab to specify the options for different material dropdown boxes.
 - Updates and next steps.
 
 **DISCUSSIONS**
 
-- Ruoqian had high fever. Phillip was in the hospital. Hengrui, Ruiqiao, Guoyu was preparing for audit 2 last week. Only Yaoyi and I were doing the usual workload last week to develop the products. Not lots progress has been done. 
+- Ruoqian had high fever. Phillip was in the hospital. Hengrui, Ruiqiao, Guoyu was preparing for audit 2 last week. Only Yaoyi and I were doing the usual workload last week to develop the products. Not lots progress has been done.
 - Material dropdown boxes specified [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 - The OS for local order management system will be Windows 10.
 - Next steps are at the end of the document [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) marked in yellow.
@@ -252,7 +251,6 @@ Our team:
 
 1. Keep refining the website. Check the further steps at the end of [Refinements Week4](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 2. Front-end and backend development of the local order management system.
-
 
 ### Group Meetings
 
@@ -429,7 +427,7 @@ Our team:
 - Wo will create a prototype for the front-end of local order management system.
 
 #### Meeting 8
-  
+
 | Date       | 23/08/2021                                                                  |
 | ---------- | --------------------------------------------------------------------------- |
 | Time       | 8:00pm - 8:30pm                                                             |
@@ -449,6 +447,7 @@ Our team:
 - Discussed who took charge of the Audit 2 and Audit 3.
 
 **ACTION**
+
 - Ruiqiao Jiang, Hengrui Xu and Ruoqian Wu will take charge of the next audit.
 - Hengrui Xu will refactor the "upload file "function of the website.
 - Philip will send our agenda to tutor and shadow team.
@@ -494,18 +493,18 @@ Our team:
 
 **DISCUSSIONS**
 
-- Integrated everyone’s slides 
+- Integrated everyone’s slides
 - Discussed the landing page format for logs (decision making, meeting minutes, reflection, work records)
 
 **ACTION**
 
 - Hengrui: Integrate presentation slides
 - Ruiqiao: Refactor landing page log format
-- Guoyu: Finalize documentation 
+- Guoyu: Finalize documentation
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 
 #### Meeting 11
-  
+
 | Date       | 30/08/2021                                                                   |
 | ---------- | ---------------------------------------------------------------------------- |
 | Time       | 8:00pm - 8:30pm                                                              |
@@ -527,7 +526,6 @@ Our team:
 - Ruiqiao & Hengrui: Change the text format in the presentation slides
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 - Ruoqian & Hengrui: continue working on website
-
 
 ### Tutorials
 
@@ -641,15 +639,69 @@ The list number of the following discussion points correspond to the :question: 
 
 The content of agenda is from the email sent to our tutor and shadow team:
 
-1. How to upgrade our website hosted at http://tl20212.cecs.anu.edu.au/  from `http` to `https`?
-2. Based on the feedback and discussion, our team have adopted many suggestions and made changes in our landing page site (see updated status in https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/ where ⛵️ means ongoing changes and ☑️ means changes adopted). Moreover, team members have added their personal reflection logs in https://optofab.github.io/logs/#reflection-log 
+1. How to upgrade our website hosted at http://tl20212.cecs.anu.edu.au/ from `http` to `https`?
+2. Based on the feedback and discussion, our team have adopted many suggestions and made changes in our landing page site (see updated status in https://optofab.github.io/retrospectives/2021-08-16-Retrospective-Audit-1-Semester2/ where ⛵️ means ongoing changes and ☑️ means changes adopted). Moreover, team members have added their personal reflection logs in https://optofab.github.io/logs/#reflection-log
 3. We would like to do better for next audit, so is there a detailed rubric on the audit for both teams to check and improve?
 
 **DISCUSSIONS & ACTIONS**
 
-1. "It will be better if you can neet with our shadow team from time  to time to discuss the project status".<br>
-2.  If we want to change from HTTP to HTTPS, we need to apply for a certificate for the website. We need to buy SSL certificate, and we need to modify and convert the server configuration of the current website. In addition, we need to change all hyperlinks using HTTP to HTTPS in the source code of our website.<br>
-3.  We can follow the requirement on the TechLauncher website. "https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/". And also Greg sent us a detailed email about the expectations and suggestions for Audit 2.
+1. "It will be better if you can neet with our shadow team from time to time to discuss the project status".<br>
+2. If we want to change from HTTP to HTTPS, we need to apply for a certificate for the website. We need to buy SSL certificate, and we need to modify and convert the server configuration of the current website. In addition, we need to change all hyperlinks using HTTP to HTTPS in the source code of our website.<br>
+3. We can follow the requirement on the TechLauncher website. "https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/". And also Greg sent us a detailed email about the expectations and suggestions for Audit 2.
 
+#### Week 6 - Audit 2
 
+| Date       | 30/08/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
 
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+For week6’s tutorial, our team would present our project audit by our fantastic team members: Ruiqiao Jiang, Guoyu Wang and Hengrui Xu. Also, Wo has invited our incredible clients to the audit!
+
+The presentation would be divided into the following sections:
+
+- First, a project introduction together with the project progress are presented for the audience, to give everyone a brief overview of our project.
+
+- Then the presentation would focus on the four inseparable parts: documentation, decision making, teamwork, and communication. Through the bits of improvement over the last several weeks, we really want to show everyone what we’ve learnt as a team.
+
+- Next, examples of team reflection are given as every team member strives to dig and delve consistently.
+
+- What’s more, a future plan is also provided to show our commitment to this project.
+
+- Last but not least, we would encourage everyone to get more involved by asking questions and putting forward suggestions!
+
+**DISCUSSIONS & ACTIONS**
+
+1. This part contains the Q&A following our audit presentation (after paraphrasing):
+
+   1. Q: "How come there's a discrepancy of meeting hours in the personal work record and the meeting minutes"? - Shawn (shadow team)<br>
+      A: "It's because sometimes two or more team members will extend the meeting to discuss about the project after the scheduled group meeting and other team members have left the zoom."
+
+   2. Q: "For the front-end design, does the team stick to the `React` all the way?" - Qianwei (shadow team)
+      A: "`React` is a just a framework for front-end design, so it can be flexible."
+
+   3. Q: "How do the website portal and the database managemeng system transfer data in between, since the team's using an offline database?" - Greg (tutor)<br>
+      A: "It's a combination of auto import/export between the two systems for some data such as order records; other data need manual management by ANFF staff."
+
+   4. "How does the renaming affect the teamwork and the client?" - Greg as (tutor)<br>
+      A: "As the project moves on, the team has gained deeper understanding of the system design. So it's natural for both the team and the client to rename the sub-systems more accurately."
+
+   5. "Do you have problematisation analysis?" - Priscilla (examiner)
+
+2. This part is our client feedback
+
+   1. "The decision of constructing a database for offline use is due to the considerations of our own stakeholders." - Deon (our client)
+
+   2. "We're glad to see that the team is making efforts to provide detailed documentation in every artifact of the project, which would help a lot for the future work when this project is handed over to a new team next semester." - Deon (our client)
+
+   3. "Considering the complexity of the project whose specifications also evolve now and then, the workload is massive. But the team help us understand the requirements along the way, and make practical decisions in the implementation of the product via frequent communications." - Steve (our client)
+
+3. This part is suggestions from our tutor and examiner.
+
+   1. "It's better to keep track of the logs and progresses using tools such as `Trello` and `Kanban`. In this way, every team member can see clearly the traces of efforts and it's beneficial to boost up the teamwork." - Greg (tutor)
+
+   2. "In the future, one way to improve is to futher partition the logs and records into specific sections such as feedback." - Priscilla (examiner)

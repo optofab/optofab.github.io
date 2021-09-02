@@ -371,6 +371,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Tian Wu
 
   - Attending group meeting (0.5h)
+  - Attending audit 2 tutorial (2h)
+  - Summarizing audit 2 tutorial meeting minutes (1h)
+  - TechLaunch Portal Feedback (1.5h)
 
 <hr class="hr-dotted">
 
@@ -402,7 +405,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Fixed the typo of the presentation slides(0.5h)
   - Met with other 2 group members to prepare for the audit.(1h)
   - Used Django instead of MySql to implement " create table" and the function "search by " in the first interface of the local order management system.(4h)
- 
 
 <hr class="hr-dotted">
 

@@ -365,6 +365,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Host group meetings and a clients meeting. (1.5h)
   - Prepare for meetings and record client meeting minutes. (0.5h)
+  - Attend Audit 2. (2h)
+  - Write tag report and feedback evaluation. (1.5h)
+  - Research on how to synchronize MySQL project. (0.5h)
+  - Order Management System front-end and backend developement of the default page. ()
 
 <hr class="hr-dotted">
 

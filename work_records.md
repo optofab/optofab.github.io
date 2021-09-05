@@ -368,7 +368,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend Audit 2. (2h)
   - Write tag report and feedback evaluation. (1.5h)
   - Research on how to synchronize MySQL project. (0.5h)
-  - Order Management System front-end and backend developement of the default page. Add new entries to the database. (4h)
+  - Order Management System front-end and backend developement of the default page. Add new entries to the database. (4.5h)
 
 <hr class="hr-dotted">
 

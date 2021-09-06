@@ -419,3 +419,49 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend group meeting on Monday (0.5h)
   - Met with other 2 group members to prepare for the audit (1h)
   - Wrote presentation script for audit 2 (3h)
+  
+### Teaching Break Week 1
+
+**06/09/2021 - 12/09/2021**
+
+- Wo Tian
+
+  - Host one clients meeting (2.75h) and one group meeting (0.5h).
+  - Prepare for meetings, make [draft of changes](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing) more understandable, record client meeting minutes. (1h)
+
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  - 
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  -
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+  - 
+

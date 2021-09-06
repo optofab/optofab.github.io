@@ -378,6 +378,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attending audit 2 tutorial (2h)
   - Summarizing audit 2 tutorial meeting minutes (1h)
   - TechLaunch Portal Feedback (1.5h)
+  - Page design in `Figma` (0.5h)
+  - Translating design in `React` (5h)
 
 <hr class="hr-dotted">
 

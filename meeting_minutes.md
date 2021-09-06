@@ -239,7 +239,7 @@ OptoFab:
 
 **DISCUSSIONS**
 
-- Ruoqian had high fever. Phillip was in the hospital. Hengrui, Ruiqiao, Guoyu was preparing for audit 2 last week. Only Yaoyi and I were doing the usual workload last week to develop the products. Not lots progress has been done.
+- Ruoqian had high fever. Phillip was in the hospital. Hengrui, Ruiqiao, Guoyu were preparing for audit 2 last week. Only Yaoyi and I were doing the usual workload last week to develop the products. Not lots progress has been done.
 - Material dropdown boxes specified [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 - The OS for local order management system will be Windows 10.
 - Next steps are at the end of the document [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) marked in yellow.
@@ -251,6 +251,42 @@ Our team:
 
 1. Keep refining the website. Check the further steps at the end of [Refinements Week4](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 2. Front-end and backend development of the local order management system.
+
+
+#### Meeting 9
+
+| Date       | 06/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 3:50pm                                                                       |
+| Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma |
+
+**AGENDA**
+
+- Updates and next steps.
+- Need OptoFab to specify which fields are composary.
+- Need OptoFab to tell us the extension for Winlens. 
+
+**DISCUSSIONS**
+
+- We thoroughly went through the entire customer portal that we have for now. Composary fields and some other changes are specified [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing). Note that all team members including the Order Management System team needs to carefully go through this since a lot of changes are related to both of the products.
+- Next steps are at the end of the document [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) marked in yellow.
+- Some further information from OptoFab is needed, specified in ACTION.
+
+**ACTION**
+
+Our team:
+
+1. Keep refining the website. Check the further steps at the end of [Refinements](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+2. Front-end and backend development of the local order management system.
+
+OptoFab:
+
+1. Steve or Kunlun - file extension for winlens
+2. Steve - Decision on inclusion of Reactive/Inert field
+3. Johannes - explanatory text for the three substrate surface accuracy fields
+4. Deon - write explanatory text for the standard substrate accuracy
+5. Johannes, Steve and Deon - accepted file types for each category
+6. As a group - think about MTA
 
 ### Group Meetings
 

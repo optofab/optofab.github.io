@@ -20,11 +20,12 @@ Wo TIAN:
 
 Tian WU:
   name: Tian Wu
-  twitter: "@Phi_W5"
-  links:
-    - title: Twitter
-      url: https://twitter.com/phi_W5
-      icon: fab fa-twitter-square
+  # twitter: "@Phi_W5"
+  # picture: "/images/Phi.jpg"
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/phi_W5
+  #     icon: fab fa-twitter-square
 
 Yaoyi XU:
   name: Yaoyi Xu

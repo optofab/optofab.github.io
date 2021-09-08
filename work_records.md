@@ -386,12 +386,14 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Ruoqian Wu
 
   - Attended group meeting (0.5h)
+  - Attended audit 2 tutorial (2h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
   - Attended group meeting (0.5h)
+  - Attended audit 2 tutorial (2h)
 
 <hr class="hr-dotted">
 
@@ -445,7 +447,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Yaoyi Xu
 
-  - 
+  - Debugged and fixed the cors issue with backend (1 hour)
+  - Changed email credentials to seperate file with gitignore (1 hour)
 
 <hr class="hr-dotted">
 

@@ -441,14 +441,18 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruoqian Wu
 
-  - 
+  - Debugged and fixed the cors issue (1 hour)
+  - Refactored front end codes based on requirements such as adding required field (9 hours)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  - Debugged and fixed the cors issue with backend (1 hour)
+  - Debugged and fixed the cors issue (2 hour)
   - Changed email credentials to seperate file with gitignore (1 hour)
+  - Tested and ensured backend api itself works ok (3 hours)
+  - Tested with existing front end part (2 hours)
+  - Helped with front end to add required field (1 hour)
 
 <hr class="hr-dotted">
 

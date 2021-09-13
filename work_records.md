@@ -421,7 +421,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend group meeting on Monday (0.5h)
   - Met with other 2 group members to prepare for the audit (1h)
   - Wrote presentation script for audit 2 (3h)
-  
+
 ### Teaching Break Week 1
 
 **06/09/2021 - 12/09/2021**
@@ -436,12 +436,19 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Order Management System front and backend development. (4h)
   - Editting the work records, reflaction log and decision making log. (0.5h)
 
-
 <hr class="hr-dotted">
 
 - Tian Wu
 
-  - 
+  - Attend group meeting (0.5h)
+  - Design more layouts in [`Figma`](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=0%3A1)(e.g. success, failure pages) (1h)
+  - Translating website designs from `Figma` to code:
+    - Request page (with hardcoded elements) (7h)
+    - Customer infomation page (2h)
+    - Modify page with upload and email service implemented (8h)
+    - Track page (0.5h)
+    - Feedback page (2h)
+
 <hr class="hr-dotted">
 
 - Ruoqian Wu
@@ -463,7 +470,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -476,8 +483,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Guoyu Wang
 
   -
-
-
 
 ### Teaching Break Week 2
 
@@ -488,29 +493,29 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Host one clients meeting and one group meeting (2 + 0.5h).
   - Prepare for meetings, make [draft of changes](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing) more understandable, record client meeting minutes. (1h)
 
-
 <hr class="hr-dotted">
 
 - Tian Wu
+  - Meet with client on Monday (2h)
+  - Attend group meeting (h)
 
-  - 
 <hr class="hr-dotted">
 
 - Ruoqian Wu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
 - Hengrui Xu
 
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -522,5 +527,196 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  - 
+  -
 
+### Week 8
+
+**27/09/2021 - 03/10/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
+### Week 9
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
+### Week 10
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
+### Week 11
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
+### Week 7
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
+### Week 12
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">

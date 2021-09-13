@@ -475,5 +475,51 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
+  -
+
+
+
+### Teaching Break Week 2
+
+**13/09/2021 - 19/09/2021**
+
+- Wo Tian
+
+  - 
+
+
+<hr class="hr-dotted">
+
+- Tian Wu
+
+  - 
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+  - 
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  -
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
   - 
 

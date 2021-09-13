@@ -428,8 +428,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Wo Tian
 
-  - Host one clients meeting (2.75h) and one group meeting (0.5h).
+  - Host one clients meeting and one group meeting (2.75 + 0.5h).
   - Prepare for meetings, make [draft of changes](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing) more understandable, record client meeting minutes. (1h)
+  - Meeting with the Order Management System team to discuss further steps. (0.5h)
+  - Meeting with the Customer Portal team discussing the agendas on the client meeting and some technical decisions. (0.5h)
+  - Modifying the relational schema and the DB creation SQL file according to the new changes. (1h)
+  - Order Management System front and backend development. (4h)
+  - Editting the work records, reflaction log and decision making log. (0.5h)
 
 
 <hr class="hr-dotted">

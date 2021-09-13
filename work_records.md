@@ -485,7 +485,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Wo Tian
 
-  - 
+  - Host one clients meeting and one group meeting (2 + 0.5h).
+  - Prepare for meetings, make [draft of changes](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing) more understandable, record client meeting minutes. (1h)
 
 
 <hr class="hr-dotted">

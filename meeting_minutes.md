@@ -594,6 +594,32 @@ OptoFab:
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 - Ruoqian & Hengrui: continue working on website
 
+
+
+#### Meeting 13
+
+| Date       | 13/09/2021                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                              |
+| Attendance | Wo Tian, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Review new requirements from clients together
+- Review progress so far
+- Discuss next steps
+
+**DISCUSSIONS**
+
+- The team discussed on how to fulfill new requirements and how to allocate the new tasks.
+- The team dicussed last week's progress and bugs together 
+- The team discussed what should be done next week and how to collaborate effectively.
+
+**ACTION**
+
+- Ruoqian & Hengrui: continue working on refactoring website
+- Phillip: continue working on css
+
 ### Tutorials
 
 #### Week 2

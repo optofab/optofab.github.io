@@ -288,6 +288,37 @@ OptoFab:
 5. Johannes, Steve and Deon - accepted file types for each category
 6. As a group - think about MTA
 
+#### Meeting 10
+
+| Date       | 13/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 3:30pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Updates and next steps.
+- Need OptoFab to finalize changes related to functionalities.
+
+**DISCUSSIONS**
+
+- We thoroughly went through the entire customer portal that we have for now again with Steve. Some new changes are specified [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing). All TODO items are marked in yellow. Note that all team members including the Order Management System team needs to carefully go through this since a lot of changes are related to both of the products.
+- Next steps are at the end of the document [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing) marked in yellow.
+- Some further information from OptoFab is needed, specified in ACTION.
+
+**ACTION**
+
+Our team:
+
+1. Keep refining the website. Check the further steps at the end of [Refinements](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+2. Front-end and backend development of the local order management system.
+
+OptoFab:
+
+1. Add explanatory text for SPDT Dimensional Accuracy.
+2. Write down the calculation for Radius from Side Length and Number of Sides. 
+3. What kind of things are expected in the handover documents.
+
 ### Group Meetings
 
 #### Meeting 1

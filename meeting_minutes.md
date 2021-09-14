@@ -252,19 +252,18 @@ Our team:
 1. Keep refining the website. Check the further steps at the end of [Refinements Week4](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
 2. Front-end and backend development of the local order management system.
 
-
 #### Meeting 9
 
-| Date       | 06/09/2021                                                                            |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Time       | 1:30pm - 3:50pm                                                                       |
+| Date       | 06/09/2021                                                |
+| ---------- | --------------------------------------------------------- |
+| Time       | 1:30pm - 3:50pm                                           |
 | Attendance | Wo Tian, Deon Hickey, Johannes Eichholz, Sukanta Debbarma |
 
 **AGENDA**
 
 - Updates and next steps.
 - Need OptoFab to specify which fields are composary.
-- Need OptoFab to tell us the extension for Winlens. 
+- Need OptoFab to tell us the extension for Winlens.
 
 **DISCUSSIONS**
 
@@ -316,7 +315,7 @@ Our team:
 OptoFab:
 
 1. Add explanatory text for SPDT Dimensional Accuracy.
-2. Write down the calculation for Radius from Side Length and Number of Sides. 
+2. Write down the calculation for Radius from Side Length and Number of Sides.
 3. What kind of things are expected in the handover documents.
 
 ### Group Meetings
@@ -509,8 +508,8 @@ OptoFab:
 
 **DISCUSSIONS**
 
-- Disucussed the front-end of the data management system will change a little bit.
-- Disucussed who took charge of the "upload file "function in the website development.
+- Discussed the front-end of the data management system will change a little bit.
+- Discussed who took charge of the "upload file "function in the website development.
 - Discussed who took charge of the Audit 2 and Audit 3.
 
 **ACTION**
@@ -594,13 +593,11 @@ OptoFab:
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 - Ruoqian & Hengrui: continue working on website
 
-
-
 #### Meeting 13
 
-| Date       | 13/09/2021                                                                   |
-| ---------- | ---------------------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                                              |
+| Date       | 13/09/2021                                                    |
+| ---------- | ------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                               |
 | Attendance | Wo Tian, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
 
 **AGENDA**
@@ -612,7 +609,7 @@ OptoFab:
 **DISCUSSIONS**
 
 - The team discussed on how to fulfill new requirements and how to allocate the new tasks.
-- The team dicussed last week's progress and bugs together 
+- The team dicussed last week's progress and bugs together
 - The team discussed what should be done next week and how to collaborate effectively.
 
 **ACTION**

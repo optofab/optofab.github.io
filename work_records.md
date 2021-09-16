@@ -442,7 +442,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attend group meeting (0.5h)
   - Design more layouts in [`Figma`](https://www.figma.com/file/ol7ZmeiJ24GHMqA7N7IebW/OptoFab?node-id=0%3A1)(e.g. success, failure pages) (1h)
-  - Translating website designs from `Figma` to code:
+  - Translating website designs from `Figma` to code on `newdesign` repo branch:
     - Request page (with hardcoded elements) (7h)
     - Customer infomation page (2h)
     - Modify page with upload and email service implemented (8h)
@@ -497,7 +497,14 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Tian Wu
   - Meet with client on Monday (2h)
-  - Attend group meeting (h)
+  - Attend group meeting (0.5h)
+  - Collect feedback from tag reports (1.5h)
+  - Write and update inivisual retrospective logs (2.5h)
+  - Fine tune design in Figma (1h)
+  - Start applying designs from `Gatsby` to `create-react-app` by:
+    - Reconfiguring project structures (2h)
+    - Creating homepage, success-submit, and error-submit pages (2h)
+    - Stying request, track, modify and feedback pages (6h)
 
 <hr class="hr-dotted">
 

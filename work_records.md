@@ -421,6 +421,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend group meeting on Monday (0.5h)
   - Met with other 2 group members to prepare for the audit (1h)
   - Wrote presentation script for audit 2 (3h)
+  - Attend audit 2 on Wednesday (2h)
+  - Research on how to import json into mysql (2h)
 
 ### Teaching Break Week 1
 

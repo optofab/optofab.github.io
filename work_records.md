@@ -494,6 +494,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Host one clients meeting and one group meeting (2 + 0.5h).
   - Prepare for meetings, make [draft of changes](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing) more understandable, record client meeting minutes. (1h)
+  - Front-end and backend development of the Default and Order page of the Order Management System. (11h)
 
 <hr class="hr-dotted">
 
@@ -635,38 +636,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 ### Week 11
-
-**20/09/2021 - 26/09/2021**
-
-- Wo Tian
-
-<hr class="hr-dotted">
-
-- Tian Wu
-
-<hr class="hr-dotted">
-
-- Ruoqian Wu
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-<hr class="hr-dotted">
-
-- Hengrui Xu
-
-<hr class="hr-dotted">
-
-- Ruiqiao Jiang
-
-<hr class="hr-dotted">
-
-- Guoyu Wang
-
-<hr class="hr-dotted">
-
-### Week 7
 
 **20/09/2021 - 26/09/2021**
 

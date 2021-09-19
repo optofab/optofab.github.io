@@ -507,7 +507,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Start applying designs from `Gatsby` to `create-react-app` by:
     - Reconfiguring project structures (2h)
     - Creating homepage, success-submit, and error-submit pages (2h)
-    - Stying request, track, modify and feedback pages (6h)
+    - Styling request, track, modify and feedback pages (6h)
 
 <hr class="hr-dotted">
 

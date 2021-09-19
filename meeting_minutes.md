@@ -766,12 +766,12 @@ The presentation would be divided into the following sections:
 
 **DISCUSSIONS & ACTIONS**
 
-1. This part contains the Q&A following our audit presentation (after paraphrasing):
+1. This part contains the Q&A following our audit presentation (after rephrasing and paraphrasing):
 
    1. Q: "How come there's a discrepancy of meeting hours in the personal work record and the meeting minutes"? - Shawn (shadow team)<br>
       A: "It's because sometimes two or more team members will extend the meeting to discuss about the project after the scheduled group meeting and other team members have left the zoom."
 
-   2. Q: "For the front-end design, does the team stick to the `React` all the way?" - Qianwei (shadow team)
+   2. Q: "For the front-end design, does the team stick to the `React` all the way?" - Qianwei (shadow team)<br>
       A: "`React` is a just a framework for front-end design, so it can be flexible."
 
    3. Q: "How do the website portal and the database managemeng system transfer data in between, since the team's using an offline database?" - Greg (tutor)<br>

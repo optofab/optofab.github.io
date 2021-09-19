@@ -513,13 +513,16 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruoqian Wu
 
-  -
+  - Attended group meeting (0.5h)
+  - Implemented code refinements (9h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
 
-  -
+  - Attended group meeting (0.5h)
+  - Wrote meeting minutes(0.5h)
+  - Implemented and tested back end functionalities (6h)
 
 <hr class="hr-dotted">
 

@@ -582,6 +582,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
+  - Attend group meeting (TBD)
+  - Finished coding the front-end and back-end of the "opticalorphotonic" page in the management system.
+  - Attend tutorial (TBD)
+  - Attend WPP workshop (TBD)
+ 
+
 <hr class="hr-dotted">
 
 - Guoyu Wang

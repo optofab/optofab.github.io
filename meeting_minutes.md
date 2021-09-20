@@ -593,6 +593,25 @@ OptoFab:
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 - Ruoqian & Hengrui: continue working on website
 
+#### Meeting 12
+
+| Date       | 06/09/2021                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                              |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- 
+
+**DISCUSSIONS**
+
+- 
+
+**ACTION**
+
+- 
+
 #### Meeting 13
 
 | Date       | 13/09/2021                                                    |

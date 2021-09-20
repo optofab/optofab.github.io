@@ -682,7 +682,7 @@ Our team:
 
 **AGENDA**
 
-- Review new requirements from clients together: Refine the website and the handover documents
+- Review new requirements from clients together: Refine the website and write the handover documents
 
 **DISCUSSIONS**
 
@@ -692,7 +692,7 @@ Our team:
 **ACTION**
 
 - Ruoqian & Hengrui: continue working on refactoring website
-- Phillip: continue working on css
+- Phillip: continue working on website css
 - Everyone: add comments in our code and write the handover documents
 
 

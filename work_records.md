@@ -478,7 +478,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  -
+  - Attended group meeting (0.5h)
+  - Developed the Order Management System front end. (2h)
+  - Researched on asp.net (2h)
+  - Edited the work records, meeting minutes, reflaction log and decision making log. (0.75h)
 
 <hr class="hr-dotted">
 
@@ -534,7 +537,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  -
+  -  Researched on asp.net (1.5h)
+  -  Front-end development of the part, side and optical/photonic page of the Order Management System. (3h)
+
 
 <hr class="hr-dotted">
 

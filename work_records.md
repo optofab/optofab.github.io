@@ -481,7 +481,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended group meeting (0.5h)
   - Developed the Order Management System front end. (2h)
   - Researched on asp.net (2h)
-  - Edited the work records, meeting minutes, reflaction log and decision making log. (0.75h)
+  - Edited the work records, meeting minutes, reflection log. (0.75h)
 
 <hr class="hr-dotted">
 
@@ -539,6 +539,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   -  Researched on asp.net (1.5h)
   -  Front-end development of the part, side and optical/photonic page of the Order Management System. (3h)
+  -  Edited the work records, reflection log. (0.5h)
 
 
 <hr class="hr-dotted">

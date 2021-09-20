@@ -700,7 +700,7 @@ Our team:
 - Phillip: continue working on website css (Agreed by everyone)
 - Everyone: add comments in our code and write the handover documents (Agreed by everyone)
 - Ruiqiao: continue working on the back-end of the management system. (Agreed by everyone)
-- Add one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
+- Ruiqiao: sdd one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
 
 
 ### Tutorials

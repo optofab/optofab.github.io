@@ -677,23 +677,30 @@ Our team:
 
 | Date       | 20/09/2021                                                    |
 | ---------- | ---------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                                  |
+| Time       | 8:00pm - 9:00pm                                                  |
 | Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
 
 **AGENDA**
 
 - Review new requirements from clients together: Refine the website and write the handover documents
+- Audit 2 Retrospective 
 
 **DISCUSSIONS**
 
 - The team discussed on how to fulfill new requirements and how to allocate the new tasks.
 - The team discussed what should be done next week and how to collaborate effectively.
+- The team discussed the retrospective. Our team discussed on the selected tips, how we can improve on each advice.
+- The team discussed the handover documents, what content we should contain in the documents to Martin, OptoFab and also the future students. The detailed document content will cover serval percespectives. The detailed content is under the link: https://docs.google.com/document/d/1uWrBjZ932HntIPk-vCvv65ao4Rry5haL4G_gA3TTQbg/edit
+- The team discussed the website refinements, the specific parts need to be modified according to this link: https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit
 
 **ACTION**
 
-- Ruoqian & Hengrui: continue working on refactoring website
-- Phillip: continue working on website css
-- Everyone: add comments in our code and write the handover documents
+- Ruoqian & Hengrui: continue working on refactoring website (Agreed by everyone)
+- Hengrui: work on the website deployment (Agreed by everyone)
+- Phillip: continue working on website css (Agreed by everyone)
+- Everyone: add comments in our code and write the handover documents (Agreed by everyone)
+- Ruiqiao: continue working on the back-end of the management system.
+
 
 
 ### Tutorials

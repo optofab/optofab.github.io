@@ -632,16 +632,22 @@ Our team:
 
 **AGENDA**
 
-- 
+- Review new requirements from clients together
+- Review our progress so far and assign tasks for the future steps
 
 **DISCUSSIONS**
 
-- 
+- Walk through the meeting minutes with clients and our to do list:https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit
+- The website will continue refining.
+- Some names of the attributes change so that our relational schema needs to be changed and also the sql file needs to be modified corresponding to this.
 
 **ACTION**
 
-- 
-
+- Raymond & Hengrui: continue refining our website
+- Yaoyi: continue working on the back-end of the website
+- Wu: continue developing the layout of the website
+- Wo, Ruiqiao : continue working on the front-end and back-end of the management system
+- Guoyu: continue doing research on how to import data
 #### Meeting 13
 
 | Date       | 13/09/2021                                                    |

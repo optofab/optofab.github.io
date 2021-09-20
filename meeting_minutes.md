@@ -648,6 +648,7 @@ Our team:
 - Wu: continue developing the layout of the website
 - Wo, Ruiqiao : continue working on the front-end and back-end of the management system
 - Guoyu: continue doing research on how to import data
+
 #### Meeting 13
 
 | Date       | 13/09/2021                                                    |
@@ -671,6 +672,29 @@ Our team:
 
 - Ruoqian & Hengrui: continue working on refactoring website
 - Phillip: continue working on css
+
+#### Meeting 14
+
+| Date       | 20/09/2021                                                    |
+| ---------- | ---------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                  |
+| Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Review new requirements from clients together: Refine the website and the handover documents
+
+**DISCUSSIONS**
+
+- The team discussed on how to fulfill new requirements and how to allocate the new tasks.
+- The team discussed what should be done next week and how to collaborate effectively.
+
+**ACTION**
+
+- Ruoqian & Hengrui: continue working on refactoring website
+- Phillip: continue working on css
+- Everyone: add comments in our code and write the handover documents
+
 
 ### Tutorials
 

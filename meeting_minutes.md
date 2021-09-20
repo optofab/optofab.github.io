@@ -318,6 +318,36 @@ OptoFab:
 2. Write down the calculation for Radius from Side Length and Number of Sides.
 3. What kind of things are expected in the handover documents.
 
+#### Meeting 11
+
+| Date       | 20/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:30pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Updates and next steps.
+- Need OptoFab to specify what kind of handover documents are desired.
+
+**DISCUSSIONS**
+
+- Wo gave the update of the Order Management System and the functionalities of the Customer Portal. Next steps are [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+- Phillip gave the update of the design of the Customer Portal. Check our launched website [here](https://tl20212.cecs.anu.edu.au/).
+- Some of the handover documents are specified by OptoFab [here](https://docs.google.com/document/d/1uWrBjZ932HntIPk-vCvv65ao4Rry5haL4G_gA3TTQbg/edit?usp=sharing).
+
+
+**ACTION**
+
+Our team:
+
+1. Start working on the handovers. 
+2. Finish the further steps [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
+3. Finish the Part page of Order Management System if time allows.
+
+
+
+
 ### Group Meetings
 
 #### Meeting 1

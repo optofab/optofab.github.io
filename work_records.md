@@ -542,6 +542,46 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   -
 
+### Week 7
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+
+<hr class="hr-dotted">
+
+- Tian Wu
+  - Deploy web portal to ANU server (2h)
+    - Streamline automated build and deployment process for easy development and web hosting (TBD)
+  - Upgrade [web portal](https://tl20212.cecs.anu.edu.au) from `http` to `https` (4h)
+  - Attend group meeting (TBD)
+  - Attend client meeting (TBD)
+  - Attend tutorial (TBD)
+  - Attend WPP workshop (TBD)
+  - Keep styling `tl20212.cecs.anu.edu.au/request` page (TBD)
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+
+<hr class="hr-dotted">
+
 ### Week 8
 
 **27/09/2021 - 03/10/2021**

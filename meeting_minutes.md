@@ -675,9 +675,9 @@ Our team:
 
 #### Meeting 14
 
-| Date       | 20/09/2021                                                    |
+| Date       | 20/09/2021                                                       |
 | ---------- | ---------------------------------------------------------------- |
-| Time       | 8:00pm - 9:00pm                                                  |
+| Time       | 8:00pm - 9:30pm                                                  |
 | Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
 
 **AGENDA**

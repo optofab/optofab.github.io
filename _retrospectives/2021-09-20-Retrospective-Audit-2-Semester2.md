@@ -47,10 +47,10 @@ Client is positive in the output of the team as both sides of the project are pr
 
 **How to improve**
 
-1. [I1]: Portal vs Database. Many database fragements depend on the exported files from out website portals, so we have to focus more and "over-invest" a little bit in the portal side. Now it's nearly finished on the portal side, we can pivot to the database from now on.
+1. [I1] Portal vs Database. Many database fragements depend on the exported files from out website portals, so we have to focus more and "over-invest" a little bit in the portal side. Now it's nearly finished on the portal side, we can pivot to the database from now on.
 2. [I2]Tutor: "Please try to ensure that the work is more evenly balanced or that the times recorded are a bit more accurate." [check]
 3. [I3]Tutor: "A review of the schema with a focus on cardinality and normalising the structure is recommended. Most likely, every table becomes a class/package in your backend code, these small tables will pollute your code." [the schema file has been updated and synced to the landing website]
-4. [I4]: [misunderstanding] As was described in the audit 2 presentation, the communication with the client is flexible. Usually, Wo communicates with the client about the requirements for both portal and database side, and the rest of the team engage in the process whenever they are needed (Wo calls them by phone or via wechat, and teammates respond fairly quickly if you are curious how it works behind the scene)
+4. [I4] [misunderstanding] As was described in the audit 2 presentation, the communication with the client is flexible. Usually, Wo communicates with the client about the requirements for both portal and database side, and the rest of the team engage in the process whenever they are needed (Wo calls them by phone or via wechat, and teammates respond fairly quickly if you are curious how it works behind the scene)
 
 ### Decision Making
 
@@ -80,7 +80,7 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I7]: [The way each member contributes to the project is doing his/her part of the job which is functionality-oriented. Since every functionality varies and costs different hours of work, we will try to balance it during the next iteration]. :question:
+1. [I7] [The way each member contributes to the project is doing his/her part of the job which is functionality-oriented. Since every functionality varies and costs different hours of work, we will try to balance it during the next iteration]. :question:
 
 ### Communication
 
@@ -96,8 +96,8 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I8]: [Our team uses WeChat for the maximum workflow efficiency, as it really serves well as an instant messaging tool. We really love to hear the way to measure how well a team's communicating.] :question:
-2. [I9]: [Maybe later on, we can elaborate more on the actions and rationales in the discussions, besides providing external links...] :question
+1. [I8] [Our team uses WeChat for the maximum workflow efficiency, as it really serves well as an instant messaging tool. We really love to hear the way to measure how well a team's communicating.] :question:
+2. [I9] [Maybe later on, we can elaborate more on the actions and rationales in the discussions, besides providing external links...] :question
 
 ### Reflection
 
@@ -112,4 +112,4 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I10]: [Updates: improved by implementing a lot of functionalites this semester, including the term break...]
+1. [I10] [Updates: improved by implementing a lot of functionalites this semester, including the term break...]

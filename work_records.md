@@ -591,11 +591,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  - Attended group meeting (TBD)
+  - Attended group meeting (1.5h)
   - Finished coding the front-end and back-end of the "OpticalOrPhotonic", "Side" and "Coating" these three pages in the order management system.
-  - Attended tutorial (TBD)
-  - Attended WPP workshop (TBD)
-  - Added one column in the decision making log in our landing page.
+  - Attended tutorial (2h)
+  - Attended WPP workshop (2h)
+  - Added one column in the decision making log in our landing page.(0.25h)
 
 <hr class="hr-dotted">
 

@@ -481,7 +481,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Ruiqiao Jiang
 
   - Attended group meeting (0.5h)
-  - Developed the Order Management System front end. (2h)
+  - Developed the Order Management System front end and researched on how to implement the back-end. (4h)
   - Researched on asp.net (2h)
   - Edited the work records, meeting minutes, reflection log. (0.75h)
 
@@ -540,7 +540,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Ruiqiao Jiang
 
   - Researched on asp.net (1.5h)
-  - Front-end development of the part, side and optical/photonic page of the Order Management System. (3h)
+  - Front-end development of the part, side and optical/photonic page of the Order Management System. (4h)
   - Edited the work records, reflection log. (0.5h)
 
 <hr class="hr-dotted">
@@ -592,7 +592,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Ruiqiao Jiang
 
   - Attended group meeting (1.5h)
-  - Finished coding the front-end and back-end of the "OpticalOrPhotonic", "Side" and "Coating" these three pages in the order management system.
+  - Finished coding the front-end and back-end of the "OpticalOrPhotonic", "Side" and "Coating" these three pages in the order management system.(6h)
   - Attended tutorial (2h)
   - Attended WPP workshop (2h)
   - Added one column in the decision making log in our landing page.(0.25h)

@@ -336,17 +336,13 @@ OptoFab:
 - Phillip gave the update of the design of the Customer Portal. Check our launched website [here](https://tl20212.cecs.anu.edu.au/).
 - Some of the handover documents are specified by OptoFab [here](https://docs.google.com/document/d/1uWrBjZ932HntIPk-vCvv65ao4Rry5haL4G_gA3TTQbg/edit?usp=sharing).
 
-
 **ACTION**
 
 Our team:
 
-1. Start working on the handovers. 
+1. Start working on the handovers.
 2. Finish the further steps [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
 3. Finish the Part page of Order Management System if time allows.
-
-
-
 
 ### Group Meetings
 
@@ -683,7 +679,7 @@ Our team:
 **AGENDA**
 
 - Review new requirements from clients together: Refine the website and write the handover documents
-- Audit 2 Retrospective 
+- Audit 2 Retrospective
 
 **DISCUSSIONS**
 
@@ -701,7 +697,6 @@ Our team:
 - Everyone: add comments in our code and write the handover documents (Agreed by everyone)
 - Ruiqiao: continue working on the back-end of the management system (Agreed by everyone)
 - Ruiqiao: add one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
-
 
 ### Tutorials
 
@@ -881,3 +876,44 @@ The presentation would be divided into the following sections:
    1. "It's better to keep track of the logs and progresses using tools such as `Trello` and `Kanban`. In this way, every team member can see clearly the traces of efforts and it's beneficial to boost up the teamwork." - Greg (tutor)
 
    2. "In the future, one way to improve is to futher partition the logs and records into specific sections such as feedback." - Priscilla (examiner)
+
+#### Week 7
+
+| Date       | 22/09/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+"
+Our team would like to focus on the followings on this tutorial:
+
+1. Feedback from the audit 2 report.
+   a. On Monday, we had a group meeting discussing and reflecting on the critiques and suggestions from tutor, client and shadow team. We appreciate the honest feedback, and we would like to improve our work in the future.  However, we again need clarifications on some critiques.
+   b. Our team has marked the points for this tutorial with question mark ❓ in https://optofab.github.io/retrospectives/2021-09-20-Retrospective-Audit-2-Semester2/, please check it out.
+2. Preparation of the project video.
+   a. Can we reuse some of the introductory clips from last semester?
+
+"
+
+**DISCUSSION & ACTIONS**
+
+The :question: has been crossed out after the discussions with Greg.
+
+1. About the time difference for completing tasks among the team members.
+   Greg's suggestions: Sometime teams tend to spend too much time on TechLauncher projects. But be careful with the time allocations. Don't get too involved in one subject and forget to work on other subjects.
+
+2. About communication via WeChat for teamwork.
+   Greg's suggestions: As long as WeChat is what the team's comfortable with and helps improve the efficiency, it's OK to use.
+
+3. About vagueness in the meeting logs.
+   Greg's suggestions: Be good to the future self. It's not necessary to write down every detail, just enough that the future self or others can get the context and know what issues have been brought on the table. Also, list the pros and cons that are discussed, and record what's necessary for future reference.
+
+4. About video preparation.
+   Greg's suggestions: The main purpose the video showcase is to present the achivement the team's made this semester. The team can use some parts of the introductory part from last semester's video clip, but the main part should focus on the progess of this semester.
+
+5. About handover documents.
+   Gregs's suggestions: It's good to write comments in the code for others to understand the logic of the project. But it's no good practice to generate documentation based on the comments automatically like in some Java programs.

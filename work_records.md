@@ -571,10 +571,17 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Ruoqian Wu
+  - Attend group meeting (1.5h)
+  - Attend WPP workshop (2h)
+  - WPP task 2 (1 h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
+  - Attend group meeting (1.5h)
+  - Attend WPP workshop (2h)
+  - WPP task 2 (1 h)
+
 
 <hr class="hr-dotted">
 

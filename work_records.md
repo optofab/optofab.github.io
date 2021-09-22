@@ -387,6 +387,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attended group meeting (0.5h)
   - Attended audit 2 tutorial (2h)
+  - Continued refactoring website code (6h)
 
 <hr class="hr-dotted">
 
@@ -394,6 +395,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attended group meeting (0.5h)
   - Attended audit 2 tutorial (2h)
+  - Refined backend codes (4h)
 
 <hr class="hr-dotted">
 

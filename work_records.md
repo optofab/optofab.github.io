@@ -558,7 +558,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Prepare for meetings, follow up the progress of each team member and make sure things run on my laptop when demonstrating to the clients. (1h)
   - Attend tutorial (2h)
   - Attend WPP workshop (2h)
-  - Conduct WPP task 2 (1.5h)
+  - Conduct WPP task 2 (1h)
   - Editting the work records, reflaction log. (0.25h)
   
 <hr class="hr-dotted">

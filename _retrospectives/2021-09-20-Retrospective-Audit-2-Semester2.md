@@ -80,7 +80,7 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I7]: [:question:]: [The way each member contributes to the project is doing his/her part of the job which is functionality-oriented. Since every functionality varies and costs different hours of work, we will try to balance it during the next iteration].
+1. [I7]: [The way each member contributes to the project is doing his/her part of the job which is functionality-oriented. Since every functionality varies and costs different hours of work, we will try to balance it during the next iteration]. :question:
 
 ### Communication
 
@@ -96,8 +96,8 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I8]: [:question:]: [Our team uses WeChat for the maximum workflow efficiency, as it really serves well as an instant messaging tool. We really love to hear the way to measure how well a team's communicating.]
-2. [I9]: [:question:]: [Maybe later on, we can elaborate more on the actions and rationales in the discussions, besides providing external links...]
+1. [I8]: [Our team uses WeChat for the maximum workflow efficiency, as it really serves well as an instant messaging tool. We really love to hear the way to measure how well a team's communicating.] :question:
+2. [I9]: [Maybe later on, we can elaborate more on the actions and rationales in the discussions, besides providing external links...] :question
 
 ### Reflection
 

@@ -537,10 +537,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
 
-  -  Researched on asp.net (1.5h)
-  -  Front-end development of the part, side and optical/photonic page of the Order Management System. (3h)
-  -  Edited the work records, reflection log. (0.5h)
-
+  - Researched on asp.net (1.5h)
+  - Front-end development of the part, side and optical/photonic page of the Order Management System. (3h)
+  - Edited the work records, reflection log. (0.5h)
 
 <hr class="hr-dotted">
 
@@ -558,12 +557,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Tian Wu
   - Deploy web portal to ANU server (2h)
-    - Streamline automated build and deployment process for easy development and web hosting (TBD)
+    - Streamline automated build and deployment process for easy development and web hosting (1h)
   - Upgrade [web portal](https://tl20212.cecs.anu.edu.au) from `http` to `https` (4h)
   - Attend group meeting (1.5h)
   - Attend client meeting (1h)
   - Attend tutorial (TBD)
-  - Attend WPP workshop (TBD)
+  - Attend WPP workshop (2h)
+  - Conduct WPP task 2 (1.5h)
   - Keep styling `tl20212.cecs.anu.edu.au/request` page (TBD)
 
 <hr class="hr-dotted">
@@ -587,7 +587,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial (TBD)
   - Attended WPP workshop (TBD)
   - Added one column in the decision making log in our landing page.
- 
 
 <hr class="hr-dotted">
 

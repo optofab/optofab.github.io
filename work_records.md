@@ -438,7 +438,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Meeting with the Customer Portal team discussing the agendas on the client meeting and some technical decisions. (0.5h)
   - Modifying the relational schema and the DB creation SQL file according to the new changes. (1h)
   - Order Management System front and backend development. (4h)
-  - Editting the work records, reflaction log and decision making log. (0.5h)
+  - Editting the work records. (0.1h)
 
 <hr class="hr-dotted">
 
@@ -559,7 +559,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend tutorial (2h)
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1h)
-  - Editting the work records, reflaction log. (0.25h)
+  - Editting the work records and reflaction log. (0.25h)
   
 <hr class="hr-dotted">
 

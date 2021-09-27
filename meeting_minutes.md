@@ -725,6 +725,35 @@ Our team:
 - Ruiqiao: continue working on the back-end of the management system (Agreed by everyone)
 - Ruiqiao: add one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
 
+
+#### Meeting 15
+
+| Date       | 27/09/2021                                                       |
+| ---------- | ---------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                  |
+| Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Share the order management system technical document
+- Review new requirements from clients together
+- Discuss the new version of website
+- Discuss new steps
+
+**DISCUSSIONS**
+
+- The team discussed on what needs to be refined in the Order Management System handover document: 1. add repo link in the document 2. add more details in the further step 2 "Implementation of “SPDT” page, “Part” page, “Optical or Phonic” page, “Side” page and the “Coating” page". 3. add the number 1, 2, 3, 4 at the beginning of the paragraph related to the interfaces.
+- The team dicussed the new requirements of the website. The new requirement is under the link highlighted by yellow: https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing
+- The team dicussed the new improvements of the website styling. The website can change the font color in the text box to make it more user-friendly.
+
+**ACTION**
+
+- Ruoqian: continue working on refactoring website. (Agreed by everyone)
+- Phillip: continue working on website css. (Agreed by everyone)
+- Ruoqian & Phillip & Yaoyi & Hengrui: start to write the online order placing web application handover document. (Agreed by everyone)
+- Ruiqiao & Wo : refine the local order management system handover document. (Agreed by everyone)
+
+
 ### Tutorials
 
 #### Week 2

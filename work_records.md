@@ -606,6 +606,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial (2h)
   - Attended WPP workshop (2h)
   - Added one column in the decision making log in our landing page.(0.25h)
+  - Wrote Order Management System Technical Handover document (1.75h)
 
 <hr class="hr-dotted">
 

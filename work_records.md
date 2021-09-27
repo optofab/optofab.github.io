@@ -559,9 +559,14 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend tutorial (2h)
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1h)
+<<<<<<< HEAD
   - Edit the work records and reflaction log (0.25h)
   - Write Order Management System Technical Handover document (1.75h)
   
+=======
+  - Editting the work records and reflaction log. (0.25h)
+
+>>>>>>> update work record for week 7 & 8
 <hr class="hr-dotted">
 
 - Tian Wu
@@ -570,10 +575,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Upgrade [web portal](https://tl20212.cecs.anu.edu.au) from `http` to `https` (4h)
   - Attend group meeting (1.5h)
   - Attend client meeting (1h)
-  - Attend tutorial (TBD)
+  - Attend tutorial (2h)
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1.5h)
-  - Keep styling `tl20212.cecs.anu.edu.au/request` page (TBD)
 
 <hr class="hr-dotted">
 
@@ -591,7 +595,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - WPP task 2 (1 h)
   - Research on deployment on the server (3 h)
   - Restructure backend codes based on research (3 h)
-
 
 <hr class="hr-dotted">
 
@@ -627,6 +630,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Tian Wu
+
+  - Styling website portal (customer info page + components) (5h)
+  - Attending client meeting (1h)
+  - Attending team meeting (0.5h)
+  - Attending WPP workshop (TBD)
+  - Conducting WPP task 3 (TBD)
+  - Drafting handover document (TBD)
 
 <hr class="hr-dotted">
 

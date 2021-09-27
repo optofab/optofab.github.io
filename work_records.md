@@ -580,13 +580,16 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend group meeting (1.5h)
   - Attend WPP workshop (2h)
   - WPP task 2 (1 h)
+  - Research on deployment on the server and try to deploy the backend (6 h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
-  - Attend group meeting (1.5h)
-  - Attend WPP workshop (2h)
+  - Attend group meeting (1.5 h)
+  - Attend WPP workshop (2 h)
   - WPP task 2 (1 h)
+  - Research on deployment on the server (3 h)
+  - Restructure backend codes based on research (3 h)
 
 
 <hr class="hr-dotted">

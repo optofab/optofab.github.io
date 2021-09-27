@@ -344,6 +344,33 @@ Our team:
 2. Finish the further steps [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
 3. Finish the Part page of Order Management System if time allows.
 
+#### Meeting 12
+
+| Date       | 27/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:10pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Unexpected port issue on the backend of the Customer Portal occured. Need to know the priority. 
+- Some feedback from OptoFab regarding the Order Management System handover.
+- Need OptoFab to specify the radius and side length in Customer Portal. 
+
+**DISCUSSIONS**
+
+- The backend of the Customer Portal is having trouble to launch. OptoFab thinks the handover document has higher priority, so the Customer Portal team should start writing the handover document immidiately instead of debugging the launching issues. Note that this will need to be addressed in the handover document in detail. 
+- Some feedback is provided by OptoFab written [here](https://docs.google.com/document/d/1namlOrbBlDt14Aku9XytsxvnTgsEDM0-UCTflTzBooc/edit?usp=sharing) in red. 
+- The calculation is provided by OptoFab written [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
+
+**ACTION**
+
+Our team:
+
+1. Keep working on the handovers.
+2. Make the project video.
+3. Change the Radius and Side Length in Customer Portal.
+
 ### Group Meetings
 
 #### Meeting 1

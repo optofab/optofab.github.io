@@ -559,14 +559,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend tutorial (2h)
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1h)
-<<<<<<< HEAD
   - Edit the work records and reflaction log (0.25h)
   - Write Order Management System Technical Handover document (1.75h)
-  
-=======
-  - Editting the work records and reflaction log. (0.25h)
 
->>>>>>> update work record for week 7 & 8
 <hr class="hr-dotted">
 
 - Tian Wu
@@ -723,4 +718,3 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 - Guoyu Wang
 
 <hr class="hr-dotted">
-

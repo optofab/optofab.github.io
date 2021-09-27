@@ -560,6 +560,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1h)
   - Editting the work records and reflaction log. (0.25h)
+  - Writing Order Management System Technical Handover document (1.75h)
   
 <hr class="hr-dotted">
 
@@ -708,66 +709,3 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 <hr class="hr-dotted">
 
-### Week 11
-
-**20/09/2021 - 26/09/2021**
-
-- Wo Tian
-
-<hr class="hr-dotted">
-
-- Tian Wu
-
-<hr class="hr-dotted">
-
-- Ruoqian Wu
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-<hr class="hr-dotted">
-
-- Hengrui Xu
-
-<hr class="hr-dotted">
-
-- Ruiqiao Jiang
-
-<hr class="hr-dotted">
-
-- Guoyu Wang
-
-<hr class="hr-dotted">
-
-### Week 12
-
-**20/09/2021 - 26/09/2021**
-
-- Wo Tian
-
-<hr class="hr-dotted">
-
-- Tian Wu
-
-<hr class="hr-dotted">
-
-- Ruoqian Wu
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-<hr class="hr-dotted">
-
-- Hengrui Xu
-
-<hr class="hr-dotted">
-
-- Ruiqiao Jiang
-
-<hr class="hr-dotted">
-
-- Guoyu Wang
-
-<hr class="hr-dotted">

@@ -554,13 +554,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 **20/09/2021 - 26/09/2021**
 
 - Wo Tian
-  - Host one clients meeting and one group meeting (1 + 1.5h).
-  - Prepare for meetings, follow up the progress of each team member and make sure things run on my laptop when demonstrating to the clients. (1h)
+  - Host one clients meeting and one group meeting (1 + 1.5h)
+  - Prepare for meetings, follow up the progress of each team member and make sure things run on my laptop when demonstrating to the clients, write client meeting minutes (1h)
   - Attend tutorial (2h)
   - Attend WPP workshop (2h)
   - Conduct WPP task 2 (1h)
-  - Editting the work records and reflaction log. (0.25h)
-  - Writing Order Management System Technical Handover document (1.75h)
+  - Edit the work records and reflaction log (0.25h)
+  - Write Order Management System Technical Handover document (1.75h)
   
 <hr class="hr-dotted">
 
@@ -619,6 +619,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 **27/09/2021 - 03/10/2021**
 
 - Wo Tian
+  - Host one clients meeting and one group meeting (0.75 + 0.5h).
+  - Prepare for meetings and write meeting minutes (0.5h)
+  - Write ReadMe.md for Order Management System repo (0.5h)
+  - Edit Order Management System Technical Handover document (0.25h)
 
 <hr class="hr-dotted">
 

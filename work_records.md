@@ -621,6 +621,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Prepare for meetings and write meeting minutes (0.5h)
   - Write ReadMe.md for Order Management System repo (0.5h)
   - Edit Order Management System Technical Handover document (0.25h)
+  - Attend WPP workshop (2h)
+  - Conduct WPP task 3 (1h)
+  - Write video script and make sure it takes 3 minutes to read（2.5h）
 
 <hr class="hr-dotted">
 

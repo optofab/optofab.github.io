@@ -632,9 +632,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Styling website portal (customer info page + components) (5h)
   - Attending client meeting (1h)
   - Attending team meeting (0.5h)
-  - Attending WPP workshop (TBD)
-  - Conducting WPP task 3 (TBD)
-  - Drafting handover document (TBD)
+  - Attending WPP workshop (2h)
+  - Conducting WPP task 3 (1h)
+  - Drafting handover document (3h)
 
 <hr class="hr-dotted">
 

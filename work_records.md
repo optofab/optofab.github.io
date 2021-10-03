@@ -474,7 +474,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Implementing functional codes such as Modify, tracking and feedback. (10h)
 
 <hr class="hr-dotted">
 
@@ -533,7 +533,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Attended group meeting (0.5h)
+  - Implemented code refinements (9h)
 
 <hr class="hr-dotted">
 
@@ -594,6 +595,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Hengrui Xu
+  - Attend group meeting (1.5 h)
+  - Attend WPP workshop (2 h)
+  - WPP task 2 (1 h)
+  - Attend tutorial (2h)
+  - Research on deployment (3h)
+  - Debugged front end (2h)
 
 <hr class="hr-dotted">
 
@@ -648,6 +655,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Hengrui Xu
+
+  -  
 
 <hr class="hr-dotted">
 

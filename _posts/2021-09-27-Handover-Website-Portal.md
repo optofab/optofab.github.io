@@ -38,14 +38,42 @@ optofab-website
     ├── App.test.js
     ├── components
     │   ├── backgrounds
+    │   │   ├── OvalBackground.js
+    │   │   └── WaveBackground.js
     │   ├── buttons
+    │   │   ├── SubmitButton.js
+    │   │   └── UploadButton.js
     │   ├── layout
+    │   │   ├── Header.js
+    │   │   ├── layout.css
+    │   │   └── layout.js
     │   ├── sections
+    │   │   └── HeroSection.js
     │   ├── styles
+    │   │   ├── ColorStyles.js
+    │   │   ├── GlobalStyles.js
+    │   │   └── TextStyles.js
     │   └── tooltips
     ├── data
     ├── features
     │   └── form
+    │       ├── components
+    │       │   ├── Coating.js
+    │       │   ├── CustomerInfo.js
+    │       │   ├── Geometry.js
+    │       │   ├── Layer.js
+    │       │   ├── Material.js
+    │       │   ├── Spec.js
+    │       │   ├── Substrate.js
+    │       │   └── Surface.js
+    │       ├── fields
+    │       │   ├── MyTextArea.js
+    │       │   └── MyTextInput.js
+    │       ├── Feedback.js
+    │       ├── Helpers.js
+    │       ├── MainForm.js
+    │       ├── Modify.js
+    │       └── Track.js
     ├── images
     ├── index.css
     ├── index.js

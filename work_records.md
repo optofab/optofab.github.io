@@ -662,6 +662,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Worked on WPP task 3 (1h)
   - Wrote more comments in code for handover (1h)
   - Wrote handover documents for customer portal (4h)
+  - Reviewed video script (0.5h)
 
 <hr class="hr-dotted">
 

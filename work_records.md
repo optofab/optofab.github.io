@@ -702,6 +702,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Tian Wu
 
+  - Attending Sub-team meeting for Audit 2 (0.5h)
+  - Fixing styling bugs (1h)
+  - Writing handover document (1.5h)
+
 <hr class="hr-dotted">
 
 - Ruoqian Wu

@@ -548,7 +548,8 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  -
+  - Attended group meeting (0.5h)
+  - implemented importing data into database (9h)
 
 ### Week 7
 
@@ -616,6 +617,12 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Guoyu Wang
+  - Attended group meeting (1.5h)
+  - finished coding for the whole semester (3h)
+  - Attended tutorial (2h)
+  - Attended WPP workshop (2h)
+  - completed WPP homework (1h)
+  - 
 
 <hr class="hr-dotted">
 
@@ -677,6 +684,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Guoyu Wang
+  - Attended group meeting (0.5h)
+  - Attened WPP workshop (2h)
+  - Completed WPP task (1h)
+  - wrote handover (4h)
+  - write comments on code and refector it for easier understanding (2h)
 
 <hr class="hr-dotted">
 

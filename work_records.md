@@ -489,7 +489,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Guoyu Wang
 
-  -
+  - Attended group meeting (0.5h)
+  - Modified the relational schema accoridng to client's needs (4.5h)
+  - Researched on c# and .NET (2h)
+  - Wrote reflections, work record and meeting minutes (1.5h) 
 
 ### Teaching Break Week 2
 

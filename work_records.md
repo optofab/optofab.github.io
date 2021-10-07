@@ -700,12 +700,13 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 **20/09/2021 - 26/09/2021**
 
 - Wo Tian
-  - Attend the shadow team meeting (0.75h).
-  - Contribute 4 slides of the video presentation (1h)
+  - Attend the shadow team meeting (0.75h)
   - Edit Order Management System Technical Handover document (0.5h)
   - Update JSON file in order to correspond to the Order Management System (0.25h)
   - Attend tutorial (2h)
-  - Edit the script according to Greg's suggestion and redo the voice narration for the video (TBD)
+  - Edit the script according to Greg's suggestion and redo the voice narration for the video (1.5h)
+  - Record the video demo of the Customer Portal (1h)
+  - Contribute to the video presentation (2h)
 
 
 <hr class="hr-dotted">

@@ -752,6 +752,26 @@ Our team:
 - Ruoqian & Phillip & Yaoyi & Hengrui: start to write the online order placing web application handover document. (Agreed by everyone)
 - Ruiqiao & Wo : refine the local order management system handover document. (Agreed by everyone)
 
+### Meeting 16
+
+| Date       | 04/10/2021                                                    |
+| ---------- | ------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                               |
+| Attendance | Ruoqian Wu, Yaoyi Xu, Tian Wu |
+
+**AGENDA**
+
+- Discuss about the next audit
+
+**DISCUSSIONS**
+
+- The team discussed the contents to be included in the audit
+- The team discussed the questions to ask in the next tutorial
+
+**ACTION**
+
+- All: prepare for the presentation
+
 ### Tutorials
 
 #### Week 2

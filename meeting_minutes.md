@@ -371,6 +371,34 @@ Our team:
 2. Make the project video.
 3. Change the Radius and Side Length in Customer Portal.
 
+#### Meeting 13
+
+| Date       | 08/10/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 3:00pm - 4:00pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Need some feedback from OptoFab regarding the handover documents.
+- Video showcase.
+- Reminder for Audit 3.
+
+**DISCUSSIONS**
+
+- Considering the unpredictable responding time of the CSIT department, OptoFab staff want to be added to the list of admins on the ANU server for the Customer Portal. The instruction for OptoFab staff to add users (future TechLauncher team members) to the server admin list should be added in the Customer Portal handover document in detail.
+- OptoFab staff think it's better if our team could give some advice on recruiting new team members for the next stage, especially regarding technology stack.
+- No input from our client on the video. All good. 
+- Johannes and Deon will be able to come to our Audit 3.
+
+**ACTION**
+
+Our team:
+
+1. Add Johaness and Deon to the list of admins on the ANU server for the Customer Portal.
+2. Write an instruction for OptoFab staff to add users (future TechLauncher team members) to the server admin list in the Customer Portal handover document.
+3. Write some advice on recruiting new team members for the next stage, especially regarding technology stack.
+
 ### Group Meetings
 
 #### Meeting 1
@@ -1030,3 +1058,26 @@ Our team would like to focus on the followings on this tutorial:
    a. When you use the cloud services, you keep the copyright of everything you own when you're only renting the cloud infrastructure.
 4. Handover document:
    a. Team OptoFab will send a copy of the written handover documents (both website portal and database docs) to Greg for proofreading, and Greg will help us improve the documentations from an experienced ICT practitioner's perspective.
+
+### Shadow team Meetings
+
+#### Meeting 1
+
+| Date       | 05/10/2021                                                                    |
+| ---------- | ----------------------------------------------------------------------------- |
+| Time       | 8:00pm - 9:00pm                                                              |
+| Attendance | Wo Tian, Tian Wu |
+
+**AGENDA**
+
+- 
+
+**DISCUSSIONS**
+
+- 
+
+**ACTION**
+
+- 
+
+

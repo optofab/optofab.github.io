@@ -12,7 +12,7 @@ layout: landing
 
 ## Project Overview
 
-| [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au/home.html)                                                       | Local Order Management System                                                                 |
+| [Customer Portal Web Application](http://tl20212.cecs.anu.edu.au)                                                                 | Local Order Management System                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Allow customers to place orders in an OptoFab-staff-friendly way                                                                  | Import orders submitted on the ANFF OptoFab website                                           |
 | Allow customers to provide feedback and request for modification                                                                  | Store and display client order specifications, links of metrology and operational information |
@@ -114,14 +114,13 @@ Here you can find the links to the repositories and tools that our team is using
 
 | Link                                                                                                                          | Description                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [OptoFab Customer Portal](http://tl20212.cecs.anu.edu.au/home.html)                                                           | Our main **product** for placing, modifying and tracking an online order.                            |
+| [OptoFab Customer Portal](http://tl20212.cecs.anu.edu.au)                                                                     | Our main **product** for placing, modifying and tracking an online order.                            |
 | [Figma - Portal Design](https://d.pr/Ot5etR)                                                                                  | We are collaborating on new high fidelity designs in Figma to iterate the website.                   |
 | [GitHub Pages - landing page](https://optofab.github.io/)                                                                     | Our landing page in 2021 Semester 2.                                                                 |
 | [Google Drive for quick collaborations](https://drive.google.com/drive/folders/1M0pZ2kZg80FpKvoFc_t8RjgAF3gNdi9V?usp=sharing) | Our team uses Google Drive to make online polls, document collaborations, etc.                       |
-| [GitHub - customer portal repo](https://github.com/swingrope/optofab-website)                                                     | Currently we are focusing on front-end development using `React.js`                                  |
-| [GitHub - order management system repo](https://github.com/WoTian97/OptoFabOrderManagementSystem)                                                     | Our coding repo for the Order Management System                            |
+| [GitHub - customer portal repo](https://github.com/swingrope/optofab-website)                                                 | Currently we are focusing on front-end development using `React.js`                                  |
+| [GitHub - order management system repo](https://github.com/WoTian97/OptoFabOrderManagementSystem)                             | Our coding repo for the Order Management System                                                      |
 | [Slack Channel to collaborate with client](http://comp8715anff.slack.com)                                                     | The Slack channel is used to provide a more user-friendly overview of our project.                   |
 | [Miro for prototype design](https://miro.com/app/board/o9J_lPISVWY=)                                                          | The Miro whiteboard is a convenient tool to visualise interface designs quickly and collaboratively. |
 | [Mockplus for website design](https://app.mockplus.cn/s/KhYir6nf92Z)                                                          | Our team uses the Mockplus to work on quick and responsive website mockups collaboratively.          |
-| [Relational Schema](https://app.creately.com/diagram/F2eCkufCpve/edit)                                                        | We use Creately to draw relational schema for the DBMS we are going to design next semester.         |
-
+| [Relational Schema](https://app.creately.com/diagram/1gA0wwAEgmB/edit)                                                        | We use Creately to draw relational schema for the DBMS we are going to design next semester.         |

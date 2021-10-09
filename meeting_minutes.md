@@ -318,6 +318,59 @@ OptoFab:
 2. Write down the calculation for Radius from Side Length and Number of Sides.
 3. What kind of things are expected in the handover documents.
 
+#### Meeting 11
+
+| Date       | 20/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:30pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Updates and next steps.
+- Need OptoFab to specify what kind of handover documents are desired.
+
+**DISCUSSIONS**
+
+- Wo gave the update of the Order Management System and the functionalities of the Customer Portal. Next steps are [here](https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit?usp=sharing).
+- Phillip gave the update of the design of the Customer Portal. Check our launched website [here](https://tl20212.cecs.anu.edu.au/).
+- Some of the handover documents are specified by OptoFab [here](https://docs.google.com/document/d/1uWrBjZ932HntIPk-vCvv65ao4Rry5haL4G_gA3TTQbg/edit?usp=sharing).
+
+**ACTION**
+
+Our team:
+
+1. Start working on the handovers.
+2. Finish the further steps [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
+3. Finish the Part page of Order Management System if time allows.
+
+#### Meeting 12
+
+| Date       | 27/09/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:10pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Unexpected port issue on the backend of the Customer Portal occured. Need to know the priority.
+- Need some feedback from OptoFab regarding the Order Management System handover.
+- Need OptoFab to specify the radius and side length in Customer Portal.
+
+**DISCUSSIONS**
+
+- The backend of the Customer Portal is having trouble to launch. OptoFab thinks the handover document has higher priority, so the Customer Portal team should start writing the handover document immediately instead of debugging the launching issues. Note that this issue will need to be addressed in the handover document in detail.
+- Some feedback is provided by OptoFab written [here](https://docs.google.com/document/d/1namlOrbBlDt14Aku9XytsxvnTgsEDM0-UCTflTzBooc/edit?usp=sharing) in red.
+- The calculation is provided by OptoFab written [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
+
+**ACTION**
+
+Our team:
+
+1. Keep working on the handovers.
+2. Make the project video.
+3. Change the Radius and Side Length in Customer Portal.
+
 ### Group Meetings
 
 #### Meeting 1
@@ -593,6 +646,32 @@ OptoFab:
 - Hengrui, Ruiqiao, Guoyu: Continue work on presentation script
 - Ruoqian & Hengrui: continue working on website
 
+#### Meeting 12
+
+| Date       | 06/09/2021                                                                   |
+| ---------- | ---------------------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                              |
+| Attendance | Wo Tian, Ruiqiao Jiang, Guoyu Wang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Review new requirements from clients together
+- Review our progress so far and assign tasks for the future steps
+
+**DISCUSSIONS**
+
+- Walk through the meeting minutes with clients and our to do list:https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit
+- The website will continue refining.
+- Some names of the attributes change so that our relational schema needs to be changed and also the sql file needs to be modified corresponding to this.
+
+**ACTION**
+
+- Raymond & Hengrui: continue refining our website
+- Yaoyi: continue working on the back-end of the website
+- Wu: continue developing the layout of the website
+- Wo, Ruiqiao : continue working on the front-end and back-end of the management system
+- Guoyu: continue doing research on how to import data
+
 #### Meeting 13
 
 | Date       | 13/09/2021                                                    |
@@ -618,6 +697,62 @@ OptoFab:
 - Phillip: continue working on css
 
 #### Meeting 14
+
+| Date       | 20/09/2021                                                       |
+| ---------- | ---------------------------------------------------------------- |
+| Time       | 8:00pm - 9:30pm                                                  |
+| Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Review new requirements from clients together: Refine the website and write the handover documents
+- Audit 2 Retrospective
+
+**DISCUSSIONS**
+
+- The team discussed on how to fulfill new requirements and how to allocate the new tasks.
+- The team discussed what should be done next week and how to collaborate effectively.
+- The team discussed the retrospective. Our team discussed on the selected tips, how we can improve on each advice.
+- The team discussed the handover documents, what content we should contain in the documents to Martin, OptoFab and also the future students. The detailed document content will cover serval percespectives. The detailed content is under the link: https://docs.google.com/document/d/1uWrBjZ932HntIPk-vCvv65ao4Rry5haL4G_gA3TTQbg/edit
+- The team discussed the website refinements, the specific parts need to be modified according to this link: https://docs.google.com/document/d/1E55TGr5dOff8SCUpF3eKQ2Bi9mLJuGd8ZH3vnBS82Gs/edit
+
+**ACTION**
+
+- Ruoqian & Hengrui: continue working on refactoring website (Agreed by everyone)
+- Hengrui: work on the website deployment (Agreed by everyone)
+- Phillip: continue working on website css (Agreed by everyone)
+- Everyone: add comments in our code and write the handover documents (Agreed by everyone)
+- Ruiqiao: continue working on the back-end of the management system (Agreed by everyone)
+- Ruiqiao: add one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
+
+#### Meeting 15
+
+| Date       | 27/09/2021                                                       |
+| ---------- | ---------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                  |
+| Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian |
+
+**AGENDA**
+
+- Share the order management system technical document
+- Review new requirements from clients together
+- Discuss the new version of website
+- Discuss new steps
+
+**DISCUSSIONS**
+
+- The team discussed on what needs to be refined in the Order Management System handover document: 1. add repo link in the document 2. add more details in the further step 2 "Implementation of “SPDT” page, “Part” page, “Optical or Phonic” page, “Side” page and the “Coating” page". 3. add the number 1, 2, 3, 4 at the beginning of the paragraph related to the interfaces.
+- The team dicussed the new requirements of the website. The new requirement is under the link highlighted by yellow: https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing
+- The team dicussed the new improvements of the website styling. The website can change the font color in the text box to make it more user-friendly.
+
+**ACTION**
+
+- Ruoqian: continue working on refactoring website. (Agreed by everyone)
+- Phillip: continue working on website css. (Agreed by everyone)
+- Ruoqian & Phillip & Yaoyi & Hengrui: start to write the online order placing web application handover document. (Agreed by everyone)
+- Ruiqiao & Wo : refine the local order management system handover document. (Agreed by everyone)
+
+### Meeting 16
 
 | Date       | 04/10/2021                                                    |
 | ---------- | ------------------------------------------------------------- |
@@ -786,12 +921,12 @@ The presentation would be divided into the following sections:
 
 **DISCUSSIONS & ACTIONS**
 
-1. This part contains the Q&A following our audit presentation (after paraphrasing):
+1. This part contains the Q&A following our audit presentation (after rephrasing and paraphrasing):
 
    1. Q: "How come there's a discrepancy of meeting hours in the personal work record and the meeting minutes"? - Shawn (shadow team)<br>
       A: "It's because sometimes two or more team members will extend the meeting to discuss about the project after the scheduled group meeting and other team members have left the zoom."
 
-   2. Q: "For the front-end design, does the team stick to the `React` all the way?" - Qianwei (shadow team)
+   2. Q: "For the front-end design, does the team stick to the `React` all the way?" - Qianwei (shadow team)<br>
       A: "`React` is a just a framework for front-end design, so it can be flexible."
 
    3. Q: "How do the website portal and the database managemeng system transfer data in between, since the team's using an offline database?" - Greg (tutor)<br>
@@ -815,3 +950,83 @@ The presentation would be divided into the following sections:
    1. "It's better to keep track of the logs and progresses using tools such as `Trello` and `Kanban`. In this way, every team member can see clearly the traces of efforts and it's beneficial to boost up the teamwork." - Greg (tutor)
 
    2. "In the future, one way to improve is to futher partition the logs and records into specific sections such as feedback." - Priscilla (examiner)
+
+#### Week 7
+
+| Date       | 22/09/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+"
+Our team would like to focus on the followings on this tutorial:
+
+1. Feedback from the audit 2 report.
+   a. On Monday, we had a group meeting discussing and reflecting on the critiques and suggestions from tutor, client and shadow team. We appreciate the honest feedback, and we would like to improve our work in the future.  However, we again need clarifications on some critiques.
+   b. Our team has marked the points for this tutorial with question mark ❓ in https://optofab.github.io/retrospectives/2021-09-20-Retrospective-Audit-2-Semester2/, please check it out.
+2. Preparation of the project video.
+   a. Can we reuse some of the introductory clips from last semester?
+
+"
+
+**DISCUSSION & ACTIONS**
+
+The :question: has been crossed out after the discussions with Greg.
+
+1. About the time difference for completing tasks among the team members.
+   Greg's suggestions: Sometime teams tend to spend too much time on TechLauncher projects. But be careful with the time allocations. Don't get too involved in one subject and forget to work on other subjects.
+
+2. About communication via WeChat for teamwork.
+   Greg's suggestions: As long as WeChat is what the team's comfortable with and helps improve the efficiency, it's OK to use.
+
+3. About vagueness in the meeting logs.
+   Greg's suggestions: Be good to the future self. It's not necessary to write down every detail, just enough that the future self or others can get the context and know what issues have been brought on the table. Also, list the pros and cons that are discussed, and record what's necessary for future reference.
+
+4. About video preparation.
+   Greg's suggestions: The main purpose the video showcase is to present the achivement the team's made this semester. The team can use some parts of the introductory part from last semester's video clip, but the main part should focus on the progess of this semester.
+
+5. About handover documents.
+   Gregs's suggestions: It's good to write comments in the code for others to understand the logic of the project. But it's no good practice to generate documentation based on the comments automatically like in some Java programs.
+
+#### Week 9
+
+Note: There's no tutorial on week 8.
+
+| Date       | 06/10/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+"
+Our team would like to focus on the followings on this tutorial:
+
+1. How to prepare for Audit 3 next Wednesday?
+   a. Grace, Raymond and I(Phillip) will be in charge of Audit 3 and we’ve discussed via zoom on Monday. We’d like to hear your suggestions as well.
+   b. Any heads-up for the last Audit?
+2. Some technical issues on how to deploy database on a remote server and suggestions on the best practices to build a robust system with both front-end and back-end integrated. For example, how to build a secure database (local one or cloud-based), how to scale up in the future?
+   a. We’ve encountered a series of technical issues on deploying the back-end on the ANU server. Our client suggested that we focus on the handover instead of spending more time solving these issues.
+3. Handover documents drafting and proof-reading. Suggestions on writing a documentation.
+
+"
+
+**DISCUSSIONS & ACTIONS**
+
+1. About preparing for Audit 3, Greg offers the following suggestions:
+   a. The examiner and tutor will "focus on 'what' you have done, not so much on 'how' you did it. For example, we will look at your evidence for how your communication plan helped your team, not what tools you used. We will look at your evidence for good decision making by examining the outcomes."
+   b. Clearly show everything on the landing page, because if it's not there, the tutor and examiner will probably miss them and it's basically not evaluated. "If we can't see it, it's not done. "
+   c. Detailed rubrics on webpage: https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/
+2. About technical issues on deploying our app on the ANU server:
+   a. There will be problem if both front-end and back-end are served on the same server, meaning that if it's hacked, both front-end and back-end files are compromised. Consider move the back-end to another server. Since it's not intended to host large database, a simple Rasberry Pi will likely do the trick.
+   b. Nowadays, cloud services are everywhere, so take advantage of some cloud-based services for integrating the back-end data.
+3. About the copyright issues using the cloud services:
+   a. When you use the cloud services, you keep the copyright of everything you own when you're only renting the cloud infrastructure.
+4. Handover document:
+   a. Team OptoFab will send a copy of the written handover documents (both website portal and database docs) to Greg for proofreading, and Greg will help us improve the documentations from an experienced ICT practitioner's perspective.

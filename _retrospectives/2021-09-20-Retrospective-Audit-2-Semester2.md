@@ -47,10 +47,10 @@ Client is positive in the output of the team as both sides of the project are pr
 
 **How to improve**
 
-1. [I1]:
-2. [I2]Tutor: "Please try to ensure that the work is more evenly balanced or that the times recorded are a bit more accurate."
-3. [I3]Tutor: "A review of the schema with a focus on cardinality and normalising the structure is recommended. Most likely, every table becomes a class/package in your backend code, these small tables will pollute your code."
-4. [I4]:
+1. [I1] Portal vs Database. Many database fragements depend on the exported files from out website portals, so we have to focus more and "over-invest" a little bit in the portal side. Now it's nearly finished on the portal side, we can pivot to the database from now on.
+2. [I2]Tutor: "Please try to ensure that the work is more evenly balanced or that the times recorded are a bit more accurate." [check]
+3. [I3]Tutor: "A review of the schema with a focus on cardinality and normalising the structure is recommended. Most likely, every table becomes a class/package in your backend code, these small tables will pollute your code." [the schema file has been updated and synced to the landing website]
+4. [I4] [misunderstanding] As was described in the audit 2 presentation, the communication with the client is flexible. Usually, Wo communicates with the client about the requirements for both portal and database side, and the rest of the team engage in the process whenever they are needed (Wo calls them by phone or via wechat, and teammates respond fairly quickly if you are curious how it works behind the scene)
 
 ### Decision Making
 
@@ -65,8 +65,8 @@ Tutor: "Your decision log provides a good breakdown of the rationale of each dec
 
 **How to improve**
 
-1. [I5]Tutor: "You might want to consider adding a category to each decision to help delineate them, or split into separate tables based on the decision category. Some of your decisions don’t need to be captured in the log...You decisions should capture information that will be of use to your future selves or new project members."
-2. [I6]Shadow: "The decision making log can be improved by adding the type of decision being made e.g. communication, technical etc."
+1. [I5]Tutor: "You might want to consider adding a category to each decision to help delineate them, or split into separate tables based on the decision category. Some of your decisions don’t need to be captured in the log...You decisions should capture information that will be of use to your future selves or new project members." [will start adopting this practice this week]
+2. [I6]Shadow: "The decision making log can be improved by adding the type of decision being made e.g. communication, technical etc." [will do]
 
 ### Team Work
 
@@ -79,6 +79,8 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 1. [I7]Tutor: "...be aware of the time needed for each team member to complete tasks and review your progress against previous weeks to ensure a fair division of work."
 
 **How to improve**
+
+1. [I7] [The way each member contributes to the project is doing his/her part of the job which is functionality-oriented. Since every functionality varies and costs different hours of work, we will try to balance it during the next iteration]. ~~:question:~~
 
 ### Communication
 
@@ -94,8 +96,8 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I8]:
-2. [I9]:
+1. [I8] [Our team uses WeChat for the maximum workflow efficiency, as it really serves well as an instant messaging tool. We really love to hear the way to measure how well a team's communicating.] ~~:question:~~
+2. [I9] [Maybe later on, we can elaborate more on the actions and rationales in the discussions, besides providing external links...] ~~:question:~~
 
 ### Reflection
 
@@ -110,4 +112,4 @@ Client and tutor: The team seems to be well coordinated and working effectively.
 
 **How to improve**
 
-1. [I10]
+1. [I10] [Updates: improved by implementing a lot of functionalites this semester, including the term break...]

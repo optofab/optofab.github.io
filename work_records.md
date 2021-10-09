@@ -387,6 +387,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attended group meeting (0.5h)
   - Attended audit 2 tutorial (2h)
+  - Continued refactoring website code (6h)
 
 <hr class="hr-dotted">
 
@@ -394,6 +395,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
   - Attended group meeting (0.5h)
   - Attended audit 2 tutorial (2h)
+  - Refined backend codes (4h)
 
 <hr class="hr-dotted">
 
@@ -436,7 +438,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Meeting with the Customer Portal team discussing the agendas on the client meeting and some technical decisions. (0.5h)
   - Modifying the relational schema and the DB creation SQL file according to the new changes. (1h)
   - Order Management System front and backend development. (4h)
-  - Editting the work records, reflaction log and decision making log. (0.5h)
+  - Editting the work records. (0.1h)
 
 <hr class="hr-dotted">
 
@@ -472,19 +474,25 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Implementing functional codes such as Modify, tracking and feedback. (10h)
 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
 
-  -
+  - Attended group meeting (0.5h)
+  - Developed the Order Management System front end and researched on how to implement the back-end. (4h)
+  - Researched on asp.net (2h)
+  - Edited the work records, meeting minutes, reflection log. (0.75h)
 
 <hr class="hr-dotted">
 
 - Guoyu Wang
 
-  -
+  - Attended group meeting (0.5h)
+  - Modified the relational schema accoridng to client's needs (4.5h)
+  - Researched on c# and .NET (2h)
+  - Wrote reflections, work record and meeting minutes (1.5h)
 
 ### Teaching Break Week 2
 
@@ -507,7 +515,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Start applying designs from `Gatsby` to `create-react-app` by:
     - Reconfiguring project structures (2h)
     - Creating homepage, success-submit, and error-submit pages (2h)
-    - Stying request, track, modify and feedback pages (6h)
+    - Styling request, track, modify and feedback pages (6h)
 
 <hr class="hr-dotted">
 
@@ -528,41 +536,148 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -
+  - Attended group meeting (0.5h)
+  - Implemented code refinements (9h)
 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
 
-  -
+  - Researched on asp.net (1.5h)
+  - Front-end development of the part, side and optical/photonic page of the Order Management System. (4h)
+  - Edited the work records, reflection log. (0.5h)
 
 <hr class="hr-dotted">
 
 - Guoyu Wang
 
+  - Attended group meeting (0.5h)
+  - implemented importing data into database (9h)
+
+### Week 7
+
+**20/09/2021 - 26/09/2021**
+
+- Wo Tian
+  - Host one clients meeting and one group meeting (1 + 1.5h)
+  - Prepare for meetings, follow up the progress of each team member and make sure things run on my laptop when demonstrating to the clients, write client meeting minutes (1h)
+  - Attend tutorial (2h)
+  - Attend WPP workshop (2h)
+  - Conduct WPP task 2 (1h)
+  - Edit the work records and reflaction log (0.25h)
+  - Write Order Management System Technical Handover document (1.75h)
+
+<hr class="hr-dotted">
+
+- Tian Wu
+  - Deploy web portal to ANU server (2h)
+    - Streamline automated build and deployment process for easy development and web hosting (1h)
+  - Upgrade [web portal](https://tl20212.cecs.anu.edu.au) from `http` to `https` (4h)
+  - Attend group meeting (1.5h)
+  - Attend client meeting (1h)
+  - Attend tutorial (2h)
+  - Attend WPP workshop (2h)
+  - Conduct WPP task 2 (1.5h)
+
+<hr class="hr-dotted">
+
+- Ruoqian Wu
+  - Attend group meeting (1.5h)
+  - Attend WPP workshop (2h)
+  - WPP task 2 (1 h)
+  - Research on deployment on the server and try to deploy the backend (6 h)
+
+<hr class="hr-dotted">
+
+- Yaoyi Xu
+  - Attend group meeting (1.5 h)
+  - Attend WPP workshop (2 h)
+  - WPP task 2 (1 h)
+  - Research on deployment on the server (3 h)
+  - Restructure backend codes based on research (3 h)
+
+<hr class="hr-dotted">
+
+- Hengrui Xu
+  - Attend group meeting (1.5 h)
+  - Attend WPP workshop (2 h)
+  - WPP task 2 (1 h)
+  - Attend tutorial (2h)
+  - Research on deployment (3h)
+  - Debugged front end (2h)
+
+<hr class="hr-dotted">
+
+- Ruiqiao Jiang
+
+  - Attended group meeting (1.5h)
+  - Finished coding the front-end and back-end of the "OpticalOrPhotonic", "Side" and "Coating" these three pages in the order management system.(6h)
+  - Attended tutorial (2h)
+  - Attended WPP workshop (2h)
+  - Added one column in the decision making log in our landing page.(0.25h)
+  - Wrote Order Management System Technical Handover document (1.75h)
+
+<hr class="hr-dotted">
+
+- Guoyu Wang
+  - Attended group meeting (1.5h)
+  - finished coding for the whole semester (3h)
+  - Attended tutorial (2h)
+  - Attended WPP workshop (2h)
+  - completed WPP homework (1h)
   -
+
+<hr class="hr-dotted">
 
 ### Week 8
 
 **27/09/2021 - 03/10/2021**
 
 - Wo Tian
+  - Host one clients meeting and one group meeting (0.75 + 0.5h).
+  - Prepare for meetings and write meeting minutes (0.5h)
+  - Write ReadMe.md for Order Management System repo (0.5h)
+  - Edit Order Management System Technical Handover document (1.5h)
+  - Attend WPP workshop (2h)
+  - Conduct WPP task 3 (1h)
+  - Write video script and make sure it takes 3 minutes to read（2.5h）
+  - Voice narration for video recording (3h)
 
 <hr class="hr-dotted">
 
 - Tian Wu
 
+  - Styling website portal (customer info page + components) (5h)
+  - Attending client meeting (1h)
+  - Attending team meeting (0.5h)
+  - Attending WPP workshop (2h)
+  - Conducting WPP task 3 (1h)
+  - Drafting handover document (3h)
+
 <hr class="hr-dotted">
 
 - Ruoqian Wu
+  - Attended group meeting (0.5h)
+  - Attended WPP workshop (2h)
+  - Worked on WPP task 3 (1h)
+  - Wrote comments in code for handover (1.5h)
+  - Wrote handover documents for customer portal (3h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
+  - Attended group meeting (0.5h)
+  - Attended WPP workshop (2h)
+  - Worked on WPP task 3 (1h)
+  - Wrote more comments in code for handover (1h)
+  - Wrote handover documents for customer portal (4h)
+  - Reviewed video script (0.5h)
 
 <hr class="hr-dotted">
 
 - Hengrui Xu
+
+  -
 
 <hr class="hr-dotted">
 
@@ -571,6 +686,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Guoyu Wang
+  - Attended group meeting (0.5h)
+  - Attened WPP workshop (2h)
+  - Completed WPP task (1h)
+  - wrote handover (4h)
+  - write comments on code and refector it for easier understanding (2h)
 
 <hr class="hr-dotted">
 
@@ -579,10 +699,25 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 **20/09/2021 - 26/09/2021**
 
 - Wo Tian
+  - Attend the shadow team meeting (0.75h)
+  - Edit Order Management System Technical Handover document (0.5h)
+  - Update JSON file in order to correspond to the Order Management System (0.25h)
+  - Attend tutorial (2h)
+  - Edit the script according to Greg's suggestion and redo the voice narration for the video (1.5h)
+  - Record the video demo of the Customer Portal (1h)
+  - Contribute to the video presentation (2h)
 
 <hr class="hr-dotted">
 
 - Tian Wu
+
+  - Attending Sub-team meeting for Audit 2 (0.5h)
+  - Fixing styling bugs and deployment bugs (1h)
+  - Writing handover document (1.5h)
+  - Chatting with shadown team via Zoom (0.75h)
+  - Attending tutorial on Wednesday (2h)
+  - Attending client meeting on Friday (1h)
+  - Preparing the presentation for Audit 3 (TBD)
 
 <hr class="hr-dotted">
 
@@ -607,70 +742,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 ### Week 10
-
-**20/09/2021 - 26/09/2021**
-
-- Wo Tian
-
-<hr class="hr-dotted">
-
-- Tian Wu
-
-<hr class="hr-dotted">
-
-- Ruoqian Wu
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-<hr class="hr-dotted">
-
-- Hengrui Xu
-
-<hr class="hr-dotted">
-
-- Ruiqiao Jiang
-
-<hr class="hr-dotted">
-
-- Guoyu Wang
-
-<hr class="hr-dotted">
-
-### Week 11
-
-**20/09/2021 - 26/09/2021**
-
-- Wo Tian
-
-<hr class="hr-dotted">
-
-- Tian Wu
-
-<hr class="hr-dotted">
-
-- Ruoqian Wu
-
-<hr class="hr-dotted">
-
-- Yaoyi Xu
-
-<hr class="hr-dotted">
-
-- Hengrui Xu
-
-<hr class="hr-dotted">
-
-- Ruiqiao Jiang
-
-<hr class="hr-dotted">
-
-- Guoyu Wang
-
-<hr class="hr-dotted">
-
-### Week 12
 
 **20/09/2021 - 26/09/2021**
 

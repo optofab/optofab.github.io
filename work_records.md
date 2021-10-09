@@ -722,10 +722,23 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Ruoqian Wu
+  - Attended Sub-team meeting for Audit 2 (0.5h)
+  - Attended tutorial on Wednesday (2h)
+  - Wrote handover documents (1.5h)
+  - Prepared audit slides (3h)
+  - Prepared audit script (3h)
 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
+  - Attended Sub-team meeting for Audit 2 (0.5h)
+  - Attended tutorial on Wednesday (2h)
+  - Wrote handover documents (1h)
+  - Prepared audit slides (3h)
+  - Prepared audit script (3h)
+  - Fixed small bugs (1h)
+  - Updated project status (1h)
+
 
 <hr class="hr-dotted">
 

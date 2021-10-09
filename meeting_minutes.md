@@ -353,14 +353,14 @@ Our team:
 
 **AGENDA**
 
-- Unexpected port issue on the backend of the Customer Portal occured. Need to know the priority. 
+- Unexpected port issue on the backend of the Customer Portal occured. Need to know the priority.
 - Need some feedback from OptoFab regarding the Order Management System handover.
-- Need OptoFab to specify the radius and side length in Customer Portal. 
+- Need OptoFab to specify the radius and side length in Customer Portal.
 
 **DISCUSSIONS**
 
-- The backend of the Customer Portal is having trouble to launch. OptoFab thinks the handover document has higher priority, so the Customer Portal team should start writing the handover document immediately instead of debugging the launching issues. Note that this issue will need to be addressed in the handover document in detail. 
-- Some feedback is provided by OptoFab written [here](https://docs.google.com/document/d/1namlOrbBlDt14Aku9XytsxvnTgsEDM0-UCTflTzBooc/edit?usp=sharing) in red. 
+- The backend of the Customer Portal is having trouble to launch. OptoFab thinks the handover document has higher priority, so the Customer Portal team should start writing the handover document immediately instead of debugging the launching issues. Note that this issue will need to be addressed in the handover document in detail.
+- Some feedback is provided by OptoFab written [here](https://docs.google.com/document/d/1namlOrbBlDt14Aku9XytsxvnTgsEDM0-UCTflTzBooc/edit?usp=sharing) in red.
 - The calculation is provided by OptoFab written [here](https://docs.google.com/document/d/1oUez2r_LzQgDHe2GK7fmn5mw2mV-qYmSr2Vx3SXG72I/edit?usp=sharing).
 
 **ACTION**
@@ -725,7 +725,6 @@ Our team:
 - Ruiqiao: continue working on the back-end of the management system (Agreed by everyone)
 - Ruiqiao: add one column in the decision making log called "catalogue" according to the advice from both the tutor and shadow team. Add the type of decision being made e.g. communication, technical etc.” (Agreed by everyone)
 
-
 #### Meeting 15
 
 | Date       | 27/09/2021                                                       |
@@ -752,7 +751,6 @@ Our team:
 - Phillip: continue working on website css. (Agreed by everyone)
 - Ruoqian & Phillip & Yaoyi & Hengrui: start to write the online order placing web application handover document. (Agreed by everyone)
 - Ruiqiao & Wo : refine the local order management system handover document. (Agreed by everyone)
-
 
 ### Tutorials
 
@@ -973,3 +971,42 @@ The :question: has been crossed out after the discussions with Greg.
 
 5. About handover documents.
    Gregs's suggestions: It's good to write comments in the code for others to understand the logic of the project. But it's no good practice to generate documentation based on the comments automatically like in some Java programs.
+
+#### Week 9
+
+Note: There's no tutorial on week 8.
+
+| Date       | 06/10/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+"
+Our team would like to focus on the followings on this tutorial:
+
+1. How to prepare for Audit 3 next Wednesday?
+   a. Grace, Raymond and I(Phillip) will be in charge of Audit 3 and we’ve discussed via zoom on Monday. We’d like to hear your suggestions as well.
+   b. Any heads-up for the last Audit?
+2. Some technical issues on how to deploy database on a remote server and suggestions on the best practices to build a robust system with both front-end and back-end integrated. For example, how to build a secure database (local one or cloud-based), how to scale up in the future?
+   a. We’ve encountered a series of technical issues on deploying the back-end on the ANU server. Our client suggested that we focus on the handover instead of spending more time solving these issues.
+3. Handover documents drafting and proof-reading. Suggestions on writing a documentation.
+
+"
+
+**DISCUSSIONS & ACTIONS**
+
+1. About preparing for Audit 3, Greg offers the following suggestions:
+   a. The examiner and tutor will "focus on 'what' you have done, not so much on 'how' you did it. For example, we will look at your evidence for how your communication plan helped your team, not what tools you used. We will look at your evidence for good decision making by examining the outcomes."
+   b. Clearly show everything on the landing page, because if it's not there, the tutor and examiner will probably miss them and it's basically not evaluated. "If we can't see it, it's not done. "
+   c. Detailed rubrics on webpage: https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/
+2. About technical issues on deploying our app on the ANU server:
+   a. There will be problem if both front-end and back-end are served on the same server, meaning that if it's hacked, both front-end and back-end files are compromised. Consider move the back-end to another server. Since it's not intended to host large database, a simple Rasberry Pi will likely do the trick.
+   b. Nowadays, cloud services are everywhere, so take advantage of some cloud-based services for integrating the back-end data.
+3. About the copyright issues using the cloud services:
+   a. When you use the cloud services, you keep the copyright of everything you own when you're only renting the cloud infrastructure.
+4. Handover document:
+   a. Team OptoFab will send a copy of the written handover documents (both website portal and database docs) to Greg for proofreading, and Greg will help us improve the documentations from an experienced ICT practitioner's perspective.

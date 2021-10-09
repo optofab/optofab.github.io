@@ -492,7 +492,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended group meeting (0.5h)
   - Modified the relational schema accoridng to client's needs (4.5h)
   - Researched on c# and .NET (2h)
-  - Wrote reflections, work record and meeting minutes (1.5h) 
+  - Wrote reflections, work record and meeting minutes (1.5h)
 
 ### Teaching Break Week 2
 
@@ -625,7 +625,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial (2h)
   - Attended WPP workshop (2h)
   - completed WPP homework (1h)
-  - 
+  -
 
 <hr class="hr-dotted">
 
@@ -663,7 +663,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Wrote comments in code for handover (1.5h)
   - Wrote handover documents for customer portal (3h)
 
-
 <hr class="hr-dotted">
 
 - Yaoyi Xu
@@ -678,7 +677,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Hengrui Xu
 
-  -  
+  -
 
 <hr class="hr-dotted">
 
@@ -708,14 +707,17 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Record the video demo of the Customer Portal (1h)
   - Contribute to the video presentation (2h)
 
-
 <hr class="hr-dotted">
 
 - Tian Wu
 
   - Attending Sub-team meeting for Audit 2 (0.5h)
-  - Fixing styling bugs (1h)
+  - Fixing styling bugs and deployment bugs (1h)
   - Writing handover document (1.5h)
+  - Chatting with shadown team via Zoom (0.75h)
+  - Attending tutorial on Wednesday (2h)
+  - Attending client meeting on Friday (1h)
+  - Preparing the presentation for Audit 3 (TBD)
 
 <hr class="hr-dotted">
 

@@ -37,7 +37,7 @@ tag:
   <tr>
     <td>Tian Wu</td>
     <td>Deputy spokesperson<br>Developer</td>
-    <td>- Communicate with client<br>- Set agenda for weekly tutorial meeting and keep records <br>- Draft keynote presentations (occasionally)<br>- Manage team landing pages and align different platform resources (GitHub pages) <br>- Develop mockups for website application (Figma) <br> - Adjust website stylesheets and layouts (CSS)</td>
+    <td>- Communicate with client<br>- Set agenda for weekly tutorial meeting and keep records <br>- Manage team landing pages and align different platform resources (GitHub pages) <br>- Develop mockups for website application (Figma) <br> - Adjust website stylesheets and layouts (CSS) <br> - Deploy React app to remote server</td>
   </tr>
   <tr>
     <td>Yaoyi Xu</td>
@@ -66,9 +66,7 @@ tag:
   </tr>
 </table>
 
-
 <img src="https://optofab.github.io/images/teamwork.png">
-
 
 ## Member skills/expertise
 
@@ -83,15 +81,18 @@ tag:
 ## Core values
 
 <strong>Responsible</strong><br>
-  - The team makes sure that all tasks are accountable.
-  - The team strives to deliver a product that has true value for the clients.
+
+- The team makes sure that all tasks are accountable.
+- The team strives to deliver a product that has true value for the clients.
 
 <strong>Punctual</strong><br>
-  - The team aims to deliver product on time.
+
+- The team aims to deliver product on time.
 
 <strong>Respectful</strong><br>
-  - The team promises to respect different opinions and considers all opinions valuable.
-  - The team promises to respect all stakeholders involved in this project.
+
+- The team promises to respect different opinions and considers all opinions valuable.
+- The team promises to respect all stakeholders involved in this project.
 
 ## Communication Plan
 

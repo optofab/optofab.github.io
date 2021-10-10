@@ -686,6 +686,10 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
+  - Attended group meeting (0.5h)
+  - Attended WPP workshop (2h)
+  - Worked on WPP task 3 (1h)
+  - Wrote handover documents for customer portal (3h)
 
 <hr class="hr-dotted">
 
@@ -760,6 +764,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
+  - Attended tutorial (2h)
+  - Communicated with video team and edited video (8h)
+  - Fixed bugs of custom portal (1h)
+  - Communicated with video team and edited video (2h)
+
 
 <hr class="hr-dotted">
 

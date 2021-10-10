@@ -800,6 +800,27 @@ Our team:
 
 - All: prepare for the presentation
 
+### Meeting 17
+
+| Date       | 09/10/2021                                                        |
+| ---------- | ----------------------------------------------------------------- |
+| Time       | 8:00pm - 8:30pm                                                   |
+| Attendance | Wo Tian, Ruiqiao Jiang, Ruoqian Wu,Yaoyi Xu, Hengrui Xu, Wu Tian  |
+
+**AGENDA**
+
+- Discuss about the next audit
+- Make a summary of what progress we made this semester
+
+**DISCUSSIONS**
+
+- The team discussed the skills to be needed for the future team, for example, C#, PHP, React and so on.
+
+**ACTION**
+
+- WO : send email to Greg
+- Other members in the group : prepare for the final Audit.
+
 ### Tutorials
 
 #### Week 2

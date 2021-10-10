@@ -724,7 +724,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Tian Wu
 
-  - Attending Sub-team meeting for Audit 2 (0.5h)
+  - Attending Sub-team meeting for Audit 3 (0.5h)
   - Fixing styling bugs and deployment bugs (1h)
   - Writing handover document (1.5h)
   - Chatting with shadown team via Zoom (0.75h)
@@ -735,7 +735,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Ruoqian Wu
-  - Attended Sub-team meeting for Audit 2 (0.5h)
+  - Attended Sub-team meeting for Audit 3 (0.5h)
   - Attended tutorial on Wednesday (2h)
   - Wrote handover documents (1.5h)
   - Prepared audit slides (3h)
@@ -744,7 +744,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 <hr class="hr-dotted">
 
 - Yaoyi Xu
-  - Attended Sub-team meeting for Audit 2 (0.5h)
+  - Attended Sub-team meeting for Audit 3 (0.5h)
   - Attended tutorial on Wednesday (2h)
   - Wrote handover documents (1h)
   - Prepared audit slides (3h)
@@ -771,7 +771,11 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 <hr class="hr-dotted">
 
-- Guoyu Wang
+- Guoyu Wang 
+  - Attended tutorial (2h)
+  - Looked on background music for showcase video (2h)
+  - Communicate with video team (2h)
+  - Created powerpoints and shoot video (4h)
 
 <hr class="hr-dotted">
 

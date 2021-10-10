@@ -388,7 +388,7 @@ Our team:
 
 - Considering the unpredictable responding time of the CSIT department, OptoFab staff want to be added to the list of admins on the ANU server for the Customer Portal. The instruction for OptoFab staff to add users (future TechLauncher team members) to the server admin list should be added in the Customer Portal handover document in detail.
 - OptoFab staff think it's better if our team could give some advice on recruiting new team members for the next stage, especially regarding technology stack.
-- No input from our client on the video. All good. 
+- No input from our client on the video. All good.
 - Johannes and Deon will be able to come to our Audit 3.
 
 **ACTION**
@@ -782,9 +782,9 @@ Our team:
 
 ### Meeting 16
 
-| Date       | 04/10/2021                                                    |
-| ---------- | ------------------------------------------------------------- |
-| Time       | 8:00pm - 8:30pm                                               |
+| Date       | 04/10/2021                    |
+| ---------- | ----------------------------- |
+| Time       | 8:00pm - 8:30pm               |
 | Attendance | Ruoqian Wu, Yaoyi Xu, Tian Wu |
 
 **AGENDA**
@@ -1033,39 +1033,45 @@ Note: There's no tutorial on week 8.
 
 The content of agenda is from the email sent to our tutor and shadow team:
 
-"
-Our team would like to focus on the followings on this tutorial:
-
-1. How to prepare for Audit 3 next Wednesday?
-   a. Grace, Raymond and I(Phillip) will be in charge of Audit 3 and we’ve discussed via zoom on Monday. We’d like to hear your suggestions as well.
-   b. Any heads-up for the last Audit?
-2. Some technical issues on how to deploy database on a remote server and suggestions on the best practices to build a robust system with both front-end and back-end integrated. For example, how to build a secure database (local one or cloud-based), how to scale up in the future?
-   a. We’ve encountered a series of technical issues on deploying the back-end on the ANU server. Our client suggested that we focus on the handover instead of spending more time solving these issues.
-3. Handover documents drafting and proof-reading. Suggestions on writing a documentation.
-
-"
+> Our team would like to focus on the followings on this tutorial:
+>
+> 1. How to prepare for Audit 3 next Wednesday?
+>    a. Grace, Raymond and I(Phillip) will be in charge of Audit 3 and we’ve discussed via zoom on Monday. We’d like to hear your suggestions as well.
+>    b. Any heads-up for the last Audit?
+> 2. Some technical issues on how to deploy database on a remote server and suggestions on the best practices to build a robust system with both front-end and back-end integrated. For example, how to build a secure database (local one or cloud-based), how to scale up in the future?
+>    a. We’ve encountered a series of technical issues on deploying the back-end on the ANU server. Our client suggested that we focus on the handover instead of spending more time solving these issues.
+> 3. Handover documents drafting and proof-reading. Suggestions on writing a documentation.
 
 **DISCUSSIONS & ACTIONS**
 
 1. About preparing for Audit 3, Greg offers the following suggestions:
+
    a. The examiner and tutor will "focus on 'what' you have done, not so much on 'how' you did it. For example, we will look at your evidence for how your communication plan helped your team, not what tools you used. We will look at your evidence for good decision making by examining the outcomes."
+
    b. Clearly show everything on the landing page, because if it's not there, the tutor and examiner will probably miss them and it's basically not evaluated. "If we can't see it, it's not done. "
-   c. Detailed rubrics on webpage: https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/
+   c. Detailed rubrics on webpage: <https://cs.anu.edu.au/TechLauncher/current_students/evaluation/project_audits/>
+
 2. About technical issues on deploying our app on the ANU server:
+
    a. There will be problem if both front-end and back-end are served on the same server, meaning that if it's hacked, both front-end and back-end files are compromised. Consider move the back-end to another server. Since it's not intended to host large database, a simple Rasberry Pi will likely do the trick.
+
    b. Nowadays, cloud services are everywhere, so take advantage of some cloud-based services for integrating the back-end data.
+
 3. About the copyright issues using the cloud services:
+
    a. When you use the cloud services, you keep the copyright of everything you own when you're only renting the cloud infrastructure.
+
 4. Handover document:
+
    a. Team OptoFab will send a copy of the written handover documents (both website portal and database docs) to Greg for proofreading, and Greg will help us improve the documentations from an experienced ICT practitioner's perspective.
 
 ### Shadow team Meetings
 
 #### Meeting 1
 
-| Date       | 05/10/2021                                                                    |
-| ---------- | ----------------------------------------------------------------------------- |
-| Time       | 8:00pm - 8:40pm                                                              |
+| Date       | 05/10/2021                                                    |
+| ---------- | ------------------------------------------------------------- |
+| Time       | 8:00pm - 8:40pm                                               |
 | Attendance | Wo Tian, Tian Wu, Shawn Ng, Jonathan Ventigan, Muhammad Haris |
 
 **AGENDA**
@@ -1074,7 +1080,4 @@ Our team would like to focus on the followings on this tutorial:
 
 **DISCUSSIONS**
 
-- A general conversation regarding our schedule, commitments in SOW and the progress now, the status of our handover documents, preparation for Audit 3... They've learnt that we started this project from scratch. We've learnt that they started having meetings for this project in the winter vacation before S2 and they have done the product backlog at the beginning of this semester. We are impressed and think we can do the product backlog in the future since it might not be as time-consuming as we thought after all. We've also learnt that they were only designing the project for two semesters, and just started coding this semester(the third semester), which is different from what we have and we have different thoughts on how we think about this. 
-
-
-
+- A general conversation regarding our schedule, commitments in SOW and the progress now, the status of our handover documents, preparation for Audit 3... They've learnt that we started this project from scratch. We've learnt that they started having meetings for this project in the winter vacation before S2 and they have done the product backlog at the beginning of this semester. We are impressed and think we can do the product backlog in the future since it might not be as time-consuming as we thought after all. We've also learnt that they were only designing the project for two semesters, and just started coding this semester(the third semester), which is different from what we have and we have different thoughts on how we think about this.

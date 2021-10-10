@@ -732,7 +732,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial on Wednesday (2h)
   - Wrote handover documents (1.5h)
   - Prepared audit slides (3h)
-  - Prepared audit script (3h)
+  - Prepared audit script (5h)
 
 <hr class="hr-dotted">
 
@@ -741,7 +741,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial on Wednesday (2h)
   - Wrote handover documents (1h)
   - Prepared audit slides (3h)
-  - Prepared audit script (3h)
+  - Prepared audit script (5h)
   - Fixed small bugs (1h)
   - Updated project status (1h)
 

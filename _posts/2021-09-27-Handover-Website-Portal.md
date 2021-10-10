@@ -156,7 +156,20 @@ The front-end has been deployed to `https://tl20212.cecs.anu.edu.au`.
 
 #### `SSH` to ANU Server
 
-First, you need to be added to the sudo user group by a member already in that group. If you are the first one in your team to do so, please contact [us](mailto:tian.wu@anu.edu.au?cc=hengrui.xu@anu.edu.au) for details.
+Note: you need to be added to the sudo user group by a member already in that group. If you are the first one in your team to do so, please contact [us](mailto:tian.wu@anu.edu.au?cc=hengrui.xu@anu.edu.au) for details. All commands are in terminal from a Linux machine or a Mac (Windows users can set it up using putty client, please google it.)
+
+In the following steps, assume you have already had access to the ANU server (tl20212.cecs.anu.edu.au) with a uid of u1234567, and you want to add a new user (ANU student) with a uid of u7654321 to the server.
+
+1. If you are not on campus, you have to use the GlobalConnect to access campus services for remote access service. GlobalConnect can be downloaded here: https://services.anu.edu.au/information-technology/login-access/remote-access for ANU staff and students.
+2. If you are on campus or have connected through the GlobalConnect, then use the command `ssh -i path/to/private-key-file username@tl20212.cecs.anu.edu.au` to connect to the ANU server (e.g. `ssh -i ~/.ssh/id_rsa_my_private_key u1234567@anu.edu.au`).
+3. After login, use `sudo mkdir -p /home/users/u7654321/.ssh` to make a directory for the ANU student. When asked to enter the password, it's the same you use to login to ISIS/wattle.
+4. Add the new user u7654321 using `sudo adduser u7654321`. Also grant him/her sudo access and add him/her to the sudo group using: `sudo usermod -aG sudo,users,tl20212-users u7654321`.
+5. Ask the ANU student to generate a public/private key pair on his own computer. For example, in the terminal, use the command `ssh-keygen -f path/to/file/you/wanna/save/the/key -C "comment|youremail"`, e.g. `ssh-keygen -f ~/.ssh/techlauncher-key -C "u7654321@anu.edu.au"`, which means you'll generate a public/private key pairs (named techlauncher-key.pub and techlauncher-key respectively in directory ~/.ssh) with default rsa encryption alogrithm, and appending a comment of your email in the end. Ask the ANU student to send the public key (the file in path ~/.ssh/techlauncher-key.pub) to you via a _secure_ channel.
+6. After obtaining the public key and save it to your local machine in `~/desktop/techlauncher-key.pub`, you have to copy it to the directory just created for him/her on the remote server (i.e. /home/users/u7654321/.ssh).
+   1. On you local computer, open up a new terminal window and use `scp -i ~/.ssh/id_rsa_my_private_key ~/desktop/techlauncher-key.pub u1234567@tl20212.cecs.anu.edu.au:/home/users/u1234567/` which means you use the scp command to copy the public key to the folder of your own in the remote server with authentication of your own ssh private key file.
+   2. Then you have to move this file to the student's .ssh folder on the remote server and rename it as 'authorized_keys'. On the previous termianl window connecting to the ANU server: `sudo mv /home/users/u1234567/techlauncher-key.pub /home/users/u7654321/.ssh/authorized_keys`.
+7. You and your mate are all set to login to the ANU server! Your mate and login to tl20212.cecs.anu.edu.au in his local terminal using `ssh -i path/to/private-key-file u7654321@tl20212.cecs.anu.edu.au`. Recursively add anyone you trust to the ANU server starting from step 1. (Alternatively: use `ssh u7654321@tl20212.cecs.anu.edu.au` and then enter your ISIS/wattle password to connect to the server.)
+8. If you come across any problems, please contact us via email: tian.wu@anu.edu.au or hengrui.xu@anu.edu.au.
 
 #### `HTTP` to `HTTPS`
 

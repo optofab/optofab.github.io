@@ -625,7 +625,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Attended tutorial (2h)
   - Attended WPP workshop (2h)
   - completed WPP homework (1h)
-  -
 
 <hr class="hr-dotted">
 

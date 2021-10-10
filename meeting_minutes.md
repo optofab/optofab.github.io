@@ -1065,19 +1065,16 @@ Our team would like to focus on the followings on this tutorial:
 
 | Date       | 05/10/2021                                                                    |
 | ---------- | ----------------------------------------------------------------------------- |
-| Time       | 8:00pm - 9:00pm                                                              |
-| Attendance | Wo Tian, Tian Wu |
+| Time       | 8:00pm - 8:40pm                                                              |
+| Attendance | Wo Tian, Tian Wu, Shawn Ng, Jonathan Ventigan, Muhammad Haris |
 
 **AGENDA**
 
-- 
+- Get to know each other more and ask questions that were not asked on tutorials or audits due to the limited time frame.
 
 **DISCUSSIONS**
 
-- 
+- A general conversation regarding our schedule, commitments in SOW and the progress now, the status of our handover documents, preparation for Audit 3... They've learnt that we started this project from scratch. We've learnt that they started having meetings for this project in the winter vacation before S2 and they have done the product backlog at the beginning of this semester. We are impressed and think we can do the product backlog in the future since it might not be as time-consuming as we thought after all. We've also learnt that they were only designing the project for two semesters, and just started coding this semester(the third semester), which is different from what we have and we have different thoughts on how we think about this. 
 
-**ACTION**
-
-- 
 
 

@@ -699,13 +699,19 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 **20/09/2021 - 26/09/2021**
 
 - Wo Tian
-  - Attend the shadow team meeting (0.75h)
+  - Attend the shadow team meeting and our team meeting( 0.75h + 0.5h)
+  - Take meeting minutes for the shadow team meeting and our team meeting (0.75h)
   - Edit Order Management System Technical Handover document (0.5h)
-  - Update JSON file in order to correspond to the Order Management System (0.25h)
+  - Write an [overall handover document](https://docs.google.com/document/d/1T_nnt0pac7GhDU7R9k54L570RrhmpGBRuFO-HCZlofQ/edit?usp=sharing) for all 3 of the handover documents, including the recommendation for recruiting new members (1h)
+  - Update JSON file in order to correspond to the Order Management System (0.25h) 
+  - Add comments to the code repo (0.25h)
   - Attend tutorial (2h)
   - Edit the script according to Greg's suggestion and redo the voice narration for the video (1.5h)
   - Record the video demo of the Customer Portal (1h)
   - Contribute to the video presentation (2h)
+  - Submit video, including writing the project description and team biography along with the vidoe (1h)
+  - Update work records, reflection log, deicision-making log, readme.md of the git repo of our landing page (0.75h)
+  - General communication with our client, tutor, team members, and RSPhy (1h)
 
 <hr class="hr-dotted">
 

@@ -764,7 +764,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
   - Attended tutorial (2h)
-  - Communicated with video team and edited video (8h)
   - Fixed bugs of custom portal (1h)
   - Communicated with video team and edited video (2h)
 

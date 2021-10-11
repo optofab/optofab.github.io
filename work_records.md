@@ -681,7 +681,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Worked on WPP task 3 (1h)
   - Wrote handover documents for customer portal (3h)
   - Wrote handover documents for customer portal (1h)
-  
+
 <hr class="hr-dotted">
 
 - Ruiqiao Jiang
@@ -710,7 +710,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Take meeting minutes for the shadow team meeting and our team meeting (0.75h)
   - Edit Order Management System Technical Handover document (0.5h)
   - Write an [overall handover document](https://docs.google.com/document/d/1T_nnt0pac7GhDU7R9k54L570RrhmpGBRuFO-HCZlofQ/edit?usp=sharing) for all 3 of the handover documents, including the recommendation for recruiting new members (1h)
-  - Update JSON file in order to correspond to the Order Management System (0.25h) 
+  - Update JSON file in order to correspond to the Order Management System (0.25h)
   - Add comments to the code repo (0.25h)
   - Attend tutorial (2h)
   - Edit the script according to Greg's suggestion and redo the voice narration for the video (1.5h)
@@ -730,7 +730,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Chatting with shadown team via Zoom (0.75h)
   - Attending tutorial on Wednesday (2h)
   - Attending client meeting on Friday (1h)
-  - Preparing the presentation for Audit 3 (TBD)
+  - Preparing the presentation for Audit 3 (5.5h)
 
 <hr class="hr-dotted">
 
@@ -752,7 +752,6 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Fixed small bugs (1h)
   - Updated project status (1h)
 
-
 <hr class="hr-dotted">
 
 - Hengrui Xu
@@ -767,10 +766,9 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Fixed bugs of custom portal (1h)
   - Communicated with video team and edited video (2h)
 
-
 <hr class="hr-dotted">
 
-- Guoyu Wang 
+- Guoyu Wang
   - Attended tutorial (2h)
   - Looked on background music for showcase video (2h)
   - Communicate with video team (2h)

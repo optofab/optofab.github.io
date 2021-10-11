@@ -716,7 +716,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
   - Edit the script according to Greg's suggestion and redo the voice narration for the video (1.5h)
   - Record the video demo of the Customer Portal (1h)
   - Contribute to the video presentation (2h)
-  - Submit video, including writing the project description and team biography along with the vidoe (1h)
+  - Submit video, including writing the project description and team biography along with the video (1h)
   - Update work records, reflection log, deicision-making log, readme.md of the git repo of our landing page (0.75h)
   - General communication with our client, tutor, team members, and RSPhy (1h)
 

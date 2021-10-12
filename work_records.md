@@ -703,7 +703,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 ### Week 9
 
-**20/09/2021 - 26/09/2021**
+**04/10/2021 - 11/10/2021**
 
 - Wo Tian
   - Attend the shadow team meeting and our team meeting( 0.75h + 0.5h)
@@ -763,7 +763,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 - Ruiqiao Jiang
   - Attended tutorial (2h)
-  - Fixed bugs of custom portal (1h)
+  - Refined the handover document. (1h)
   - Communicated with video team and edited video (2h)
 
 <hr class="hr-dotted">
@@ -778,7 +778,7 @@ _[Don't forget to add hours for each of the work you've done. This line will be 
 
 ### Week 10
 
-**20/09/2021 - 26/09/2021**
+**11/10/2021 - 17/10/2021**
 
 - Wo Tian
 

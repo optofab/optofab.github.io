@@ -399,6 +399,26 @@ Our team:
 2. Write an instruction for OptoFab staff to add users (future TechLauncher team members) to the server admin list in the Customer Portal handover document.
 3. Write some advice on recruiting new team members for the next stage, especially regarding technology stack.
 
+#### Meeting 14
+
+| Date       | 11/10/2021                                                                            |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Time       | 1:30pm - 2:30pm                                                                       |
+| Attendance | Wo Tian, Phillip Wu, Ruoqian Wu, Yaoyi Xu, Guoyu Wang, Deon Hickey, Johannes Eichholz, Sukanta Debbarma, Stephen Madden |
+
+**AGENDA**
+
+- Need to discuss the email sent by Martin from RSPhy several hours ago
+
+**DISCUSSIONS**
+
+- Martin refused to take responsibility for the Customer Portal in the email. It is understandable since what we have made is not perfect and there are definitely aspects that the next TechLancher team can improve. Cyber security can be one of the major issues that the next team can work out with Martin. To fix this, they need to negotiate with Martin regarding storing the information, for instance, in a Google or Amazon supported environment, and make sure that he approves. After a series of alternative proposals, OptoFab has decided that after Audit 3, we need to replace all "Upload files" buttons with a pop-up alert box displaying "This function is not supported at the moment, please send the corresponding documents via email".
+
+**ACTION**
+
+Adjust the functionality for "Upload" bottons as discussed above.
+
+
 ### Group Meetings
 
 #### Meeting 1

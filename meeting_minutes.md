@@ -1106,6 +1106,66 @@ The content of agenda is from the email sent to our tutor and shadow team:
 
    a. Team OptoFab will send a copy of the written handover documents (both website portal and database docs) to Greg for proofreading, and Greg will help us improve the documentations from an experienced ICT practitioner's perspective.
 
+#### Week 10
+
+| Date       | 13/10/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+Audit 3.
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+This week our team will present our final audit of our project. The presentation focuses on three main components:
+
+1. Introduction: What does our client want?
+2. Output: What have we been building and what is the result?
+3. Workflow: How do we push our project forward during this semester?
+
+Here is our draft presentation in a short video demo if you wanna have a sneak peek! (Video length: 2’55’')
+https://www.canva.com/design/DAEsmryyAic/phtmWd-TUyhkGEY4pVkKYA/watch?utm_content=DAEsmryyAic&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+**DISCUSSIONS & ACTIONS**
+
+First, our team presented the audit 3, then course convener, examiner and our tutor asked us some questions about our project. 
+
+#### Week 11
+
+| Date       | 20/10/2021                                                                              |
+| ---------- | --------------------------------------------------------------------------------------- |
+| Time       | 5:00pm - 7:00pm                                                                         |
+| Attendance | Greg Bek, Wo Tian, Tian Wu, Hengrui Xu, Ruiqiao Jiang, Guoyu Wang, Yaoyi Xu, Ruoqian Wu |
+
+**AGENDA**
+
+The content of agenda is from the email sent to our tutor and shadow team:
+
+1. Preparations for the WPP.
+
+a. How important is the referee section in our resume?
+
+b. Is the statement addressing the selection criteria always required when we apply for a job for real? (https://cs.anu.edu.au/TechLauncher/current_students/evaluation/work_portfolio_package/#requirements)
+
+2. Retrospectives for Audit 3 (https://optofab.github.io/retrospectives/2021-10-19-Retrospective-Audit-3-Semester2/)
+
+3. Suggestions on our handover documents
+
+**DISCUSSIONS & ACTIONS**
+
+1. Preparations for the WPP: 
+   1. Referee: to be discussed in next tutorial.
+   2. Selection criteria: Use "STAR" structure to address the each of the selection criteria in the job ad. Preferably write 500 words to explain it in detail. 
+   3. Role of Cover Letter: Convince the HR to read your CV, and selection criteria.
+
+2. We've discussed some of the feedback with Greg. For example, for a more detailed and clearer decision making log, it's better to categorize different sections into different pages.
+
+3. We'll discuss the handover documents in next week's tutorial.
+
+4. For integration, start from a small prototype to demostrate the key functonality/component. Test it early.
+
 ### Shadow team Meetings
 
 #### Meeting 1
